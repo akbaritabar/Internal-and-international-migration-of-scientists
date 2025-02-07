@@ -30,6 +30,23 @@ For the reproducible pipeline to recreate the data and migration measures, you n
 
 An HTML report shows the a directed acyclic graph (DAG) shows the dependency of the steps in the pipeline (rules in SnakeMake lingua). Please note that some of these rules require Scopus data at the individual level which is licensed and we cannot share them publicly. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis are included in this repository which completely complies with the license terms of the data provider. 
 
+```yml
+- python 3.*
+- os
+- pandas
+- plotnine
+- argparse
+- geopandas
+- numpy
+- logging
+- mizani #(is installed with plotnine)
+- duckdb
+- tabulate
+- pip:
+  - pycountry_convert #(from Pypi)
+
+```
+
 
 ## R packages
 
