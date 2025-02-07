@@ -1,0 +1,10 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+
+!naturalearth_lowres.cpg
+!naturalearth_lowres.dbf
+!naturalearth_lowres.prj
+!naturalearth_lowres.shp
+!naturalearth_lowres.shx

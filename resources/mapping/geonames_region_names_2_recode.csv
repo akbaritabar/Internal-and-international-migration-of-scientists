@@ -1,0 +1,1931 @@
+row_number,geonames_admin1_code,geonames_admin1_ascii_name
+63,CN.01,Anhui
+65,US.CA,California
+67,US.MI,Michigan
+69,CN.22,Beijing
+73,NL.03,Gelderland
+74,NL.09,Utrecht
+212,CN.07,Fujian
+320,FR.52,Pays de la Loire
+321,FR.11,Ile-de-France
+325,CA.08,Ontario
+332,US.MA,Massachusetts
+334,US.NY,New York
+336,ES.29,Madrid
+351,JP.13,Hyogo
+361,DE.16,Berlin
+362,GR.ESYE31,Attica
+363,NZ.F3,Manawatu-Wanganui
+364,TH.40,Bangkok
+366,PL.74,Lodz Voivodeship
+367,TH.39,Pathum Thani
+368,BR.15,Minas Gerais
+369,ES.56,Catalonia
+370,FR.28,Normandy
+374,FR.24,Centre
+377,IN.25,Tamil Nadu
+378,IN.40,Telangana
+379,HK.HCW,Central and Western
+380,RO.36,Timis
+432,FR.84,Auvergne-Rhone-Alpes
+437,GB.ENG,England
+439,US.NJ,New Jersey
+443,TR.34,Istanbul
+444,IN.22,Puducherry
+447,US.DC,"Washington, D.C."
+448,CM.08,West
+455,ES.32,Navarre
+456,NL.06,North Brabant
+457,ES.58,Galicia
+458,EG.08,Giza
+460,SA.11,'Asir
+461,DE.06,Lower Saxony
+464,US.VA,Virginia
+466,GB.WLS,Wales
+469,GB.SCT,Scotland
+470,US.MO,Missouri
+472,JP.40,Tokyo
+473,IN.19,Karnataka
+477,IL.02,Central District
+478,US.AL,Alabama
+479,US.WV,West Virginia
+480,US.CT,Connecticut
+481,BR.23,Rio Grande do Sul
+482,US.TX,Texas
+483,DK.17,Capital Region
+484,CR.08,San Jose
+485,NL.07,North Holland
+489,CH.ZH,Zurich
+490,ES.53,Canary Islands
+494,US.IL,Illinois
+495,DE.01,Baden-Wuerttemberg
+496,CH.SG,Saint Gallen
+497,CH.VD,Vaud
+498,IT.04,Campania
+499,ID.30,West Java
+519,IT.18,Umbria
+520,IT.05,Emilia-Romagna
+558,CN.02,Zhejiang
+559,BE.VLG,Flanders
+560,IL.06,Jerusalem
+561,CZ.52,Hlavni mesto Praha
+564,US.PA,Pennsylvania
+567,IN.33,Goa
+569,JP.10,Gunma
+570,US.GA,Georgia
+571,AU.08,Western Australia
+574,AU.07,Victoria
+575,RU.13,Chelyabinsk
+577,NL.15,Overijssel
+578,DE.07,North Rhine-Westphalia
+580,NZ.G2,Wellington
+583,TR.68,Ankara
+584,BE.BRU,Brussels Capital
+585,IT.09,Lombardy
+586,QA.01,Baladiyat ad Dawhah
+587,DK.21,South Denmark
+588,RU.20,Irkutsk Oblast
+589,IT.07,Latium
+593,IN.07,Delhi
+595,DE.15,Thuringia
+599,BR.18,Parana
+651,GR.ESYE21,Epirus
+652,JP.34,Saitama
+653,AR.17,Salta
+654,BR.27,Sao Paulo
+656,CN.26,Shaanxi
+658,UA.15,Lviv
+659,FR.93,Provence-Alpes-Cote d'Azur
+662,FI.01,Uusimaa
+663,PG.20,National Capital
+664,AU.02,New South Wales
+665,AU.01,ACT
+673,AT.09,Vienna
+674,BD.81,Dhaka
+689,SA.13,Hai'l Region
+701,JP.07,Fukuoka
+702,AR.01,Buenos Aires
+723,CZ.78,South Moravian
+725,RU.54,Omsk
+740,NL.04,Groningen
+741,JP.28,Nara
+745,AM.11,Yerevan
+764,RO.10,Bucuresti
+766,RU.48,Moscow
+767,AR.05,Cordoba
+768,IR.26,Tehran
+770,MY.14,Kuala Lumpur
+771,US.MD,Maryland
+773,IL.05,Tel Aviv
+774,US.IN,Indiana
+777,GR.ESYE14,Thessaly
+779,IN.16,Maharashtra
+781,IT.03,Calabria
+783,TR.44,Malatya
+784,DE.02,Bavaria
+788,IR.32,Ardabil
+790,IL.04,Haifa
+791,TZ.06,Kilimanjaro
+795,US.KS,Kansas
+797,DE.04,Hamburg
+798,PL.85,Warmia-Masuria
+803,TR.81,Adana
+805,TH.02,Chiang Mai
+807,RU.90,Perm
+811,IN.05,Chandigarh
+814,NL.11,South Holland
+816,CU.16,Villa Clara
+818,PL.86,Greater Poland
+819,US.LA,Louisiana
+823,US.AZ,Arizona
+826,RU.73,Tatarstan Republic
+827,CA.01,Alberta
+829,MX.09,Mexico City
+831,AR.07,Buenos Aires F.D.
+832,US.KY,Kentucky
+833,US.TN,Tennessee
+836,US.HI,Hawaii
+839,SE.28,Vaestra Goetaland
+841,JP.39,Tokushima
+843,NG.05,Lagos
+844,MY.12,Selangor
+845,IT.16,Tuscany
+854,DE.05,Hesse
+865,AE.01,Abu Dhabi
+875,US.SC,South Carolina
+876,US.WA,Washington
+878,FR.53,Brittany
+887,ES.60,Valencia
+888,FR.75,Nouvelle-Aquitaine
+890,NL.05,Limburg
+893,TH.68,Songkhla
+906,DE.14,Saxony-Anhalt
+908,US.CO,Colorado
+914,KR.18,Gwangju
+950,DE.13,Saxony
+951,US.NC,North Carolina
+952,SA.10,Ar Riyad
+1040,FR.76,Occitanie
+1056,NO.12,Oslo
+1059,PL.82,Pomerania
+1060,US.AK,Alaska
+1069,ES.51,Andalusia
+1070,LB.04,Beyrouth
+1089,CN.11,Hunan
+1090,CL.03,Antofagasta
+1091,CL.06,Biobio
+1092,FI.11,Northern Savonia
+1093,AR.21,Santa Fe
+1100,BY.04,Minsk City
+1103,UA.23,Vinnyts'ka
+1107,US.WI,Wisconsin
+1108,CL.12,Santiago Metropolitan
+1122,CN.05,Jilin
+1132,ES.55,Castille and Leon
+1136,NG.37,Edo
+1139,TR.45,Manisa
+1144,CN.25,Shandong
+1182,JP.02,Akita
+1188,CA.10,Quebec
+1193,CN.06,Qinghai
+1194,IL.01,Southern District
+1196,SK.02,Bratislavsky kraj
+1197,SE.21,Uppsala
+1198,JP.19,Kanagawa
+1201,SE.16,OEstergoetland
+1205,TR.35,Izmir
+1220,UA.12,Kyiv City
+1228,CN.30,Guangdong
+1229,IN.17,Manipur
+1232,CH.BE,Bern
+1233,DE.09,Saarland
+1242,ES.57,Extremadura
+1244,RU.08,Bashkortostan Republic
+1251,UZ.13,Toshkent Shahri
+1255,CA.02,British Columbia
+1258,SK.03,Kosicky kraj
+1260,CN.04,Jiangsu
+1266,MY.01,Johor
+1267,CN.23,Shanghai
+1269,GE.51,T'bilisi
+1271,IT.06,Friuli Venezia Giulia
+1276,RU.53,Novosibirsk Oblast
+1279,BE.WAL,Wallonia
+1287,US.AR,Arkansas
+1288,RU.66,St.-Petersburg
+1352,NA.21,Khomas
+1353,TR.03,Afyonkarahisar
+1357,IE.L,Leinster
+1358,JP.22,Kyoto
+1364,PL.77,Lesser Poland
+1366,ES.59,Basque Country
+1368,ID.04,Jakarta
+1371,BR.16,Para
+1372,JP.01,Aichi
+1377,ZA.11,Western Cape
+1409,DE.10,Schleswig-Holstein
+1412,CH.GE,Geneva
+1413,PL.83,Silesia
+1429,CN.28,Tianjin
+1433,NG.50,Rivers
+1451,CO.34,Bogota D.C.
+1454,CO.35,Bolivar
+1462,CL.01,Valparaiso
+1464,ZA.02,KwaZulu-Natal
+1467,GR.ESYE23,West Greece
+1468,NG.47,Enugu
+1469,JP.38,Tochigi
+1472,IT.12,Piedmont
+1475,BR.21,Rio de Janeiro
+1480,ES.31,Murcia
+1483,TR.79,Kirikkale
+1486,GR.ESYE12,Central Macedonia
+1488,TN.28,Madanin
+1495,CZ.85,Moravskoslezsky
+1505,RU.47,Moscow Oblast
+1522,AT.07,Tyrol
+1523,ZA.06,Gauteng
+1524,HR.21,City of Zagreb
+1526,NO.14,Rogaland
+1535,JP.32,Osaka
+1554,AT.04,Upper Austria
+1567,JP.31,Okayama
+1568,CN.12,Hubei
+1570,DE.03,Bremen
+1574,US.RI,Rhode Island
+1586,MX.22,Queretaro
+1587,VE.23,Zulia
+1598,JO.09,Karak
+1600,FR.32,Hauts-de-France
+1604,KW.02,Al Asimah
+1615,FI.02,Southwest Finland
+1677,BI.24,Bujumbura Mairie
+1695,BR.07,Federal District
+1708,OM.06,Muscat
+1740,KR.01,Jeju-do
+1741,US.FL,Florida
+1763,BG.42,Sofia-Capital
+1846,JP.45,Yamaguchi
+1851,SE.26,Stockholm
+1857,LT.65,Vilnius
+1858,US.OH,Ohio
+1861,GB.NIR,Northern Ireland
+1894,RO.13,Cluj
+1895,CI.93,Abidjan
+1896,PL.78,Mazovia
+1909,MX.26,Sonora
+1915,UG.W,Western Region
+1921,PT.02,Aveiro
+1923,BG.51,Plovdiv
+1924,IT.20,Veneto
+1925,IT.10,The Marches
+1945,BR.30,Pernambuco
+1946,FI.17,Northern Ostrobothnia
+1947,ES.07,Balearic Islands
+1950,MY.07,Perak
+2010,GA.01,Estuaire
+2036,BR.11,Mato Grosso do Sul
+2041,IT.13,Apulia
+2045,EC.01,Galapagos
+2058,RU.91,Krasnoyarskiy
+2076,NO.21,Trondelag
+2087,CZ.84,Olomoucky
+2095,US.OR,Oregon
+2124,US.NE,Nebraska
+2129,TR.20,Denizli
+2186,US.IA,Iowa
+2188,AR.24,Tucuman
+2212,SN.01,Dakar
+2225,MY.03,Kelantan
+2226,US.VT,Vermont
+2262,MX.02,Baja California
+2268,US.NM,New Mexico
+2271,MX.21,Puebla
+2286,TR.14,Bolu
+2287,US.DE,Delaware
+2289,IN.35,Madhya Pradesh
+2307,PH.NCR,Metro Manila
+2312,AT.06,Styria
+2313,SE.23,Vaesterbotten
+2347,US.ME,Maine
+2349,CN.24,Shanxi
+2356,FI.06,Pirkanmaa
+2364,MG.11,Analamanga
+2379,ME.16,Podgorica
+2380,DE.08,Rheinland-Pfalz
+2411,JP.12,Hokkaido
+2421,CU.02,Havana
+2440,MA.06,Casablanca-Settat
+2443,ES.54,Castille-La Mancha
+2446,HU.06,Csongrad
+2460,IR.08,Gilan
+2471,RU.61,Rostov
+2477,HU.16,Pest
+2480,IN.12,Jammu and Kashmir
+2502,FI.13,Central Finland
+2513,DZ.01,Algiers
+2531,RS.SE,Central Serbia
+2536,IR.33,East Azerbaijan
+2541,SV.10,San Salvador
+2549,CM.09,South-West
+2556,US.MS,Mississippi
+2557,PL.72,Lower Silesia
+2559,AU.06,Tasmania
+2561,PT.17,Porto
+2574,ES.52,Aragon
+2577,KR.19,Daejeon
+2585,SE.27,Skane
+2589,MA.04,Rabat-Sale-Kenitra
+2608,UA.07,Kharkiv
+2616,TJ.04,Dushanbe
+2624,NO.07,Hordaland
+2644,TR.58,Sivas
+2665,BR.29,Goias
+2669,US.MN,Minnesota
+2684,MA.09,Souss-Massa
+2690,AZ.09,Baki
+2696,DE.12,Mecklenburg-Vorpommern
+2697,US.UT,Utah
+2699,GR.ESYE11,East Macedonia and Thrace
+2730,ES.39,Cantabria
+2732,AT.05,Salzburg
+2738,SA.14,Makkah
+2739,PT.14,Lisbon
+2740,CH.BS,Basel-City
+2742,KR.11,Seoul
+2743,CA.04,New Brunswick
+2746,EC.18,Pichincha
+2753,JP.15,Ishikawa
+2757,AU.05,South Australia
+2768,CL.07,Coquimbo Region
+2783,KZ.02,Almaty
+2801,IN.23,Punjab
+2802,RU.40,Kurgan Oblast
+2807,RO.23,Iasi
+2818,PK.08,Islamabad
+2848,EG.11,Cairo
+2857,NZ.F7,Otago
+2889,IN.28,West Bengal
+2890,TZ.23,Dar es Salaam
+2909,FR.44,Grand Est
+2930,AU.03,Northern Territory
+2935,DZ.37,Annaba
+2936,TR.38,Kayseri
+2941,TR.23,Elazig
+2949,TR.33,Isparta
+2955,TR.63,Sanliurfa
+2957,IL.03,Northern District
+2977,HU.05,Budapest
+2979,BG.41,Gabrovo
+2984,MD.57,Chisinau Municipality
+2985,MX.31,Yucatan
+3001,RU.84,Volgograd Oblast
+3019,NP.CR,Central Region
+3027,NZ.E9,Canterbury
+3064,PL.75,Lublin
+3070,IT.15,Sicily
+3077,LK.36,Western
+3081,IR.07,Fars
+3122,IN.36,Uttar Pradesh
+3126,JP.11,Hiroshima
+3158,TR.07,Antalya
+3176,TW.04,Taiwan
+3205,DK.18,Central Jutland
+3208,MA.07,Marrakesh-Safi
+3209,TR.55,Samsun
+3210,TR.74,Siirt
+3219,BR.05,Bahia
+3244,JP.37,Shizuoka
+3257,IN.02,Andhra Pradesh
+3262,MX.05,Chiapas
+3266,US.NH,New Hampshire
+3284,MX.19,Nuevo Leon
+3340,TR.09,Aydin
+3348,FI.05,Kanta-Hame
+3381,RU.67,Saratovskaya Oblast
+3390,CN.32,Sichuan
+3404,NO.18,Troms
+3408,AU.04,Queensland
+3410,MN.20,Ulaanbaatar
+3422,GR.ESYE43,Crete
+3461,TH.34,Lop Buri
+3479,IE.C,Connaught
+3483,DE.11,Brandenburg
+3496,NZ.E7,Auckland
+3511,UG.E,Eastern Region
+3518,NZ.G1,Waikato
+3520,RU.12,Chechnya
+3525,CO.29,Valle del Cauca
+3533,LV.25,Riga
+3534,LT.57,Kaunas
+3548,ES.34,Asturias
+3549,JP.47,Okinawa
+3557,US.SD,South Dakota
+3564,TH.22,Khon Kaen
+3570,MX.28,Tamaulipas
+3578,JP.04,Chiba
+3598,TH.38,Nonthaburi
+3622,DK.20,Zealand
+3645,BH.16,Manama
+3660,AS.010,Eastern District
+3678,RU.42,Leningradskaya Oblast'
+3690,LK.29,Central
+3699,KE.05,Nairobi Area
+3715,MX.06,Chihuahua
+3749,TN.36,Tunis
+3762,CN.09,Henan
+3775,IN.18,Meghalaya
+3781,JP.18,Kagoshima
+3787,IN.39,Uttarakhand
+3869,NO.04,Buskerud
+3873,SY.09,Aleppo
+3881,BR.08,Espirito Santo
+3883,SI.61,Ljubljana
+3887,IS.39,Capital Region
+3906,IN.13,Kerala
+3924,NG.53,Ebonyi
+3928,PK.05,Sindh
+3951,IT.14,Sardinia
+4017,IR.35,Mazandaran
+4020,AR.15,Neuquen
+4023,AR.13,Mendoza
+4036,VE.25,Distrito Federal
+4037,MX.14,Jalisco
+4039,BR.14,Mato Grosso
+4092,EG.05,Gharbia
+4095,JP.44,Yamagata
+4098,NG.51,Sokoto
+4112,US.ND,North Dakota
+4185,TR.41,Kocaeli
+4214,DZ.26,Mascara
+4255,PE.LMA,Lima
+4275,IN.09,Gujarat
+4281,NO.01,Akershus
+4282,JP.14,Ibaraki
+4287,CA.03,Manitoba
+4394,MY.04,Melaka
+4397,CM.11,Centre
+4398,EG.06,Alexandria
+4435,CN.08,Heilongjiang
+4450,RU.92,Kamchatka
+4536,ID.26,North Sumatra
+4903,SA.06,Eastern Province
+4918,ET.44,Addis Ababa
+4964,EG.23,Qena
+4997,BR.17,Paraiba
+5048,FR.27,Bourgogne-Franche-Comte
+5063,CN.19,Liaoning
+5064,JP.03,Aomori
+5096,CN.03,Jiangxi
+5105,TR.71,Konya
+5119,TR.22,Edirne
+5133,NG.49,Plateau
+5230,EG.01,Dakahlia
+5234,RU.43,Lipetsk Oblast
+5239,MX.30,Veracruz
+5265,IQ.15,Nineveh
+5277,BR.28,Sergipe
+5279,NO.19,Vest-Agder
+5306,CH.AG,Aargau
+5320,PL.87,West Pomerania
+5406,RU.70,Stavropol' Kray
+5407,CA.11,Saskatchewan
+5429,BR.26,Santa Catarina
+5431,CL.17,Los Rios Region
+5466,XK.10097360,Pristina
+5468,JO.16,Amman
+5480,RU.51,Nizhny Novgorod Oblast
+5485,PH.40,Calabarzon
+5523,ID.01,Aceh
+5527,IN.24,Rajasthan
+5538,HU.02,Baranya
+5540,VN.20,Ho Chi Minh
+5565,PK.04,Punjab
+5572,IN.11,Himachal Pradesh
+5619,BJ.14,Littoral
+5626,GR.ESYE42,South Aegean
+5647,KR.10,Busan
+5649,KR.03,Jeollabuk-do
+5656,SY.11,Homs
+5657,ZW.10,Harare
+5740,TR.21,Diyarbakir
+5749,BR.22,Rio Grande do Norte
+5750,RW.15,Southern Province
+5785,JO.15,Mafraq
+5811,TR.16,Bursa
+5813,SI.P9,Ankaran
+5815,TN.19,Nabul
+5819,CN.15,Gansu
+5861,US.ID,Idaho
+5865,PT.08,Evora
+5873,BA.01,Federation of B&H
+5880,PH.07,Central Visayas
+5897,JP.29,Niigata
+5929,CA.07,Nova Scotia
+5976,NG.32,Oyo
+5987,ID.08,East Java
+6030,PR.127,San Juan
+6098,CO.37,Caldas
+6100,CO.02,Antioquia
+6111,RU.86,Voronezj
+6147,PT.07,Coimbra
+6218,CH.JU,Jura
+6422,UA.17,Odesa
+6449,CM.10,Adamaoua
+6470,JP.41,Tottori
+6472,RU.83,Vladimir
+6478,NG.27,Borno
+6508,GN.04,Conakry
+6536,PA.08,Panama
+6551,TN.32,Safaqis
+6594,KR.20,Gyeongsangnam-do
+6641,SE.14,Norrbotten
+6642,SE.06,Halland
+6651,GH.01,Greater Accra
+6715,US.OK,Oklahoma
+6719,JP.20,Kochi
+6799,JO.18,Irbid
+6808,PE.08,Cusco
+6825,RU.65,Samara Oblast
+6864,JP.24,Miyagi
+6882,JP.42,Toyama
+6918,IN.03,Assam
+6975,KE.52,Uasin Gishu
+7054,IR.40,Yazd
+7070,IR.03,Chaharmahal and Bakhtiari
+7077,UG.C,Central Region
+7093,BG.61,Varna
+7099,TR.25,Erzurum
+7186,HU.10,Hajdu-Bihar
+7187,MX.15,State of Mexico
+7210,CN.18,Guizhou
+7229,RU.71,Sverdlovsk
+7264,VI.010,Saint Croix Island
+7268,US.WY,Wyoming
+7269,NG.23,Kaduna
+7356,IR.42,Razavi Khorasan
+7421,NG.35,Adamawa
+7442,RU.23,Kaliningrad
+7511,BR.04,Amazonas
+7520,KR.15,Daegu
+7525,RU.80,Udmurtiya Republic
+7619,EG.17,Asyut
+7630,DZ.40,Boumerdes
+7675,LA.24,Vientiane Prefecture
+7704,SK.01,Banskobystricky kraj
+7722,BD.84,Chittagong
+7751,EE.18,Tartu
+7800,BY.01,Brest
+7804,CH.TI,Ticino
+7808,SI.52,Kranj
+8056,MX.11,Guanajuato
+8159,MX.07,Coahuila
+8298,BR.13,Maranhao
+8387,RU.75,Tomsk Oblast
+8394,LU.ES,Esch-sur-Alzette
+8422,TG.24,Maritime
+8463,UA.03,Chernivtsi Oblast'
+8525,RU.22,Kabardino-Balkariya Republic
+8540,TR.10,Balikesir
+8635,TN.38,Ariana
+8710,JP.35,Shiga
+8735,UA.05,Donetsk
+8791,PL.81,Podlasie
+8858,PK.03,Khyber Pakhtunkhwa
+8887,CA.05,Newfoundland and Labrador
+8951,MU.15,Moka
+9065,BG.59,Stara Zagora
+9070,TR.17,Canakkale
+9078,NP.ER,Eastern Region
+9103,IT.17,Trentino-Alto Adige
+9181,IR.15,Khuzestan
+9184,IR.13,Kermanshah
+9223,CO.26,Santander
+9387,KG.01,Bishkek
+9409,RO.43,Ilfov
+9531,IR.36,Zanjan
+9642,CN.29,Yunnan
+9644,UA.21,Sumy
+9649,SI.J2,Maribor
+9668,IL.WE,Judea and Samaria Area
+9703,IT.08,Liguria
+9711,UA.19,Rivne
+9712,RU.05,Amur Oblast
+9740,MX.10,Durango
+9750,IR.29,Kerman
+9879,ZA.03,Free State
+9995,NZ.F5,Nelson
+9997,MX.03,Baja California Sur
+9999,MY.09,Penang
+10004,ZA.05,Eastern Cape
+10015,TR.54,Sakarya
+10016,RU.04,Altai Krai
+10022,ID.38,South Sulawesi
+10093,BG.62,Veliko Tarnovo
+10102,AR.19,San Luis
+10108,SE.15,OErebro
+10113,CY.04,Nicosia
+10164,NO.09,Nordland
+10199,ET.46,Amhara
+10287,JP.05,Ehime
+10344,NG.31,Niger
+10363,CH.NE,Neuchatel
+10367,MX.17,Morelos
+10390,TH.64,Nakhon Si Thammarat
+10426,BG.54,Shumen
+10472,ID.10,Yogyakarta
+10489,MX.25,Sinaloa
+10526,TZ.26,Arusha
+10595,RU.11,Buryatiya Republic
+10607,BD.83,Rajshahi Division
+10611,IT.01,Abruzzo
+10617,CZ.86,Pardubicky
+10706,GM.01,Banjul
+10763,BF.03,Centre
+10846,MW.C,Central Region
+10881,IR.28,Isfahan
+11027,JP.23,Mie
+11034,TR.32,Mersin
+11044,CD.06,Kinshasa
+11051,IN.37,Chhattisgarh
+11099,BR.02,Alagoas
+11164,RU.25,Kaluga
+11182,MW.S,Southern Region
+11285,SN.07,Thies
+11290,RU.63,Sakha
+11338,JP.26,Nagano
+11361,BR.06,Ceara
+11437,BO.05,Oruro
+11440,CN.10,Hebei
+11572,MA.03,Fes-Meknes
+11595,JP.43,Wakayama
+11603,KR.13,Gyeonggi-do
+11626,CD.12,South Kivu
+11761,ES.27,La Rioja
+11828,EG.07,Ismailia
+11839,IN.10,Haryana
+11860,LU.LU,Luxembourg
+11882,CU.01,Pinar del Rio
+11963,BZ.01,Belize
+12043,PL.84,Swietokrzyskie
+12050,JP.09,Gifu
+12051,GH.02,Ashanti
+12070,ID.07,Central Java
+12077,AR.18,San Juan
+12319,TH.75,Changwat Ubon Ratchathani
+12391,PL.73,Kujawsko-Pomorskie
+12435,IN.30,Arunachal Pradesh
+12436,TR.61,Trabzon
+12492,EE.11,Paernumaa
+12508,TZ.10,Morogoro
+12543,BO.04,La Paz
+12633,PS.WE,West Bank
+12705,MK.41,Karposh
+12730,TH.36,Phra Nakhon Si Ayutthaya
+12741,BW.14,Gaborone
+12942,EE.01,Harjumaa
+13013,RO.14,Constanta
+13027,FI.15,Ostrobothnia
+13060,RU.72,Tambov
+13260,KR.05,North Chungcheong
+13340,CZ.90,Zlin
+13361,EG.14,Sharqia
+13364,IE.M,Munster
+13399,ID.14,East Kalimantan
+13647,NE.08,Niamey
+13657,NC.02,South Province
+13705,NG.46,Bauchi
+13736,JP.25,Miyazaki
+13863,ZM.09,Lusaka
+13916,TN.23,Susah
+13950,LY.68,Az Zawiyah
+14060,KZ.05,Nur-Sultan
+14120,RU.41,Kursk
+14419,SA.17,Jizan
+14424,EG.18,Beni Suweif
+14437,RU.85,Vologda
+14512,MY.16,Sabah
+14543,CZ.88,Central Bohemia
+14656,UA.26,Zaporizhia
+14682,VN.66,Thua Thien-Hue
+14771,JP.21,Kumamoto
+14863,TR.48,Mugla
+15013,MX.24,San Luis Potosi
+15067,IQ.07,Baghdad
+15071,JP.36,Shimane
+15127,EG.10,Minya
+15129,PT.04,Braga
+15139,KR.17,Chungcheongnam-do
+15157,MX.08,Colima
+15176,US.MT,Montana
+15372,PY.06,Central
+15381,VE.13,Lara
+15431,RU.81,Ulyanovsk
+15473,RU.17,Dagestan
+15546,RE.RE,Reunion
+15586,MX.18,Nayarit
+15711,PR.113,Ponce
+15823,SK.07,Trnavsky kraj
+15929,VN.44,Hanoi
+16101,GR.ESYE41,North Aegean
+16160,CN.16,Guangxi
+16165,ID.12,South Kalimantan
+16308,TH.12,Phitsanulok
+16803,AR.08,Entre Rios
+16825,JO.17,Zarqa
+16950,MT.23,L-Imsida
+17030,JP.08,Fukushima
+17055,DZ.19,Biskra
+17252,CN.13,Xinjiang
+17300,DK.19,North Denmark
+17303,CY.01,Ammochostos
+17407,CN.33,Chongqing
+17577,CD.11,Nord Kivu
+17642,CZ.79,Jihocesky kraj
+17672,TR.73,Nigde
+17747,KR.12,Incheon
+17948,NZ.E8,Bay of Plenty
+17966,UY.10,Montevideo
+18007,TR.60,Tokat
+18051,CH.FR,Fribourg
+18120,VE.19,Sucre
+18121,CR.02,Cartago
+18156,RO.18,Galati
+18405,TR.59,Tekirdag
+18488,BO.09,Tarija
+18554,RU.77,Tver' Oblast
+18563,IN.38,Jharkhand
+18578,CR.01,Alajuela
+18585,CH.LU,Lucerne
+18586,NG.16,Ogun
+18602,NG.45,Abia
+18626,MU.17,Plaines Wilhems
+18647,JP.17,Kagawa
+18708,AR.06,Corrientes
+18728,ID.22,Southeast Sulawesi
+19091,CZ.87,Plzensky kraj
+19308,NG.28,Imo
+19317,CL.18,Nuble
+19334,CZ.82,Kralovehradecky kraj
+19370,GA.02,Haut-Ogooue
+19379,SK.08,Zilinsky kraj
+19385,CL.14,Los Lagos Region
+19421,GE.04,Ajaria
+19559,GF.GF,Guyane
+19573,EC.06,Chimborazo
+20139,RU.29,Kemerovo Oblast
+20152,TR.31,Hatay
+20226,PG.14,Morobe
+20322,RU.49,Murmansk
+20353,JP.30,Oita
+20438,TW.02,Takao
+20686,EG.09,Monufia
+20693,US.NV,Nevada
+20694,TH.46,Chon Buri
+20772,TZ.12,Mwanza
+20932,DZ.36,Ain Temouchent
+21043,TR.26,Eskisehir
+21070,UA.04,Dnipropetrovsk
+21150,HR.15,Split-Dalmatia
+21160,NG.30,Kwara
+21203,SD.29,Khartoum
+21208,CA.09,Prince Edward Island
+21270,CL.04,Araucania
+21280,BR.31,Tocantins
+21368,HR.12,Primorsko-Goranska
+21524,AM.01,Aragatsotn
+21571,NI.10,Managua
+21610,NG.54,Ekiti
+21737,CN.14,Tibet
+21947,NG.25,Anambra
+21969,UA.08,Kherson
+22017,TN.16,Al Munastir
+22292,RU.24,Kalmykiya Republic
+22617,RU.57,Penza
+22690,TM.S,Ashgabat
+22851,MX.27,Tabasco
+23123,LK.34,Southern
+23378,EG.03,Beheira
+23480,EC.02,Azuay
+23493,RU.46,Mordoviya Republic
+23537,IN.21,Odisha
+23653,CO.24,Risaralda
+23860,PT.18,Santarem
+23884,MQ.MQ,Martinique
+23897,IN.34,Bihar
+24146,KH.22,Phnom Penh
+24173,BY.07,Vitebsk
+24410,MZ.11,Maputo City
+24451,RU.45,Mariy-El Republic
+24605,DZ.20,Blida
+24904,BG.50,Pleven
+25139,IR.10,Ilam Province
+25228,RW.12,Kigali
+25250,ID.28,Maluku
+25343,PE.04,Arequipa
+25368,TR.43,Kuetahya
+25421,CA.12,Yukon
+25576,CY.05,Limassol
+25685,SE.09,Kalmar
+25986,JP.16,Iwate
+26014,ID.31,North Sulawesi
+26035,HU.17,Somogy
+26194,TR.83,Gaziantep
+26289,EE.05,Jogevamaa
+26330,HK.NST,Sha Tin
+26639,RS.VO,Vojvodina
+26685,MY.13,Terengganu
+26813,JO.02,Balqa
+26957,IN.29,Sikkim
+27097,UA.14,Luhansk
+27222,ZA.09,Limpopo
+27478,PH.06,Western Visayas
+27599,RU.21,Ivanovo
+27604,RU.55,Orenburg Oblast
+27609,MX.32,Zacatecas
+27794,LY.77,Tripoli
+27921,IT.02,Basilicate
+28342,ER.05,Maekel
+28463,KE.39,Nakuru
+28529,MX.16,Michoacan
+28693,JP.06,Fukui
+28828,DZ.12,Setif
+28930,CH.SO,Solothurn
+28987,CO.33,Cundinamarca
+29110,MX.04,Campeche
+29215,HT.11,Ouest
+29293,CN.31,Hainan
+29467,BH.17,Southern Governorate
+29608,ML.01,Bamako
+29785,GT.07,Guatemala
+30485,IR.37,Golestan
+30585,IR.16,Kordestan
+30795,HU.04,Borsod-Abauj-Zemplen
+30853,EG.24,Sohag
+30914,RU.30,Khabarovsk
+30937,DZ.04,Constantine
+31104,UZ.10,Samarqand
+31269,SA.20,Al Jawf
+31327,RU.76,Tula
+31553,RU.33,Kirov
+31644,RO.17,Dolj
+31910,AT.03,Lower Austria
+31972,VE.15,Miranda
+32063,RU.59,Primorskiy (Maritime) Kray
+32352,SE.08,Joenkoeping
+32654,CZ.83,Liberecky kraj
+32929,HR.10,Osjecko-Baranjska
+32991,HR.19,Zadarska
+33065,TH.29,Surin
+33087,TR.64,Usak
+33273,UA.13,Kyiv
+33277,IR.05,Kohgiluyeh and Boyer-Ahmad
+33915,SZ.03,Manzini
+34133,RU.10,Bryansk Oblast
+34461,NG.29,Kano
+34753,PH.03,Central Luzon
+34997,RU.88,Jaroslavl
+35170,PT.09,Faro
+35288,SY.13,Dimashq
+35303,CM.05,Littoral
+35477,MX.13,Hidalgo
+35590,TD.15,Chari-Baguirmi
+35667,BN.02,Brunei-Muara District
+36007,ZA.10,North-West
+36183,RU.06,Arkhangelskaya
+36560,KZ.15,East Kazakhstan
+36963,DZ.03,Batna
+37104,NO.08,More og Romsdal
+37367,PT.06,Castelo Branco
+37414,BR.24,Rondonia
+37435,DZ.38,Bechar
+37646,BR.20,Piaui
+37757,RU.68,North Ossetia
+37901,MK.E2,Ohrid
+37930,IR.01,West Azerbaijan
+38253,HU.09,Gyor-Moson-Sopron
+38333,NG.11,FCT
+38409,PE.07,Callao
+38825,RU.07,Astrakhan
+38999,UA.09,Khmelnytskyi
+39052,EC.10,Guayas
+39144,TN.29,Qabis
+39305,JP.33,Saga
+39882,PT.19,District of Setubal
+40507,TZ.03,Dodoma
+40509,IR.09,Hamadan
+40591,RO.27,Mures
+40841,IR.34,Markazi
+40883,RU.38,Krasnodarskiy
+40976,MX.20,Oaxaca
+41160,ZW.05,Mashonaland West
+41220,EG.21,Kafr el-Sheikh
+41703,TR.53,Rize
+41864,ZM.08,Copperbelt
+41878,NO.06,Hedmark
+41927,EG.12,Qalyubia
+42004,IR.04,Sistan and Baluchestan
+42171,FI.10,South Savo
+42490,HU.23,Veszprem
+42753,CF.18,Bangui
+43050,RU.34,Komi
+43103,JP.46,Yamanashi
+43110,PL.79,Opole Voivodeship
+43253,MX.29,Tlaxcala
+43355,RO.21,Hunedoara
+43671,MA.01,Tanger-Tetouan-Al Hoceima
+43714,RO.02,Arad
+44355,UA.02,Chernihiv
+44404,CG.12,Brazzaville
+44693,VE.04,Aragua
+44780,ID.02,Bali
+45351,SE.03,Gaevleborg
+45691,GH.03,Brong-Ahafo
+45949,KE.37,Mombasa
+46223,DZ.07,Mostaganem
+46248,PT.21,Vila Real
+46670,IQ.02,Basra
+47199,MY.06,Pahang
+47278,SE.10,Dalarna
+47358,NG.22,Cross River
+47361,KR.16,Jeollanam-do
+47620,MY.11,Sarawak
+47821,VE.17,Nueva Esparta
+48662,NO.11,Oppland
+49362,RU.79,Republic of Tyva
+49398,TR.65,Van
+49402,MY.02,Kedah
+49770,AR.16,Rio Negro
+50206,PT.05,Braganca
+50363,SE.25,Vaestmanland
+50760,GH.10,Upper East
+50824,GH.04,Central
+50879,SI.C2,Slovenj Gradec
+51102,IN.31,Mizoram
+51106,PT.10,Madeira
+51965,NG.42,Osun
+52073,AR.22,Santiago del Estero
+52201,KR.14,Gyeongsangbuk-do
+52750,IR.22,Bushehr
+52797,LK.38,Northern Province
+53285,BG.64,Vratsa
+53335,BD.82,Khulna
+53404,CY.06,Pafos
+53485,SE.24,Vaesternorrland
+53803,NG.21,Akwa Ibom
+53894,GU.MA,Mangilao
+54078,PL.80,Subcarpathian
+54396,SA.19,Tabuk
+54599,DZ.52,Souk Ahras
+54778,UA.22,Ternopil
+55471,AR.10,Jujuy
+55874,IR.25,Semnan
+56231,KZ.04,Aqtoebe
+56772,DZ.33,Tebessa
+57121,NP.WR,Western Region
+57176,KE.26,Kisumu
+57901,RU.78,Tyumen' Oblast
+58179,AL.50,Tirana
+58186,OM.01,Ad Dakhiliyah
+58404,SA.16,Najran
+58425,VN.23,Lam Dong
+58742,SS.11550565,Wau
+59417,AR.14,Misiones
+59815,SK.05,Presovsky kraj
+60438,KR.06,Gangwon-do
+61012,AT.08,Vorarlberg
+61115,GP.GP,Guadeloupe
+61288,IR.41,Khorasan-e Jonubi
+61433,MR.08,Dakhlet Nouadhibou
+62261,BG.53,Ruse
+62466,UZ.01,Andijon
+62539,TZ.20,Pemba South
+62847,AE.06,Sharjah
+62850,AE.02,Ajman
+63252,HR.07,Krapinsko-Zagorska
+63507,TH.53,Nakhon Pathom
+63586,MK.98,Shtip
+63620,HR.03,Dubrovacko-Neretvanska
+63925,NG.56,Nassarawa
+64249,KG.08,Osh
+64489,EG.16,Aswan
+64890,IR.44,Alborz
+65458,BD.H,Mymensingh Division
+65507,LY.69,Banghazi
+65753,CI.87,Savanes
+65884,MX.01,Aguascalientes
+66322,TH.24,Maha Sarakham
+66327,NZ.F9,Taranaki
+66630,FI.09,South Karelia
+67349,TH.62,Phuket
+67578,YE.16,Sanaa
+67646,PK.02,Balochistan
+67710,CO.09,Cauca
+67743,SD.38,Al Jazirah
+67753,PE.13,La Libertad
+67754,SI.D7,Velenje
+67862,RO.05,Bihor
+68212,SI.50,Koper-Capodistria
+68506,CL.11,Maule Region
+68641,FI.12,North Karelia
+68740,PK.06,Azad Kashmir
+68809,TR.40,Kirsehir
+68971,CL.16,Arica y Parinacota
+69358,EC.19,Tungurahua
+69435,CO.21,Norte de Santander
+70142,BM.06,Saint George
+70643,AR.04,Chubut
+70970,MA.05,Beni Mellal-Khenifra
+71244,AT.02,Carinthia
+71589,PH.11,Davao
+71590,TR.85,Zonguldak
+71591,MM.11,Shan
+71673,FR.94,Corsica
+71752,SY.08,Rif-dimashq
+72575,IQ.18,Salah ad Din
+73661,KW.05,Muhafazat al Jahra'
+73702,TT.10,San Fernando
+73925,VN.85,Thai Nguyen
+73970,HU.08,Fejer
+74023,TR.84,Kars
+75543,LK.32,North Western
+75784,RU.28,Karelia
+75869,AE.03,Dubai
+75929,HN.08,Francisco Morazan
+76088,BF.09,Hauts-Bassins
+76522,UZ.02,Bukhara
+76614,HK.NTP,Tai Po
+76774,BY.03,Grodnenskaya
+76846,MX.23,Quintana Roo
+76893,TH.42,Samut Prakan
+77035,TH.27,Nakhon Ratchasima
+78578,RU.01,Adygeya Republic
+79150,KZ.1537272,Shymkent
+79211,RO.09,Brasov
+80305,TH.56,Phetchaburi
+81195,RU.64,Sakhalin Oblast
+81432,BR.01,Acre
+81434,TH.03,Chiang Rai
+81629,CL.15,Tarapaca
+82677,TH.52,Ratchaburi
+83425,DO.34,Nacional
+84402,SI.I5,Litija
+84523,CN.20,Inner Mongolia
+84999,TR.15,Burdur
+85131,RU.69,Smolensk
+85610,MX.12,Guerrero
+86050,AM.07,Shirak
+87563,TZ.02,Pwani
+88108,TR.12,Bingoel
+88237,MM.18,Nay Pyi Taw
+88287,TR.46,Kahramanmaras
+88605,PL.76,Lubusz
+88648,IR.38,Qazvin
+89499,RU.56,Orel Oblast
+89547,LY.75,Sabha
+89760,CO.01,Amazonas
+89809,PR.041,Cidra
+89970,PS.GZ,Gaza Strip
+90208,DZ.55,Tipaza
+90282,CN.21,Ningxia Hui Autonomous Region
+90557,LT.61,Siauliai
+90600,RU.09,Belgorod Oblast
+90724,TR.52,Ordu
+91879,BY.02,Gomel Oblast
+92525,TZ.18,Tanga
+92715,GH.05,Eastern
+92941,KE.20,Kakamega
+93148,DO.24,San Pedro de Macoris
+93253,LI.09,Triesen
+93685,SK.04,Nitriansky kraj
+94792,FO.ST,Streymoy
+94858,BD.85,Barisal
+95111,TH.06,Lampang
+96103,TR.04,Agri
+96263,TN.39,Manouba
+97469,CH.BL,Basel-Landschaft
+97681,PH.05,Bicol
+97971,SJ.21,Svalbard
+98179,RO.33,Sibiu
+98399,ET.53,Tigray
+98750,JP.27,Nagasaki
+98793,TR.08,Artvin
+99114,NO.13,Ostfold
+101040,JE.3237530,Trinity
+101564,ID.24,West Sumatra
+101986,UA.24,Volyn
+102539,RU.32,Khanty-Mansia
+102668,KR.21,Ulsan
+102671,CU.09,Granma
+102724,DZ.09,Oran
+103615,EG.20,Damietta
+104728,AZ.20,Ganja City
+105668,CL.08,O'Higgins Region
+105970,SA.05,Al Madinah al Munawwarah
+106010,CH.VS,Valais
+106576,PH.14,Autonomous Region in Muslim Mindanao
+106577,LB.05,Mont-Liban
+106579,LB.09,Liban-Nord
+107963,PG.09,Eastern Highlands
+109234,CU.08,Cienfuegos
+109926,CO.20,Narino
+110128,FI.04,Satakunta
+110488,HK.NTW,Tsuen Wan
+110903,TH.31,Narathiwat
+112585,TR.37,Kastamonu
+113224,PH.12,Soccsksargen
+114156,BO.08,Santa Cruz
+115100,MD.58,Transnistria
+115225,BW.01,Central
+115711,RU.62,Ryazan Oblast
+115955,RU.52,Novgorod Oblast
+116778,CL.10,Region of Magallanes
+117320,KZ.12,Karaganda
+117539,LT.58,Klaipeda County
+117954,TR.57,Sinop
+117982,PR.063,Gurabo
+118220,MG.51,Atsimo-Andrefana
+119173,CO.28,Tolima
+119396,RO.37,Tulcea
+119986,TR.89,Karabuk
+120394,ID.42,North Kalimantan
+120856,TR.24,Erzincan
+120978,PH.01,Ilocos
+121290,EG.04,Faiyum
+123387,SE.22,Vaermland
+123545,HR.06,Koprivnicko-Krizevacka
+123709,UA.18,Poltava
+124057,IS.40,Northeast
+124227,RU.03,Altai
+124331,DZ.24,Jijel
+124533,LY.63,Al Jabal al Akhdar
+124536,NO.17,Telemark
+124800,ET.54,SNNPR
+124959,PE.06,Cajamarca
+125152,EG.19,Port Said
+126832,RO.04,Bacau
+127116,CL.05,Atacama
+127438,TR.66,Yozgat
+127748,IT.11,Molise
+128352,NG.48,Ondo
+128930,FI.07,Paijanne Tavastia
+129494,SY.02,Latakia
+130322,FI.14,Southern Ostrobothnia
+130537,IQ.08,Dahuk
+131969,CH.TG,Thurgau
+132138,UA.01,Cherkasy
+134571,CH.GR,Grisons
+134594,TR.02,Adiyaman
+134833,MM.17,Rangoon
+135075,MC.00,Commune de Monaco
+135459,IE.U,Ulster
+135975,TG.23,Kara
+136671,DZ.50,Ouargla
+136828,ID.17,West Nusa Tenggara
+136976,GR.ESYE22,Ionian Islands
+137249,CU.MA,Mayabeque
+138310,TR.50,Nevsehir
+138324,SA.08,Al-Qassim
+138819,CO.04,Atlantico
+139585,IR.23,Lorestan
+140240,EC.12,Loja
+140846,BR.25,Roraima
+141096,CA.14,Nunavut
+142178,SL.04,Western Area
+142724,IN.26,Tripura
+143099,BZ.02,Cayo
+143957,CU.12,Holguin
+144109,KZ.13,Qostanay
+144178,AE.05,Ra's al Khaymah
+147888,NZ.F8,Southland
+148475,NO.20,Vestfold
+149518,UG.N,Northern Region
+150137,ID.05,Jambi
+150314,NL.16,Flevoland
+150469,TH.41,Phayao
+151582,NZ.F2,Hawke's Bay
+151634,SK.06,Trenciansky kraj
+151905,NL.01,Drenthe
+152232,LS.14,Maseru
+153357,MY.05,Negeri Sembilan
+154748,PR.097,Mayagueez
+155441,BD.86,Sylhet
+155553,MY.17,Putrajaya
+156188,SI.H4,Jesenice
+156404,CI.81,Lacs
+156543,CM.07,North-West
+156763,HR.05,Karlovacka
+157967,VE.06,Bolivar
+158268,ZW.02,Midlands
+158840,RO.03,Arges
+158921,GR.ESYE24,Central Greece
+160644,DZ.25,Laghouat
+162087,TH.76,Changwat Udon Thani
+162626,RO.16,Dambovita
+164561,RO.39,Valcea
+165088,AT.01,Burgenland
+166456,BG.39,Burgas
+166688,MM.08,Mandalay
+167482,CO.38,Magdalena
+168216,PY.22,Asuncion
+168721,SI.84,Nova Gorica
+170504,TH.47,Rayong
+172731,GR.ESYE25,Peloponnese
+172977,IR.43,North Khorasan
+173006,LI.07,Schaan
+173037,BF.01,Boucle du Mouhoun
+173503,JM.17,Kingston
+173821,CR.06,Limon
+174496,GL.07,Sermersooq
+176682,HU.01,Bacs-Kiskun
+177674,GA.03,Moyen-Ogooue
+178235,LV.07,Daugavpils municipality
+178326,FI.19,Lapland
+179426,ID.39,West Papua
+180233,NA.39,Otjozondjupa
+181805,UA.16,Mykolaiv
+182814,OM.08,Dhofar
+185001,SI.01,Ajdovscina
+185737,GH.06,Northern
+186617,CZ.89,Ustecky kraj
+187646,KE.27,Kitui
+188848,SI.11,Celje
+190029,BH.15,Muharraq
+192868,TR.19,Corum
+193334,KZ.11,Pavlodar Region
+195462,FJ.01,Central
+199472,KE.12,Bungoma
+199657,DZ.23,Guelma
+199729,EG.15,Suez
+201360,NG.26,Benue
+203805,ID.33,Banten
+208473,FM.02,Pohnpei
+209434,AF.13,Kabul
+210780,CD.14,Haut-Katanga
+212616,GD.03,Saint George
+214028,EC.11,Imbabura
+214962,SC.05,Anse Royale
+217149,CO.12,Cordoba
+218595,GH.08,Volta
+223632,EC.14,Manabi
+227172,MZ.02,Gaza
+227390,TR.75,Aksaray
+228930,ZM.02,Central
+228947,TH.48,Chanthaburi
+229196,ZW.08,Masvingo
+230316,PH.08,Eastern Visayas
+233368,BY.06,Mogilev
+233624,ID.11,West Kalimantan
+234520,RU.19,Ingushetiya Republic
+238598,ID.18,East Nusa Tenggara
+238629,JM.08,St. Andrew
+238855,RO.30,Prahova
+239898,TR.93,Duzce
+241286,LR.14,Montserrado
+243052,UZ.15,Jizzax
+245399,KW.07,Al Farwaniyah
+245542,CO.19,Meta
+246956,NO.15,Sogn og Fjordane
+250702,LB.06,South Governorate
+251957,KN.03,Saint George Basseterre
+252303,DJ.07,Djibouti
+253883,TR.39,Kirklareli
+255024,PE.14,Lambayeque
+258092,ID.13,Central Kalimantan
+260848,PG.17,West New Britain
+262876,ET.51,Oromiya
+264803,PH.15,Cordillera
+269275,SM.07,San Marino
+269357,KE.35,Meru
+270246,VE.07,Carabobo
+271243,IQ.01,Anbar
+271504,SI.J7,Novo Mesto
+276490,NA.29,Erongo
+277061,DZ.21,Bouira
+277078,CI.96,Sassandra-Marahoue
+278496,CR.04,Heredia
+279194,KE.41,Narok
+280298,NO.05,Finnmark
+285053,KZ.01,Almaty Oblysy
+285150,IN.20,Nagaland
+285307,SE.07,Jaemtland
+289421,TZ.09,Mbeya
+290683,GW.11,Bissau
+295673,UA.25,Transcarpathia
+301299,JO.19,Ma'an
+301709,KE.25,Kisii
+303539,VE.05,Barinas
+304792,UA.11,Republic of Crimea
+305421,ID.15,Lampung
+306639,IR.39,Qom
+306927,ID.32,South Sumatra
+308741,BR.03,Amapa
+311141,KZ.06,Atyrau
+311161,IT.19,Aosta Valley
+311816,KE.22,Kiambu
+315873,AR.20,Santa Cruz
+316623,RU.60,Pskov Oblast
+318076,TR.82,Cankiri
+319271,MA.02,Oriental
+320967,TR.87,Bartin
+326210,TN.06,Jundubah
+328671,MU.18,Port Louis
+338330,PE.16,Loreto
+344217,TR.91,Osmaniye
+344405,HU.03,Bekes
+344862,MG.31,Atsinanana
+345201,CO.36,Boyaca
+351373,SR.16,Paramaribo
+355567,VN.78,Da Nang
+356895,MG.71,Diana
+360196,SS.11550569,Juba
+361518,HU.11,Heves
+364702,MK.06,Bitola
+364802,TR.80,Sirnak
+365312,AL.49,Shkoder
+366118,CO.27,Sucre
+367043,HR.04,Istria
+369999,YE.04,Hadramawt
+374826,PT.23,Azores
+378691,FJ.05,Western
+381150,NO.02,Aust-Agder
+391612,PR.031,Carolina
+396134,CH.ZG,Zug
+397439,YE.25,Ta'izz
+404229,AR.02,Catamarca
+407931,CM.12,Far North
+412506,MY.08,Perlis
+416570,KZ.07,Batys Qazaqstan
+417673,CI.90,Vallee du Bandama
+419139,UA.27,Zhytomyr
+431833,NL.02,Friesland
+434226,TN.30,Gafsa
+435067,SC.26,English River
+435287,GH.09,Western
+444218,DZ.10,Saida
+447228,ZW.09,Bulawayo
+447593,CO.16,Huila
+447870,TZ.27,Manyara
+449867,VE.14,Merida
+450514,SD.61,Central Darfur
+458315,SO.02,Banaadir
+468743,UA.10,Kirovohrad
+469366,TR.69,Gumushane
+470421,WS.10,Tuamasaga
+470912,YE.02,Aden
+472312,TR.49,Mus
+477530,RU.93,Transbaikal Territory
+479050,JO.12,Tafielah
+482509,TT.05,Port of Spain
+483673,GU.AN,Hagatna
+485747,PE.10,Huanuco
+485872,OM.11,Al Batinah North
+486933,CH.SH,Schaffhausen
+511157,TR.78,Karaman
+514028,IN.01,Andaman and Nicobar
+519985,SI.80,Murska Sobota
+520503,CD.30,Tshopo
+536108,LY.82,Al Marqab
+537304,ID.37,Riau
+547773,SI.44,Kanal
+550986,PR.125,San German
+555555,EC.08,El Oro
+560495,RO.26,Mehedinti
+560545,CA.13,Northwest Territories
+565652,NZ.F6,Northland
+571549,NG.43,Taraba
+573205,GR.ESYE13,West Macedonia
+578929,BJ.10,Borgou
+579963,TR.92,Yalova
+593167,KE.36,Migori
+604078,IQ.11,Arbil
+607214,UA.20,Sevastopol City
+609222,GY.12,Demerara-Mahaica
+649708,DZ.18,Bejaia
+655316,SI.45,Kidricevo
+659314,NL.10,Zeeland
+665324,PE.21,Puno
+669691,EC.23,Napo
+684929,FI.16,Central Ostrobothnia
+696077,TN.27,Bin 'Arus
+703772,KG.07,Issyk-Kul
+734217,UZ.12,Surxondaryo
+745811,DZ.43,El Oued
+747654,ID.03,Bengkulu
+749245,TD.12,Ouadai
+753478,LK.37,Eastern Province
+758133,HU.18,Szabolcs-Szatmar-Bereg
+774574,AG.04,Saint John
+776718,HR.02,Slavonski Brod-Posavina
+779798,UZ.03,Fergana
+785112,BJ.09,Atlantique
+786622,TR.90,Kilis
+804007,RU.16,Chuvashia
+805045,PT.13,Leiria
+825020,TN.03,Kairouan
+825611,BJ.16,Oueme
+831920,UZ.07,Navoiy
+839001,TR.11,Bilecik
+874370,KY.10375968,West Bay
+879340,SI.J4,Miklavz na Dravskem Polju
+880361,PF.01,Iles du Vent
+893524,HR.20,Zagrebacka
+914479,PT.22,Viseu
+916512,AR.12,La Rioja
+921020,OM.09,Az Zahirah
+924353,BS.23,New Providence
+928532,JO.23,Madaba
+959734,PY.01,Alto Parana
+962259,IR.11,Hormozgan
+974438,IQ.10,Diyala
+981880,FI.18,Kainuu
+1004740,AR.09,Formosa
+1011188,SE.05,Gotland
+1021007,CU.03,Matanzas
+1028255,CO.08,Caqueta
+1030308,ZA.08,Northern Cape
+1033365,SI.K7,Ptuj
+1034548,DZ.48,Mila
+1047081,HU.22,Vas
+1055787,TH.50,Kanchanaburi
+1066835,TN.17,Bajah
+1070870,RO.19,Gorj
+1084614,ZA.07,Mpumalanga
+1088638,EG.27,North Sinai
+1097135,ID.36,Papua
+1100750,PT.16,Portalegre
+1100927,PT.20,Viana do Castelo
+1106215,KE.11,Bomet
+1110468,ML.07,Koulikoro
+1114099,CZ.80,Vysocina
+1117601,AO.20,Luanda
+1121512,KR.22,Sejong-si
+1162162,KE.23,Kilifi
+1197662,MS.01,Saint Anthony
+1219838,TR.76,Batman
+1235785,LY.76,Surt
+1236935,PW.06,Koror
+1245213,LU.GR,Grevenmacher
+1252839,TZ.04,Iringa
+1268350,TR.77,Bayburt
+1295279,EC.17,Pastaza
+1295842,CL.02,Aysen
+1316204,ET.52,Somali
+1342934,VN.54,Khanh Hoa
+1346861,CY.02,Keryneia
+1356707,SD.56,North Kordofan
+1381183,SE.18,Soedermanland
+1382684,AL.43,Elbasan
+1384767,AR.03,Chaco
+1397239,MG.21,Upper Matsiatra
+1428979,VN.30,Quang Ninh
+1429562,MZ.06,Nampula
+1462043,LY.72,Misratah
+1464522,PR.025,Caguas
+1494078,CU.07,Ciego de Avila
+1495170,IQ.05,Sulaymaniyah
+1497580,UZ.06,Namangan
+1525614,NG.36,Delta
+1539938,BO.02,Cochabamba
+1550847,EC.13,Los Rios
+1551347,YE.23,Ibb
+1551711,TR.05,Amasya
+1554156,PT.03,Beja
+1558032,TZ.25,Zanzibar Urban/West
+1567913,VN.43,Dong Nai
+1582974,TW.03,Taipei
+1595703,LR.17,Margibi
+1596036,UZ.08,Qashqadaryo
+1607198,VE.22,Yaracuy
+1620351,SD.52,Kassala
+1630055,PE.23,Tacna
+1653016,DZ.35,Ain Defla
+1654697,DZ.27,M'Sila
+1679277,RU.87,Yamalo-Nenets
+1694013,PR.013,Arecibo
+1696006,AR.11,La Pampa
+1696659,PH.10,Northern Mindanao
+1699425,KE.44,Nyeri
+1701401,LV.31,Valmiera
+1730535,MW.N,Northern Region
+1750565,TH.18,Loei
+1755632,BB.08,Saint Michael
+1764471,LI.11,Vaduz
+1767047,LC.10,Vieux-Fort
+1789359,KW.08,Hawalli
+1795637,MV.38,Kaafu Atoll
+1797075,PE.12,Junin
+1798237,TT.TUP,Tunapuna/Piarco
+1805254,TR.13,Bitlis
+1849766,AR.23,Tierra del Fuego
+1866662,TH.73,Nakhon Phanom
+1891390,QA.06,Baladiyat ar Rayyan
+1893276,PE.20,Piura
+1899533,IS.41,Northwest
+1910223,HR.13,Sibensko-Kniniska
+1916224,UA.06,Ivano-Frankivsk
+1918288,CZ.81,Karlovarsky kraj
+1918376,SD.43,Northern State
+1923365,CO.17,La Guajira
+1955529,AZ.08,Astara
+1955577,CH.SZ,Schwyz
+1959884,PE.03,Apurimac
+1961002,MK.E8,Tetovo
+1973394,KZ.14,Qyzylorda
+1991774,SN.14,Saint-Louis
+1993124,GE.66,Imereti
+2073970,MZ.05,Sofala
+2085610,BO.07,Potosi
+2085634,BQ.BO,Bonaire
+2088950,UZ.16,Sirdaryo
+2101907,SI.A7,Rogaska Slatina
+2122369,NG.41,Kogi
+2138257,UZ.05,Xorazm
+2141388,AL.51,Vlore
+2161354,VN.79,Hai Duong
+2163342,BA.02,Srpska
+2169640,PG.12,Madang
+2175689,BT.20,Thimphu
+2187112,RO.01,Alba
+2197109,LI.03,Gamprin
+2215729,PE.24,Tumbes
+2269220,PR.021,Bayamon
+2291317,HR.16,Varazdinska
+2293948,HN.06,Cortes
+2296729,SI.F1,Zelezniki
+2305918,PE.02,Ancash
+2310536,TR.70,Hakkari
+2312493,VN.09,Dong Thap
+2315331,AZ.54,Sumqayit
+2326204,LV.32,Ventspils
+2390356,TJ.01,Gorno-Badakhshan
+2415855,RU.89,Jewish Autonomous Oblast
+2433807,NG.52,Bayelsa
+2442123,IQ.16,Wasit
+2451978,IQ.09,Dhi Qar
+2460629,LV.16,Liepaja
+2472382,IS.45,West
+2477074,KY.10346796,George Town
+2479128,PE.05,Ayacucho
+2479301,ID.40,Riau Islands
+2487617,KE.49,Tharaka District
+2560510,RU.37,Kostroma Oblast
+2621214,TT.01,Borough of Arima
+2707211,SO.20,Woqooyi Galbeed
+2709981,ET.48,Dire Dawa
+2730058,HK.NTM,Tuen Mun
+2802479,KZ.03,Aqmola
+2953922,SI.40,Izola-Isola
+2973144,HU.12,Komarom-Esztergom
+2991589,GE.67,Kakheti
+3003335,SI.L6,Sempeter-Vrtojba
+3015608,GY.13,East Berbice-Corentyne
+3017574,ST.02,Sao Tome Island
+3020795,ZW.03,Mashonaland Central
+3034674,SI.03,Bled
+3040002,BM.03,Hamilton city
+3047845,PG.10,East New Britain
+3057449,IQ.03,Al Muthanna
+3058613,TR.72,Mardin
+3098518,SY.14,Tartus
+3098731,NG.44,Yobe
+3199202,KE.21,Kericho
+3219235,IM.9782170,Douglas
+3226705,KE.29,Laikipia
+3234878,TR.62,Tunceli
+3273161,MT.26,Il-Kalkara
+3305118,SI.G7,Domzale
+3356459,VN.58,Nghe An
+3385914,KE.31,Machakos
+3393532,SN.03,Diourbel
+3427092,DZ.30,Sidi Bel Abbes
+3427551,JM.12,St. James
+3458647,AZ.61,Xankandi Sahari
+3498726,BG.40,Dobrich
+3564823,PH.41,Mimaropa
+3577128,CO.11,Choco
+3598045,PT.11,Guarda
+3672038,HR.14,Sisacko-Moslavacka
+3708970,LC.03,Castries
+3761025,LS.16,Mokhotlong
+3784862,KE.15,Embu
+3785392,CO.23,Quindio
+3931313,SE.02,Blekinge
+3966365,BS.37,Central Abaco
+3978794,EC.05,Carchi
+4378584,TR.86,Ardahan
+4501285,VE.11,Falcon
+4784975,SI.09,Brezovica
+4896210,MT.09,Il-Furjana
+4901883,VE.12,Guarico
+5062730,VN.24,Long An
+5217861,OM.10,Al Buraimi
+5234864,PE.15,Lima region
+5234884,MZ.08,Tete
+5428833,RO.34,Suceava
+5468580,MM.05,Kayin
+5638363,VN.74,Bac Ninh
+5681173,SO.05,Galguduud
+5782317,ZM.07,Southern
+6031719,SI.94,Postojna
+6118886,SE.12,Kronoberg
+6189884,SA.15,Northern Borders
+6223037,TH.37,Sara Buri
+6598223,ID.21,Central Sulawesi
+6646506,LY.80,Jabal al Gharbi
+6893439,RU.27,Karachayevo-Cherkesiya Republic
+6930376,VN.34,Thanh Hoa
+6960049,VN.86,Vinh Phuc
+7032266,TW.01,Fukien
+7138311,DO.25,Santiago
+7219094,EC.09,Esmeraldas
+7379102,DZ.53,Tamanrasset
+7494665,LA.17,Louangphabang
+7525091,CH.OW,Obwalden
+7530510,MG.41,Boeny
+7603329,IS.44,Westfjords
+7751660,KH.29,Battambang
+7827828,SN.12,Ziguinchor
+8022439,BD.87,Rangpur Division
+8111125,SV.09,San Miguel
+8209335,SI.C4,Slovenska Konjice
+8213090,CV.14,Praia
+8451448,PR.091,Manati
+8860909,NE.07,Zinder
+8928718,UY.18,Tacuarembo
+8943709,PA.02,Chiriqui
+9008987,VN.46,Binh Dinh
+9017558,MD.60,Balti
+9249621,HU.14,Nograd
+9270761,RU.44,Magadan Oblast
+9345619,SI.C9,Store
+9566493,MP.110,Saipan
+9912468,VN.81,Hung Yen
+10215270,PE.22,San Martin
+10381039,KE.19,Kajiado
+10559447,VN.01,An Giang
+10769301,BG.58,Sofia
+10770530,LI.01,Balzers
+10777637,SA.02,Al Bahah
+10879355,VE.20,Tachira
+10884693,MT.01,Attard
+11538577,CU.05,Camaguey
+12312224,BW.11,North-West
+13186621,DZ.34,Adrar
+13625361,MT.31,Il-Marsa
+13741557,BW.10,Ngwaketsi
+14317903,VN.21,Kien Giang
+16192542,KZ.17,Zhambyl
+17051183,SI.32,Grosuplje
+17663241,FI.08,Kymenlaakso
+19876838,SD.55,Northern Darfur
+20115396,CR.03,Guanacaste
+20134077,NZ.F4,Marlborough
+20539323,LU.CA,Capellen
+21061060,LT.64,Utena
+22878108,SL.02,Northern Province
+22883922,PR.141,Utuado
+23385009,VC.04,Saint George
+23707563,CV.11,Sao Vicente
+23730404,KP.12,Pyongyang
+24882981,KN.10,Saint Paul Charlestown
+26226658,ET.45,Afar
+26257515,DZ.39,Bordj Bou Arreridj
+26439052,IQ.12,Muhafazat Karbala'
+26589885,TL.DI,Dili
+27775196,OM.04,Southeastern Governorate
+28481499,PY.13,Neembucu
+29615886,IQ.13,Kirkuk
+29721781,ZW.01,Manicaland
+30580193,KH.24,Siem Reap
+30662452,PH.02,Cagayan Valley
+31159541,SI.M8,Trzin
+31383175,SI.98,Race-Fram
+31466761,VN.13,Haiphong
+31810694,VN.45,Ba Ria-Vung Tau
+33300010,PR.069,Humacao
+33766122,CU.10,Guantanamo
+34193936,MT.30,Luqa
+35056694,CO.10,Cesar
+35407182,EC.07,Cotopaxi
+36005430,NI.17,North Caribbean Coast
+40922846,MT.60,Il-Belt Valletta
+41252148,HU.20,Jasz-Nagykun-Szolnok
+41828577,SD.49,Southern Darfur
+41879926,TH.14,Phetchabun
+41946836,PH.09,Zamboanga Peninsula
+42186398,NG.55,Gombe
+42207683,CD.04,Kasai-Oriental
+42237639,SY.07,Deir ez-Zor
+42503575,CD.08,Bas-Congo
+42648503,SI.J9,Piran-Pirano
+42696850,NG.24,Katsina
+42856430,DZ.31,Skikda
+43075418,MA.08,Draa-Tafilalet
+43151159,SD.42,Blue Nile
+43582471,BJ.17,Plateau
+43635416,MM.13,Mon
+43647200,DZ.29,Oum el Bouaghi
+43960349,TH.44,Chachoengsao
+44183408,MD.51,Gagauzia
+44271044,LT.56,Alytus
+44867516,TH.16,Nakhon Sawan
+45411616,KE.24,Kirinyaga
+45625177,DZ.15,Tlemcen
+45749464,SI.K8,Ravne na Koroskem
+46100666,LB.07,Nabatiye
+46289990,LR.13,Maryland
+46547763,BO.03,El Beni
+46949563,TH.60,Surat Thani
+47328232,HK.HWC,Wan Chai
+47606735,TH.20,Sakon Nakhon
+47608360,TO.02,Tongatapu
+47742773,NE.04,Maradi
+47778646,HN.04,Comayagua
+48444620,SI.A3,Radovljica
+49658709,CU.15,Santiago de Cuba
+49720491,DM.05,Saint John
+49885986,SI.E7,Zagorje ob Savi
+49894231,SI.54,Krsko
+50091456,CU.14,Sancti Spiritus
+50097977,AF.18,Nangarhar
+50253649,SZ.01,Hhohho
+50479656,LT.59,Marijampole County
+50785822,YE.11,Dhamar
+50798852,SO.21,Awdal
+51059253,VN.83,Phu Tho
+51062486,AD.06,Sant Julia de Loria
+51288978,SD.50,Southern Kordofan
+51339853,SI.F2,Ziri
+51413720,AL.42,Durres
+51703338,DZ.41,Chlef
+51739609,VN.62,Quang Binh
+51955052,MG.33,Alaotra Mangoro
+52036303,TH.23,Kalasin
+52060556,SI.D4,Trebnje
+52077188,VN.61,Phu Yen
+52426669,PH.13,Caraga
+53354852,AZ.35,Nakhichevan
+53721923,OM.02,Al Batinah South
+53788550,AZ.29,Lankaran
+54129910,AL.46,Korce
+54206569,HR.11,Pozesko-Slavonska
+54421960,SY.04,Ar-Raqqah
+54442034,DO.30,La Vega
+54969338,DZ.22,Djelfa
+55103585,JO.20,Ajlun
+55109060,NG.40,Kebbi
+55245614,GN.K,Kankan
+55248480,PR.079,Lajas
+55257264,DZ.06,Medea
+56107685,MT.39,Paola
+56119830,SI.B9,Skofja Loka
+56475394,SB.06,Guadalcanal
+56939442,IQ.14,Maysan
+57358324,NZ.F1,Gisborne
+57436747,GE.72,Samtskhe-Javakheti
+57714415,SV.05,La Libertad
+57744935,LV.11,Jelgava
+57774361,DZ.56,Tissemsilt
+57898964,NP.MR,Mid Western
+58459974,GE.73,Shida Kartli
+58502949,PE.09,Huancavelica
+58513913,RW.13,Northern Province
+58521449,AF.37,Khowst
+58802009,SD.41,White Nile
+59065428,KN.08,Saint Mary Cayon
+59317801,ME.02,Bar
+59501646,PE.17,Madre de Dios
+59770075,BF.06,Centre-Ouest
+59994137,BO.06,Pando
+60096349,BG.38,Blagoevgrad
+60193991,ID.29,North Maluku
+60252111,LT.60,Panevezys
+60542554,MM.03,Ayeyarwady
+60586460,ID.34,Gorontalo
+61134010,AF.11,Herat
+61256976,TH.25,Roi Et
+61291657,MU.12,Black River
+61392163,EE.08,Laeaene-Virumaa
+61528573,HN.18,Yoro
+62391708,CD.23,Kasai-Central
+62519995,RO.12,Caras-Severin
+63062187,DZ.51,Relizane
+63760091,PY.11,Itapua
+64079756,ID.35,Bangka-Belitung Islands
+66461445,NI.05,Esteli
+66964203,SI.87,Ormoz
+67190072,HR.17,Virovitick-Podravska
+67221562,YE.08,Al Hudaydah
+67274254,LU.WI,Wiltz
+68212590,EE.21,Vorumaa
+68810115,PE.01,Amazonas
+69928234,LR.09,Nimba
+69991308,HT.09,Nord
+70247755,PE.19,Pasco
+70517132,VN.35,Thai Binh
+71160325,LV.A9,Priekuli
+72289692,IQ.04,Al Qadisiyah
+72712998,IQ.06,Babil
+72851375,MT.35,Il-Mosta
+72919214,SI.N8,Zuzemberk
+73066810,SI.82,Naklo
+73423860,MU.23,Rodrigues
+73596466,SD.58,Sinnar
+73818112,TH.10,Uttaradit
+74002934,VN.32,Son La
+74122520,DO.31,Monsenor Nouel
+74243122,KH.18,Svay Rieng
+74309899,HU.21,Tolna
+75248557,PE.18,Moquegua
+75571947,JO.22,Jerash
+75641183,CD.10,Maniema
+76062995,VN.63,Quang Ngai Province
+76219784,SO.18,Nugaal
+76482305,DZ.14,Tizi Ouzou
+76850544,IQ.17,An Najaf
+76873618,NI.12,Matagalpa
+77575884,SD.53,River Nile
+78063295,CY.03,Larnaka
+78323656,PK.07,Gilgit-Baltistan
+78812093,LV.C7,Sigulda
+78913456,SI.N5,Zalec
+79160013,GN.F,Faranah
+79370071,SI.H3,Horjul
+80225752,NG.39,Jigawa
+80237735,AO.01,Benguela
+80612454,LK.35,Uva
+80629298,MM.04,Kachin
+80749785,BY.05,Minsk
+81037209,TH.26,Chaiyaphum
+81056096,TV.FUN,Funafuti
+81595232,TD.05,Guera
+82363682,CO.32,Casanare
+82374400,LT.63,Telsiai
+83752444,PR.005,Aguadilla
+84216392,CD.15,Haut-Lomami
+86241170,LC.06,Gros-Islet
+87891420,AF.05,Bamyan
+88189164,EC.03,Bolivar
+88347463,LV.13,Jurmala
+88630484,KE.46,Siaya
+88744212,GT.13,Quetzaltenango
+89087256,DZ.13,Tiaret
+89113215,GQ.04,Bioko Norte
+89585046,CD.20,Kwilu
+89654784,SI.L8,Slovenska Bistrica
+89822963,NI.06,Granada
+90929555,BI.19,Ngozi
+90956274,ID.41,West Sulawesi
+91355260,MK.E6,Struga
+92028043,BT.13,Paro
+92040861,TJ.03,Sughd
+92463826,HR.18,Vukovar-Sirmium
+92474397,PE.25,Ucayali
+93119594,VI.030,Saint Thomas Island
+93755929,CU.13,Las Tunas
+94400392,TH.28,Buriram
+95401094,SO.22,Sool
+97711551,GU.TM,Tamuning
+97841074,AF.23,Kandahar
+98376634,MT.18,Il-Hamrun
+99135830,CH.NW,Nidwalden
+99661554,HU.24,Zala
+100147015,BO.01,Chuquisaca
+101858576,FO.OS,Eysturoy
+102060325,MM.15,Magway
+102095363,KZ.16,Soltustik Qazaqstan
+103752088,SO.19,Togdheer
+104109041,SY.06,Daraa
+104266826,CD.22,Lualaba
+104569133,AF.14,Kapisa
+106213564,TD.17,Moyen-Chari
+106221155,CD.29,Tanganyika
+106463682,TH.69,Pattani
+106899984,SI.L7,Sentjur
+106988499,KH.14,Prey Veng
+107117526,VN.87,Can Tho
+107651563,HR.09,Medimurska
+107793140,VN.82,Nam Dinh
+108448288,HT.12,Sud
+110258798,AF.30,Balkh
+110331142,GT.12,Peten
+110333297,VN.37,Tien Giang
+110871626,CD.17,Ituri
+111069417,DZ.47,Khenchela
+113046978,MM.16,Bago
+113490289,KP.03,Hamgyong-namdo
+113605379,TR.28,Giresun
+113891999,MZ.10,Manica
+114121656,SI.A1,Radenci
+114300037,KZ.10,South Kazakhstan
+114341030,MM.12,Tanintharyi
+114653565,UY.15,Salto
+116014412,SO.12,Sanaag
+117011423,RO.11,Buzau
+117319909,AF.08,Ghazni
+118033815,LK.30,North Central
+118096641,MD.64,Cahul
+118997496,PE.11,Ica
+119073129,AF.26,Takhar
+119247019,SD.36,Red Sea

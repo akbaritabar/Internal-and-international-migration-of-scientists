@@ -1,0 +1,27 @@
+2025-02-07 12:29:36,562 - root - INFO - These items are in the environment: ['__annotations__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'argparse', 'args', 'gg', 'gp', 'lg', 'os', 'parser', 'pd']
+2025-02-07 12:29:36,562 - root - INFO - Arguments received from command line: 
+ Namespace(input=['G:/ali/SM/results/atr_cnt_map_19982017_DISCIPLINE.parquet', 'G:/ali/SM/results/atr_reg_map_19982017_DISCIPLINE.parquet'], MEASURE_MAPPED='NMR', MIGRATION_SYSTEM='INT', GEO_REGION='WORLD', TIME_SPAN='19982017', DISAGGREGATION='DISCIPLINE', VAR_CATEGORY='Agr-Eng-Nat', output='G:/ali/SM/results/figures/m_attr_WORLD_19982017_NMR_INT_DISCIPLINE_Agr-Eng-Nat.png')
+2025-02-07 12:29:41,178 - root - INFO - ##################################################
+2025-02-07 12:29:41,179 - root - INFO - Reading data from G:/ali/SM/results/atr_cnt_map_19982017_DISCIPLINE.parquet AND G:/ali/SM/results/atr_reg_map_19982017_DISCIPLINE.parquet
+2025-02-07 12:29:41,179 - root - INFO - ##################################################
+2025-02-07 12:29:41,179 - root - INFO - Data is imported!
+2025-02-07 12:29:41,179 - root - INFO - Disaggregating by: DISCIPLINE
+2025-02-07 12:29:41,179 - root - INFO - Mapping this column: nmr_INT_sum_region
+2025-02-07 12:29:41,200 - root - INFO - data filtered based on disaggregation column!
+2025-02-07 12:29:41,200 - root - INFO - Disaggregation column in use is: fieldOfScience
+2025-02-07 12:29:41,200 - root - INFO - Disaggregation category in use is: Agr-Eng-Nat
+2025-02-07 12:29:41,380 - root - INFO - DF NOT empty; Few rows of data: 
+       iso_a2      name  ... mei_IN_sum_region mei_INT_IN_sum_region
+10904     MT     Marsa  ...               NaN                   NaN
+10905     MT      Luqa  ...               NaN                   NaN
+10915     MT     Paola  ...            100.00                100.00
+10919     MT  Floriana  ...               NaN                   NaN
+10924     MT     Msida  ...            100.00                 31.75
+
+[5 rows x 28 columns]
+2025-02-07 12:29:41,380 - root - INFO - The output in Python script is: G:/ali/SM/results/figures/m_attr_WORLD_19982017_NMR_INT_DISCIPLINE_Agr-Eng-Nat.png
+2025-02-07 12:29:41,380 - root - INFO - Theme used WORLD, NMR
+C:\Users\akbaritabar\.conda\envs\Ali\Lib\site-packages\plotnine\ggplot.py:615: PlotnineWarning: Saving 7 x 3.5 in image.
+C:\Users\akbaritabar\.conda\envs\Ali\Lib\site-packages\plotnine\ggplot.py:616: PlotnineWarning: Filename: G:/ali/SM/results/figures/m_attr_WORLD_19982017_NMR_INT_DISCIPLINE_Agr-Eng-Nat.png
+2025-02-07 12:30:01,218 - root - INFO - ##################################################
+2025-02-07 12:30:01,219 - root - INFO - Figure G:/ali/SM/results/figures/m_attr_WORLD_19982017_NMR_INT_DISCIPLINE_Agr-Eng-Nat.png is exported.

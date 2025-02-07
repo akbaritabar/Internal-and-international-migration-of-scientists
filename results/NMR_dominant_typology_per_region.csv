@@ -1,0 +1,1942 @@
+row_number,nmr_typology,continent_name,country_name,geonames_admin1_ascii_name,n_years_in_typology,n_years,y_pop_INT
+0,Both balanced,Asia,Viet Nam,Quang Ninh,1,1,3
+1,Both balanced,North America,Dominica,,1,1,1
+2,Both balanced,Asia,Afghanistan,Bamyan,1,1,1
+3,Both balanced,Asia,Afghanistan,Ghazni,1,1,2
+4,Both balanced,South America,Peru,Ica,1,1,1
+5,Both balanced,Africa,"Congo, The Democratic Republic of the",Maniema,1,1,1
+6,Both balanced,Asia,Türkiye,Giresun,1,1,1
+7,Both balanced,Africa,"Congo, The Democratic Republic of the",Ituri,1,1,1
+8,Mixed,Asia,Afghanistan,Balkh,1,1,1
+9,Both balanced,Asia,Thailand,Uttaradit,1,1,2
+10,Both balanced,Asia,Georgia,Shida Kartli,1,1,1
+11,Both balanced,Africa,Somalia,Sanaag,1,1,1
+12,Both balanced,Africa,Somalia,Nugaal,1,1,1
+13,Both balanced,Africa,Somalia,,1,1,1
+14,Mixed,South America,Guyana,East Berbice-Corentyne,1,1,3
+15,Both balanced,North America,Guatemala,Peten,1,1,1
+16,Both balanced,Europe,Switzerland,Nidwalden,1,1,1
+17,Both balanced,North America,"Virgin Islands, U.S.",Saint Thomas Island,1,1,1
+18,Mixed,Africa,Sierra Leone,Northern Province,1,1,2
+19,Both balanced,South America,"Venezuela, Bolivarian Republic of",,1,1,1
+20,Both balanced,Europe,Croatia,Vukovar-Sirmium,1,1,1
+21,Both balanced,North America,Haiti,Sud,1,1,1
+22,Both balanced,Europe,Slovenia,Sentjur,1,1,1
+23,Both balanced,North America,Nicaragua,Matagalpa,1,1,4
+24,Both balanced,North America,Nicaragua,,1,1,1
+25,Both balanced,North America,Nicaragua,,1,1,1
+26,Both balanced,Asia,Thailand,Buriram,1,1,1
+27,Both balanced,Asia,Pakistan,Gilgit-Baltistan,1,1,1
+28,Both balanced,Europe,Slovenia,Horjul,1,1,1
+29,Both balanced,Europe,Slovenia,Litija,1,1,1
+30,Both balanced,Europe,Slovenia,Ziri,1,1,1
+31,Both balanced,Europe,Slovenia,Radenci,1,1,1
+32,Both balanced,Europe,Hungary,Zala,1,1,1
+33,Mixed,Africa,Botswana,Ngwaketsi,1,2,6
+34,Both balanced,Europe,Faroe Islands,Eysturoy,1,1,1
+35,Both balanced,Asia,Bhutan,Paro,1,1,1
+36,Both balanced,North America,Puerto Rico,Aguadilla,1,1,2
+37,Both balanced,Africa,Mozambique,Manica,1,1,3
+38,Both balanced,Africa,Sudan,Red Sea,1,1,1
+39,Both balanced,Europe,Malta,,1,1,1
+40,Both balanced,Oceania,Tonga,Tongatapu,1,1,1
+41,Both balanced,Asia,Myanmar,Bago,1,1,4
+42,Both balanced,Asia,Myanmar,Tanintharyi,1,1,1
+43,Both balanced,Asia,Myanmar,Ayeyarwady,1,1,2
+44,Both balanced,Asia,Iraq,Maysan,1,2,2
+45,Both balanced,Europe,"Moldova, Republic of",Cahul,1,1,2
+46,Both balanced,Africa,Morocco,Draa-Tafilalet,1,1,1
+47,Mixed,Europe,Latvia,Sigulda,1,1,1
+48,Both balanced,Europe,Latvia,Jurmala,1,1,1
+49,Both balanced,Europe,Lithuania,Telsiai,1,1,1
+50,Both balanced,Africa,Lesotho,Mokhotlong,1,1,2
+51,Both balanced,Europe,Lithuania,Alytus,1,1,1
+52,Both balanced,South America,Uruguay,Salto,1,1,1
+53,Both balanced,Asia,Viet Nam,Can Tho,1,1,1
+54,Both balanced,Asia,Sri Lanka,North Central,1,1,1
+55,Both balanced,South America,"Bolivia, Plurinational State of",Chuquisaca,1,1,2
+56,Both balanced,Asia,Kazakhstan,South Kazakhstan,1,1,1
+57,Mixed,Oceania,Tuvalu,Funafuti,1,1,1
+58,Both balanced,Asia,"Korea, Democratic People's Republic of",Hamgyong-namdo,1,1,1
+59,Both balanced,Africa,Algeria,Khenchela,1,1,1
+60,Both balanced,Africa,Algeria,,1,1,1
+61,Both balanced,Africa,Algeria,Oum el Bouaghi,1,1,1
+62,Both balanced,Europe,Bulgaria,,1,1,1
+63,Both balanced,Asia,Tajikistan,Sughd,1,1,1
+64,Both balanced,Africa,Chad,Moyen-Chari,1,1,2
+65,Both balanced,South America,Peru,Moquegua,2,4,2
+66,Both balanced,Africa,Equatorial Guinea,Bioko Norte,2,2,1
+67,Both balanced,North America,Dominica,Saint John,2,2,1
+68,Both balanced,Asia,Tajikistan,Gorno-Badakhshan,2,2,3
+69,Both balanced,Africa,Algeria,Tiaret,2,2,6
+70,Both balanced,Africa,Algeria,Tizi Ouzou,2,3,1
+71,Both balanced,Africa,Algeria,Djelfa,2,3,4
+72,Both balanced,Africa,Kenya,Kajiado,2,2,1
+73,Both balanced,Africa,Algeria,Tebessa,2,4,4
+74,Both balanced,Africa,Kenya,Siaya,2,3,2
+75,Both balanced,Asia,Jordan,Jerash,2,3,3
+76,Mixed,Africa,Algeria,Chlef,2,4,6
+77,Mixed,Africa,Algeria,Relizane,2,4,2
+78,Both balanced,South America,Ecuador,Bolivar,2,2,1
+79,Both balanced,Asia,Azerbaijan,Sumqayit,2,2,2
+80,Both balanced,Europe,Estonia,Paernumaa,2,2,1
+81,Both balanced,Asia,Kazakhstan,Almaty Oblysy,2,2,2
+82,Both balanced,Asia,Kazakhstan,Soltustik Qazaqstan,2,2,2
+83,Both balanced,Asia,Cyprus,Larnaka,2,3,1
+84,Both balanced,North America,Bermuda,Hamilton city,2,2,1
+85,Both balanced,Asia,Lebanon,Nabatiye,2,2,1
+86,Both balanced,Africa,Liberia,Nimba,2,2,1
+87,Both balanced,Africa,Liberia,Maryland,2,3,1
+88,Both balanced,Europe,Luxembourg,Capellen,2,3,3
+89,Both balanced,Europe,Latvia,Jelgava,2,2,1
+90,Both balanced,Europe,Romania,Buzau,2,2,1
+91,Both balanced,Europe,North Macedonia,Struga,2,2,3
+92,Both balanced,Asia,Iraq,Muhafazat Karbala',2,2,3
+93,Both balanced,Asia,Myanmar,Kachin,2,3,1
+94,Both balanced,Europe,Malta,Il-Mosta,2,2,1
+95,Both balanced,Asia,Iraq,Al Qadisiyah,2,4,10
+96,Both balanced,Africa,Mauritius,Rodrigues,2,2,1
+97,Both balanced,Oceania,Palau,Koror,2,3,1
+98,Both balanced,North America,Puerto Rico,Utuado,2,2,1
+99,Both balanced,Africa,Mozambique,Tete,2,2,1
+100,Both balanced,North America,Puerto Rico,Lajas,2,2,1
+101,Both balanced,Europe,Slovenia,Slovenska Konjice,2,2,1
+102,Both balanced,Africa,Zambia,Southern,2,2,4
+103,Both balanced,Europe,Hungary,Nograd,2,2,1
+104,Both balanced,North America,Nicaragua,Granada,2,2,1
+105,Both balanced,Europe,Slovenia,Slovenska Bistrica,2,2,1
+106,Both balanced,Europe,Slovenia,Trzin,2,3,2
+107,Both balanced,Europe,Slovenia,Zuzemberk,2,2,1
+108,Both balanced,Europe,Slovenia,Ravne na Koroskem,2,2,2
+109,Both balanced,Asia,Thailand,Roi Et,2,3,1
+110,Both balanced,Europe,Croatia,Virovitick-Podravska,2,2,1
+111,Both balanced,Europe,Croatia,Sisacko-Moslavacka,2,3,1
+112,Both balanced,Africa,Sierra Leone,,2,2,3
+113,Both balanced,Africa,Zimbabwe,,2,2,2
+114,Both balanced,Asia,Thailand,Sakon Nakhon,2,3,1
+115,Both balanced,Oceania,Guam,Tamuning,2,2,1
+116,Both balanced,Africa,Somalia,Sool,2,2,1
+117,Both balanced,Africa,Somalia,Togdheer,2,2,1
+118,Both balanced,Asia,Georgia,Samtskhe-Javakheti,2,3,3
+119,Both balanced,Africa,"Congo, The Democratic Republic of the",Kasai-Central,2,2,1
+120,Both balanced,Africa,"Congo, The Democratic Republic of the",Tanganyika,2,2,4
+121,Both balanced,Africa,"Congo, The Democratic Republic of the",Lualaba,2,2,2
+122,Both balanced,Asia,Afghanistan,Kapisa,2,3,1
+123,Both balanced,Africa,"Congo, The Democratic Republic of the",Kasai-Oriental,2,2,3
+124,Both balanced,Africa,"Congo, The Democratic Republic of the",Bas-Congo,3,3,1
+125,Both balanced,Asia,Viet Nam,Tien Giang,3,3,1
+126,Both balanced,Asia,Syrian Arab Republic,Ar-Raqqah,3,4,1
+127,Both balanced,Asia,Afghanistan,Takhar,3,3,1
+128,Mixed,Africa,Algeria,Ain Temouchent,3,6,2
+129,Both balanced,Africa,Algeria,Adrar,3,6,10
+130,Both balanced,Africa,Somalia,Galguduud,3,4,1
+131,Both balanced,North America,Guatemala,Quetzaltenango,3,3,1
+132,Mixed,South America,Ecuador,Imbabura,3,11,1
+133,Net receiver,South America,Ecuador,Napo,3,8,4
+134,Both balanced,Europe,Estonia,Laeaene-Virumaa,3,3,1
+135,Mixed,Asia,Thailand,Kalasin,3,5,4
+136,Both balanced,Asia,Thailand,Pattani,3,3,1
+137,Both balanced,Europe,Croatia,Medimurska,3,3,1
+138,Both balanced,North America,Dominican Republic,Monsenor Nouel,3,3,1
+139,Both balanced,North America,Dominican Republic,La Vega,3,4,6
+140,Both balanced,Africa,Angola,Benguela,3,4,4
+141,Both balanced,Europe,Iceland,Westfjords,3,6,3
+142,Both balanced,North America,Haiti,Nord,3,3,4
+143,Mixed,Africa,Côte d'Ivoire,Savanes,3,7,19
+144,Both balanced,South America,"Venezuela, Bolivarian Republic of",Yaracuy,3,3,1
+145,Both balanced,Asia,Thailand,Chaiyaphum,3,3,1
+146,Mixed,Africa,Zimbabwe,Mashonaland Central,3,4,5
+147,Both balanced,Europe,Russian Federation,Kostroma Oblast,3,3,2
+148,Both balanced,Europe,Slovenia,Zalec,3,3,1
+149,Mixed,Africa,Kenya,Kirinyaga,3,4,1
+150,Mixed,Africa,Kenya,Machakos,3,6,11
+151,Both balanced,Asia,Kyrgyzstan,,3,3,1
+152,Both balanced,Europe,Slovenia,Domzale,3,5,1
+153,Both balanced,Asia,Cambodia,Svay Rieng,3,3,1
+154,Both balanced,Asia,Cambodia,Prey Veng,3,3,1
+155,Both balanced,Europe,Slovenia,Trebnje,3,3,1
+156,Both balanced,Africa,"Tanzania, United Republic of",Pwani,3,3,1
+157,Both balanced,Europe,Slovenia,Skofja Loka,3,3,1
+158,Both balanced,Europe,Slovenia,Race-Fram,3,3,1
+159,Mixed,Africa,Benin,Atlantique,3,4,15
+160,Both balanced,Europe,Slovenia,Krsko,3,3,1
+161,Both balanced,Asia,Saudi Arabia,Al Bahah,3,3,1
+162,Both balanced,Africa,Egypt,North Sinai,3,8,22
+163,Mixed,Asia,Iraq,An Najaf,3,4,5
+164,Both balanced,Europe,Liechtenstein,Balzers,3,6,3
+165,Both balanced,Europe,Lithuania,Marijampole County,3,3,1
+166,Mixed,Europe,Romania,Mehedinti,3,6,4
+167,Both balanced,Europe,Ukraine,Sevastopol City,3,4,2
+168,Both balanced,Europe,Latvia,Priekuli,3,5,1
+169,Both balanced,South America,Colombia,Casanare,3,4,2
+170,Both balanced,Asia,Viet Nam,Nam Dinh,3,4,2
+171,Mixed,Asia,Türkiye,Tunceli,3,6,75
+172,Both balanced,Europe,Malta,Luqa,3,3,1
+173,Both balanced,Europe,Malta,Il-Marsa,3,3,2
+174,Both balanced,Europe,Malta,Il-Hamrun,3,3,1
+175,Both balanced,Asia,Myanmar,Magway,4,4,1
+176,Both balanced,Africa,Madagascar,Diana,4,4,1
+177,Both balanced,Africa,Madagascar,Boeny,4,5,1
+178,Both balanced,Europe,Romania,Caras-Severin,4,4,3
+179,Both balanced,Europe,Luxembourg,Wiltz,4,4,1
+180,Mixed,Asia,Iraq,Babil,4,6,1
+181,Both balanced,Europe,Lithuania,Panevezys,4,5,1
+182,Both balanced,Asia,Saudi Arabia,Northern Borders,4,5,1
+183,Both balanced,South America,Uruguay,Tacuarembo,4,6,1
+184,Both balanced,South America,"Bolivia, Plurinational State of",El Beni,4,4,4
+185,Both balanced,Asia,Viet Nam,Bac Ninh,4,5,1
+186,Both balanced,North America,Saint Lucia,Gros-Islet,4,5,1
+187,Both balanced,Asia,Indonesia,Riau Islands,4,6,2
+188,Both balanced,North America,Saint Lucia,Castries,4,4,1
+189,Mixed,Africa,Benin,Plateau,4,8,1
+190,Both balanced,North America,Puerto Rico,Humacao,4,4,1
+191,Mixed,Africa,Niger,Zinder,4,7,3
+192,Both balanced,Asia,Viet Nam,Quang Ngai Province,4,7,3
+193,Both balanced,Europe,Slovenia,Naklo,4,4,1
+194,Both balanced,Africa,Burundi,Ngozi,4,4,2
+195,Both balanced,Africa,Nigeria,Jigawa,4,6,1
+196,Both balanced,Africa,Rwanda,Northern Province,4,5,3
+197,Net receiver,Africa,Kenya,Kitui,4,10,8
+198,Both balanced,Africa,Egypt,Suez,4,13,1
+199,Both balanced,North America,Nicaragua,Esteli,4,4,2
+200,Mixed,Africa,Kenya,Embu,4,9,1
+201,Both balanced,Europe,Belarus,Minsk,4,4,1
+202,Net receiver,Africa,Côte d'Ivoire,Sassandra-Marahoue,4,9,4
+203,Both balanced,Africa,Burkina Faso,Centre-Ouest,4,7,1
+204,Both balanced,Africa,Algeria,Medea,4,4,1
+205,Both balanced,Asia,Nepal,Mid Western,4,4,1
+206,Both balanced,Europe,Switzerland,Obwalden,4,4,1
+207,Mixed,Africa,Senegal,Diourbel,4,7,2
+208,Both balanced,South America,Ecuador,Pastaza,4,9,4
+209,Both balanced,South America,Ecuador,Esmeraldas,4,5,2
+210,Both balanced,Africa,Algeria,Skikda,4,6,3
+211,Mixed,Africa,Algeria,Ain Defla,4,6,15
+212,Both balanced,Asia,Oman,Al Batinah South,4,5,1
+213,Both balanced,Asia,Thailand,Surat Thani,4,6,1
+214,Both balanced,Africa,"Congo, The Democratic Republic of the",Kwilu,4,5,1
+215,Mixed,Africa,"Congo, The Democratic Republic of the",Haut-Lomami,4,6,12
+216,Mixed,Asia,Oman,Al Buraimi,4,8,5
+217,Both balanced,South America,Peru,Amazonas,4,7,2
+218,Both balanced,Africa,Algeria,Mila,4,5,2
+219,Mixed,Asia,Viet Nam,Kien Giang,4,7,5
+220,Mixed,Asia,Viet Nam,Thai Binh,4,5,3
+221,Mixed,Africa,Algeria,Tamanrasset,4,7,1
+222,Both balanced,Africa,Chad,Guera,4,4,1
+223,Both balanced,Europe,Ukraine,Ivano-Frankivsk,5,7,1
+224,Both balanced,Asia,Jordan,Ajlun,5,7,4
+225,Both balanced,South America,Ecuador,Carchi,5,5,2
+226,Mixed,Africa,Algeria,Bordj Bou Arreridj,5,6,3
+227,Mixed,South America,Ecuador,Cotopaxi,5,10,23
+228,Both balanced,Asia,Azerbaijan,Lankaran,5,5,1
+229,Both balanced,Africa,Algeria,M'Sila,5,5,1
+230,Mixed,Africa,Algeria,Bouira,5,10,22
+231,Both balanced,South America,Ecuador,Manabi,5,14,1
+232,Both balanced,Africa,Algeria,Bejaia,5,7,5
+233,Both balanced,Africa,Algeria,Tlemcen,5,6,6
+234,Net sender,Asia,Bangladesh,Sylhet,5,25,191
+235,Net receiver,South America,Ecuador,Tungurahua,5,12,410
+236,Both balanced,Europe,Estonia,Jogevamaa,5,7,6
+237,Net receiver,Africa,Algeria,Batna,5,12,34
+238,Both balanced,Asia,Thailand,Kanchanaburi,5,8,6
+239,Mixed,Africa,Tunisia,Jundubah,5,14,17
+240,Both balanced,Africa,Kenya,Bungoma,5,7,3
+241,Net receiver,Asia,Thailand,Rayong,5,6,134
+242,Mixed,Africa,Kenya,Meru,5,8,15
+243,Both balanced,Africa,"Tanzania, United Republic of",Mbeya,5,7,6
+244,Mixed,Asia,Kazakhstan,Aqtoebe,5,9,21
+245,Mixed,Asia,Iraq,Wasit,5,11,97
+246,Both balanced,North America,Cuba,Las Tunas,5,5,4
+247,Both balanced,Asia,Sri Lanka,Uva,5,5,2
+248,INT rec. IN sen.,Asia,Saudi Arabia,Hai'l Region,5,13,96
+249,Both balanced,Europe,Lithuania,Utena,5,5,1
+250,Mixed,Asia,Iraq,Al Muthanna,5,12,246
+251,Both balanced,Asia,Uzbekistan,Xorazm,5,5,3
+252,Both balanced,Asia,Viet Nam,Phu Tho,5,10,2
+253,Both balanced,Oceania,Solomon Islands,Guadalcanal,5,6,1
+254,Both balanced,North America,"Bonaire, Sint Eustatius and Saba",Bonaire,5,5,1
+255,Both balanced,Europe,"Moldova, Republic of",Gagauzia,5,5,2
+256,Both balanced,Europe,"Moldova, Republic of",Balti,5,7,1
+257,Both balanced,Africa,Sudan,River Nile,5,5,3
+258,Both balanced,South America,Paraguay,Alto Parana,5,6,3
+259,Net receiver,Africa,Ethiopia,Oromiya,5,18,125
+260,Both balanced,Europe,Finland,Paijanne Tavastia,5,8,1
+261,Both balanced,Asia,Indonesia,North Maluku,5,9,1
+262,Both balanced,Europe,Slovenia,Postojna,5,7,2
+263,Both balanced,Europe,Slovenia,Ormoz,5,5,1
+264,Both balanced,Europe,Hungary,Tolna,5,5,1
+265,Both balanced,Europe,Slovenia,Store,5,6,4
+266,Both balanced,South America,Chile,Nuble,5,11,8
+267,Mixed,Africa,Nigeria,Bayelsa,5,9,10
+268,Both balanced,Europe,Slovenia,Sempeter-Vrtojba,5,8,4
+269,Mixed,Africa,Nigeria,Gombe,5,7,8
+270,Net receiver,Africa,Nigeria,Nassarawa,5,17,69
+271,Both balanced,Asia,Türkiye,Bitlis,5,10,3
+272,Mixed,Asia,Türkiye,Kirklareli,5,13,32
+273,Mixed,Asia,Viet Nam,An Giang,5,14,17
+274,Mixed,Africa,Senegal,Ziguinchor,5,12,18
+275,Both balanced,Oceania,New Zealand,Marlborough,5,6,1
+276,Both balanced,Oceania,Papua New Guinea,West New Britain,5,5,1
+277,Both balanced,North America,El Salvador,San Miguel,5,5,1
+278,Both balanced,Asia,Syrian Arab Republic,Daraa,5,5,1
+279,Both balanced,Asia,Syrian Arab Republic,Tartus,5,8,6
+280,Both balanced,South America,Peru,Tumbes,5,7,28
+281,Mixed,Africa,Togo,Kara,5,11,6
+282,Both balanced,Asia,Afghanistan,Nangarhar,6,8,6
+283,Both balanced,Asia,Afghanistan,Kandahar,6,6,5
+284,Both balanced,Asia,Afghanistan,Khowst,6,6,1
+285,Both balanced,North America,Cuba,Camaguey,6,7,4
+286,Mixed,Asia,Türkiye,Bayburt,6,12,47
+287,Mixed,Asia,Thailand,Phetchabun,6,12,6
+288,Both balanced,Asia,Myanmar,Kayin,6,6,1
+289,Both balanced,Africa,Mauritius,Black River,6,6,4
+290,Both balanced,Asia,Kazakhstan,Zhambyl,6,12,1
+291,Both balanced,Asia,Kazakhstan,Pavlodar Region,6,12,1
+292,Both balanced,Asia,Kazakhstan,Atyrau,6,8,2
+293,Both balanced,Asia,Georgia,Kakheti,6,10,3
+294,Both balanced,Asia,Kazakhstan,Aqmola,6,7,1
+295,Both balanced,Europe,Slovenia,Piran-Pirano,6,9,4
+296,Mixed,Europe,Czechia,Pardubicky,6,25,209
+297,Both balanced,Europe,Slovenia,Radovljica,6,7,1
+298,Both balanced,Europe,Slovenia,Rogaska Slatina,6,6,1
+299,Both balanced,North America,Saint Kitts and Nevis,Saint Mary Cayon,6,6,1
+300,Both balanced,Asia,Cambodia,Battambang,6,7,2
+301,Mixed,Africa,"Tanzania, United Republic of",Dodoma,6,19,60
+302,Both balanced,South America,"Venezuela, Bolivarian Republic of",Bolivar,6,7,3
+303,Mixed,Africa,Kenya,Tharaka District,6,11,9
+304,Mixed,Africa,Kenya,Narok,6,10,11
+305,Net receiver,Africa,Kenya,Nyeri,6,9,23
+306,Mixed,Africa,Niger,Maradi,6,10,17
+307,Mixed,Africa,Kenya,Kisii,6,10,14
+308,Both balanced,Asia,Thailand,Narathiwat,6,10,4
+309,Mixed,Africa,Kenya,Kericho,6,11,1
+310,Mixed,Africa,Nigeria,FCT,6,25,101
+311,Both balanced,Europe,Croatia,Sibensko-Kniniska,6,11,1
+312,Net receiver,Europe,Sweden,Dalarna,6,25,55
+313,Mixed,Africa,Cameroon,Far North,6,12,104
+314,Both balanced,South America,Argentina,Tierra del Fuego,6,8,4
+315,INT rec. IN sen.,Africa,Nigeria,Kwara,6,25,275
+316,Net receiver,Africa,Cameroon,North-West,6,11,4
+317,Net sender,Europe,Hungary,Baranya,6,25,883
+318,Both balanced,Africa,Zambia,Central,6,9,9
+319,Both balanced,Africa,Nigeria,Kebbi,6,11,20
+320,Net receiver,South America,Chile,Los Rios Region,6,25,398
+321,Mixed,Africa,Nigeria,Osun,6,21,71
+322,Both balanced,Africa,Algeria,Constantine,6,14,3
+323,Both balanced,Europe,Hungary,Komarom-Esztergom,6,7,2
+324,Net receiver,South America,Chile,Antofagasta,6,25,123
+325,Both balanced,Asia,Thailand,Chachoengsao,6,12,4
+326,INT rec. IN sen.,Oceania,Australia,Northern Territory,6,25,624
+327,Mixed,Asia,Thailand,Nakhon Pathom,6,14,16
+328,Net receiver,Asia,Jordan,Madaba,6,10,40
+329,Mixed,Africa,Algeria,El Oued,6,16,50
+330,Both balanced,Africa,Algeria,Tissemsilt,6,10,8
+331,INT rec. IN sen.,Asia,Jordan,Balqa,6,23,69
+332,Mixed,Africa,South Africa,Northern Cape,6,13,17
+333,Both balanced,Europe,Bosnia and Herzegovina,Srpska,6,13,3
+334,Both balanced,Asia,Oman,Southeastern Governorate,6,10,4
+335,Both balanced,Asia,Viet Nam,Haiphong,6,14,6
+336,Net receiver,Asia,Türkiye,Isparta,6,25,449
+337,Both balanced,South America,Peru,Ucayali,6,7,4
+338,INT rec. IN sen.,Africa,Egypt,Minya,6,25,488
+339,INT rec. IN sen.,Asia,Philippines,Metro Manila,6,25,635
+340,Both balanced,Asia,Viet Nam,Ba Ria-Vung Tau,6,10,1
+341,Both balanced,Europe,Russian Federation,Novgorod Oblast,6,7,5
+342,IN rec. INT sen.,Europe,Russian Federation,Nizhny Novgorod Oblast,6,25,501
+343,Net sender,Africa,Egypt,Asyut,6,25,727
+344,INT rec. IN sen.,Europe,Poland,Mazovia,6,25,6966
+345,Mixed,Africa,Tunisia,Kairouan,6,14,1
+346,IN rec. INT sen.,Europe,Poland,Greater Poland,6,25,2940
+347,Net receiver,Asia,Türkiye,Bilecik,6,13,73
+348,Net receiver,Asia,"Iran, Islamic Republic of",Gilan,6,25,215
+349,Net receiver,Asia,"Iran, Islamic Republic of",Sistan and Baluchestan,6,24,18
+350,Mixed,Asia,Türkiye,Artvin,6,14,26
+351,Both balanced,Asia,Iraq,Kirkuk,6,13,39
+352,INT rec. IN sen.,Europe,Portugal,Castelo Branco,6,25,686
+353,Both balanced,Asia,Yemen,Al Hudaydah,6,7,2
+354,Mixed,Africa,Tunisia,Bin 'Arus,6,17,55
+355,Net sender,Africa,Ethiopia,Addis Ababa,6,25,1433
+356,Mixed,Europe,Romania,Timis,6,25,292
+357,Both balanced,Africa,Ethiopia,Tigray,6,14,95
+358,Net receiver,Africa,Tunisia,Gafsa,6,17,20
+359,Both balanced,Africa,Libya,Jabal al Gharbi,6,9,1
+360,Mixed,Asia,United Arab Emirates,Ra's al Khaymah,6,14,33
+361,Both balanced,Africa,Guinea,Faranah,7,8,2
+362,Both balanced,Africa,Guinea,Kankan,7,8,1
+363,Mixed,Africa,Morocco,Oriental,7,17,22
+364,Net receiver,South America,Colombia,Caldas,7,25,23
+365,Both balanced,Europe,Romania,Dolj,7,25,40
+366,Both balanced,Europe,Montenegro,Bar,7,7,4
+367,Net sender,Asia,India,Rajasthan,7,25,1883
+368,Net sender,Europe,Romania,Bucuresti,7,25,724
+369,INT rec. IN sen.,Africa,Tunisia,Tunis,7,25,2050
+370,Mixed,Africa,Benin,Littoral,7,25,118
+371,Both balanced,South America,Paraguay,Neembucu,7,7,1
+372,Net sender,Asia,India,Goa,7,25,719
+373,Net receiver,Africa,Ghana,Volta,7,9,9
+374,Both balanced,Asia,Myanmar,Mon,7,7,1
+375,Net receiver,Africa,Benin,Borgou,7,12,2
+376,Mixed,Asia,Thailand,Nakhon Sawan,7,13,5
+377,Mixed,Asia,Türkiye,Mardin,7,11,20
+378,Mixed,South America,Colombia,Norte de Santander,7,21,4
+379,Mixed,Asia,Türkiye,Konya,7,25,440
+380,Both balanced,North America,Cuba,Santiago de Cuba,7,8,1
+381,Both balanced,Europe,Malta,Attard,7,9,1
+382,Both balanced,Europe,Albania,Durres,7,13,3
+383,Net sender,South America,Brazil,Paraiba,7,25,3394
+384,Net receiver,Europe,Portugal,Evora,7,25,147
+385,Both balanced,Africa,Somalia,Woqooyi Galbeed,7,8,4
+386,Both balanced,Africa,Senegal,Saint-Louis,7,13,5
+387,Net receiver,Africa,Ghana,Eastern,7,18,3
+388,Both balanced,Asia,Iraq,Dhi Qar,7,15,1
+389,Mixed,Africa,Cabo Verde,Praia,7,14,16
+390,Both balanced,Asia,Viet Nam,Hai Duong,7,11,1
+391,Both balanced,Europe,Isle of Man,Douglas,7,9,2
+392,Mixed,Europe,Russian Federation,Kaliningrad,7,25,61
+393,Both balanced,North America,Puerto Rico,Manati,7,7,3
+394,Mixed,Europe,Spain,La Rioja,7,25,97
+395,Both balanced,Africa,Tunisia,Nabul,7,25,21
+396,Net receiver,North America,Mexico,Colima,7,25,82
+397,Mixed,Asia,Kazakhstan,Shymkent,7,17,260
+398,Both balanced,Asia,Kazakhstan,Qostanay,7,12,1
+399,Net receiver,Europe,Poland,West Pomerania,7,25,457
+400,INT rec. IN sen.,Europe,Slovakia,Kosicky kraj,7,25,177
+401,Mixed,Africa,Tunisia,Al Munastir,7,25,33
+402,Mixed,Africa,Egypt,Qena,7,25,113
+403,INT rec. IN sen.,Asia,Kazakhstan,Almaty,7,25,114
+404,Net receiver,Asia,"Iran, Islamic Republic of",Khuzestan,7,25,213
+405,Net receiver,Africa,Egypt,Damietta,7,11,95
+406,Mixed,Europe,Czechia,Jihocesky kraj,7,25,125
+407,Net receiver,Africa,Botswana,Central,7,10,7
+408,Net sender,Asia,"Korea, Republic of",Daejeon,7,25,5280
+409,Both balanced,Asia,Viet Nam,Phu Yen,7,7,1
+410,Both balanced,Asia,Indonesia,West Sulawesi,7,8,1
+411,Both balanced,Asia,Indonesia,North Kalimantan,7,9,2
+412,Mixed,Asia,Türkiye,Yalova,7,12,42
+413,Mixed,Africa,Burkina Faso,Hauts-Bassins,7,25,89
+414,Both balanced,Europe,Slovenia,Zagorje ob Savi,7,7,2
+415,Net sender,Asia,Malaysia,Johor,7,25,2620
+416,Both balanced,Asia,Indonesia,Bangka-Belitung Islands,7,7,2
+417,Net sender,Europe,Russian Federation,Rostov,7,25,537
+418,Net sender,Asia,Malaysia,Melaka,7,24,276
+419,Both balanced,Asia,Philippines,Northern Mindanao,7,8,5
+420,Both balanced,North America,Honduras,Comayagua,7,8,2
+421,Net receiver,Africa,Egypt,Monufia,7,25,83
+422,INT rec. IN sen.,Asia,Türkiye,Bursa,7,25,925
+423,Both balanced,Africa,Mozambique,Nampula,7,13,1
+424,IN rec. INT sen.,North America,Canada,Prince Edward Island,7,25,98
+425,Both balanced,South America,Argentina,La Pampa,7,8,1
+426,Both balanced,Asia,Viet Nam,Dong Nai,7,11,13
+427,Both balanced,Asia,Bangladesh,Rangpur Division,7,21,56
+428,Net receiver,Europe,Slovenia,Koper-Capodistria,7,19,47
+429,Both balanced,Asia,Bangladesh,Barisal,7,18,1
+430,Both balanced,North America,Honduras,Yoro,7,9,2
+431,Both balanced,South America,"Venezuela, Bolivarian Republic of",Falcon,7,9,6
+432,Net receiver,Africa,Egypt,Beheira,7,12,1
+433,Mixed,Africa,Kenya,Migori,7,15,3
+434,Both balanced,South America,Peru,San Martin,7,8,2
+435,Both balanced,Asia,China,Qinghai,7,25,2
+436,Mixed,Europe,Russian Federation,Saratovskaya Oblast,7,25,307
+437,Mixed,Africa,Kenya,Kilifi,7,14,1
+438,Net receiver,Africa,Kenya,Kakamega,7,16,1
+439,INT rec. IN sen.,North America,United States,New Hampshire,7,25,2238
+440,Net receiver,Asia,Türkiye,Edirne,7,25,175
+441,Mixed,South America,Argentina,San Luis,7,25,183
+442,Mixed,Europe,Croatia,Primorsko-Goranska,7,25,59
+443,Mixed,Africa,"Congo, The Democratic Republic of the",South Kivu,7,15,14
+444,Both balanced,Asia,Viet Nam,Lam Dong,7,14,1
+445,IN rec. INT sen.,Asia,Japan,Yamanashi,7,25,632
+446,Mixed,Asia,Bangladesh,Khulna,7,25,106
+447,Mixed,Asia,Oman,Az Zahirah,7,14,6
+448,Net sender,Africa,Nigeria,Borno,7,25,58
+449,Both balanced,Oceania,Fiji,Western,7,12,6
+450,Mixed,Asia,Oman,Ad Dakhiliyah,7,15,1
+451,Net receiver,Africa,Cameroon,South-West,7,25,71
+452,Net sender,South America,Argentina,Tucuman,7,25,483
+453,Net receiver,Asia,Japan,Shiga,7,25,635
+454,Both balanced,Asia,Indonesia,Central Kalimantan,7,9,7
+455,Net sender,Oceania,New Zealand,Manawatu-Wanganui,7,25,943
+456,Net receiver,Asia,Türkiye,Manisa,7,25,142
+457,Mixed,Africa,Algeria,Souk Ahras,7,15,3
+458,Mixed,Asia,Jordan,Tafielah,7,16,29
+459,Mixed,Africa,Nigeria,Plateau,7,25,77
+460,Net sender,Europe,Switzerland,Neuchatel,7,25,415
+461,Mixed,Africa,Nigeria,Rivers,7,25,255
+462,Both balanced,South America,Chile,O'Higgins Region,7,13,3
+463,Mixed,Asia,Jordan,Ma'an,7,19,45
+464,IN rec. INT sen.,Asia,Japan,Akita,7,25,1197
+465,Both balanced,Asia,Azerbaijan,Astara,7,12,2
+466,INT rec. IN sen.,Europe,Switzerland,Saint Gallen,7,25,569
+467,Both balanced,Africa,Algeria,Sidi Bel Abbes,7,7,3
+468,IN rec. INT sen.,Asia,Japan,Mie,7,25,949
+469,Both balanced,North America,Nicaragua,North Caribbean Coast,7,7,1
+470,Mixed,Asia,Thailand,Chanthaburi,7,18,2
+471,Mixed,Europe,Russian Federation,Krasnoyarskiy,7,25,748
+472,Mixed,South America,Chile,Aysen,7,16,14
+473,Net receiver,North America,United States,Rhode Island,7,25,5114
+474,Both balanced,Europe,Hungary,Jasz-Nagykun-Szolnok,7,7,1
+475,Mixed,Africa,Ethiopia,Somali,7,9,1
+476,Mixed,North America,Costa Rica,San Jose,7,25,197
+477,Mixed,Asia,Türkiye,Cankiri,7,13,41
+478,Mixed,Asia,United Arab Emirates,Ajman,7,17,38
+479,Net receiver,Asia,Türkiye,Kocaeli,8,25,681
+480,Mixed,Europe,Switzerland,Zug,8,24,21
+481,Both balanced,Africa,Côte d'Ivoire,Vallee du Bandama,8,18,1
+482,Mixed,Africa,Rwanda,Kigali,8,22,5
+483,Both balanced,Europe,Hungary,Vas,8,10,1
+484,INT rec. IN sen.,Europe,Netherlands,North Holland,8,25,4897
+485,Net receiver,Europe,Austria,Vorarlberg,8,25,13
+486,IN rec. INT sen.,Asia,Japan,Gunma,8,25,1336
+487,Mixed,Europe,Norway,More og Romsdal,8,25,105
+488,INT rec. IN sen.,South America,Chile,Valparaiso,8,25,703
+489,IN rec. INT sen.,Asia,Japan,Kanagawa,8,25,3955
+490,Net sender,South America,"Venezuela, Bolivarian Republic of",Distrito Federal,8,25,670
+491,INT rec. IN sen.,Europe,Hungary,Pest,8,25,166
+492,Net receiver,Asia,Türkiye,Kastamonu,8,15,220
+493,Mixed,Africa,Algeria,Laghouat,8,21,179
+494,Net receiver,Oceania,Australia,Tasmania,8,25,1588
+495,Net receiver,Asia,Japan,Aomori,8,25,844
+496,Mixed,Europe,Netherlands,Drenthe,8,25,31
+497,Net sender,Europe,France,Hauts-de-France,8,25,2709
+498,Net receiver,Asia,Thailand,Pathum Thani,8,25,295
+499,IN rec. INT sen.,Asia,Japan,Miyazaki,8,25,651
+500,Mixed,Europe,Russian Federation,Voronezj,8,25,405
+501,Mixed,Europe,Hungary,Fejer,8,25,21
+502,Net receiver,Europe,Hungary,Gyor-Moson-Sopron,8,25,27
+503,Net sender,Asia,Japan,Niigata,8,25,1473
+504,IN rec. INT sen.,Asia,Japan,Oita,8,25,500
+505,Net sender,Oceania,New Zealand,Auckland,8,25,4484
+506,Net receiver,Asia,Saudi Arabia,Al Jawf,8,18,69
+507,Mixed,Asia,Indonesia,Yogyakarta,8,25,402
+508,Both balanced,Oceania,New Zealand,Gisborne,8,8,1
+509,Both balanced,Africa,Nigeria,Yobe,8,10,2
+510,Both balanced,Asia,Azerbaijan,Xankandi Sahari,8,10,3
+511,Both balanced,Asia,Indonesia,South Kalimantan,8,17,17
+512,Both balanced,Africa,"Tanzania, United Republic of",Zanzibar Urban/West,8,15,3
+513,Net receiver,Africa,South Africa,Limpopo,8,25,63
+514,Net receiver,Europe,Switzerland,Fribourg,8,25,274
+515,IN rec. INT sen.,Asia,Japan,Shimane,8,25,723
+516,Mixed,Europe,Switzerland,Basel-Landschaft,8,25,31
+517,Net receiver,Oceania,New Zealand,Waikato,8,25,980
+518,Net sender,Europe,Ukraine,Donetsk,8,25,204
+519,Mixed,Asia,Thailand,Nonthaburi,8,25,15
+520,Mixed,South America,Ecuador,El Oro,8,12,3
+521,Both balanced,Africa,Sudan,Blue Nile,8,10,5
+522,Both balanced,Africa,Sudan,White Nile,8,8,1
+523,Both balanced,South America,Peru,Apurimac,8,11,6
+524,IN rec. INT sen.,Europe,Russian Federation,Tomsk Oblast,8,25,446
+525,Net receiver,Asia,China,Zhejiang,8,25,41173
+526,IN rec. INT sen.,Asia,Japan,Yamagata,8,25,599
+527,Both balanced,Africa,Sudan,Sinnar,8,12,1
+528,INT rec. IN sen.,Asia,Türkiye,Eskisehir,8,25,254
+529,IN rec. INT sen.,Asia,Japan,Yamaguchi,8,25,1390
+530,Both balanced,Europe,Croatia,Varazdinska,8,10,1
+531,Both balanced,Africa,"Tanzania, United Republic of",Tanga,8,16,1
+532,Mixed,Africa,Nigeria,Akwa Ibom,8,25,22
+533,Net receiver,Europe,Italy,Molise,8,25,230
+534,Net sender,Europe,Italy,The Marches,8,25,921
+535,Net sender,Europe,Estonia,Tartu,8,25,1732
+536,IN rec. INT sen.,Europe,Russian Federation,Sverdlovsk,8,25,860
+537,Net sender,Asia,Bangladesh,Rajshahi Division,8,25,217
+538,Both balanced,South America,Peru,Lima region,8,12,2
+539,Both balanced,Europe,Estonia,Vorumaa,8,8,2
+540,Both balanced,Africa,Kenya,Kiambu,8,15,6
+541,Mixed,South America,Argentina,Salta,8,25,62
+542,Net sender,Africa,Nigeria,Lagos,8,25,260
+543,Both balanced,Africa,Kenya,Laikipia,8,9,1
+544,Both balanced,South America,Peru,Pasco,8,8,1
+545,Both balanced,South America,"Venezuela, Bolivarian Republic of",Guarico,8,9,1
+546,IN rec. INT sen.,South America,Argentina,Misiones,8,25,54
+547,Mixed,Asia,Türkiye,Diyarbakir,8,25,152
+548,Mixed,Asia,Viet Nam,Long An,8,10,6
+549,Both balanced,Europe,Slovenia,Ajdovscina,8,11,5
+550,Net receiver,Asia,Türkiye,Rize,8,15,7
+551,INT rec. IN sen.,North America,United States,Alaska,8,25,469
+552,Net receiver,North America,Canada,Saskatchewan,8,25,1705
+553,INT rec. IN sen.,Africa,Kenya,Uasin Gishu,8,25,195
+554,Net sender,Asia,Bangladesh,Chittagong,8,25,294
+555,INT rec. IN sen.,Europe,Italy,Basilicate,8,25,214
+556,Mixed,Africa,"Tanzania, United Republic of",Morogoro,8,25,72
+557,Both balanced,Oceania,Papua New Guinea,East New Britain,8,8,1
+558,Net receiver,Europe,Russian Federation,Samara Oblast,8,25,424
+559,INT rec. IN sen.,North America,Canada,New Brunswick,8,25,751
+560,Mixed,Asia,Philippines,Western Visayas,8,25,36
+561,IN rec. INT sen.,Asia,Philippines,Central Visayas,8,25,150
+562,Mixed,South America,"Venezuela, Bolivarian Republic of",Carabobo,8,19,6
+563,Net receiver,Asia,China,Xinjiang,8,25,2554
+564,Both balanced,Africa,"Tanzania, United Republic of",Iringa,8,8,1
+565,Mixed,North America,Saint Kitts and Nevis,Saint George Basseterre,8,16,28
+566,Both balanced,North America,Saint Kitts and Nevis,Saint Paul Charlestown,8,15,4
+567,Mixed,Asia,"Korea, Republic of",Jeju-do,8,25,422
+568,Both balanced,Asia,Philippines,Caraga,8,14,1
+569,Mixed,Asia,Malaysia,Negeri Sembilan,8,25,516
+570,Net sender,Europe,Slovenia,Ljubljana,8,25,3533
+571,Both balanced,North America,Saint Vincent and the Grenadines,Saint George,8,12,4
+572,IN rec. INT sen.,Asia,"Iran, Islamic Republic of",Yazd,8,25,422
+573,Net receiver,Europe,Belgium,Brussels Capital,8,25,5513
+574,Both balanced,Europe,Slovenia,Slovenj Gradec,8,11,1
+575,Mixed,Asia,Malaysia,Kedah,8,25,10
+576,Mixed,Asia,Indonesia,Banten,8,21,217
+577,Mixed,Asia,Pakistan,Balochistan,8,25,130
+578,Both balanced,North America,Trinidad and Tobago,Tunapuna/Piarco,8,9,1
+579,Net receiver,Asia,Pakistan,Khyber Pakhtunkhwa,8,25,214
+580,IN rec. INT sen.,Europe,Belarus,Minsk City,8,25,1551
+581,Mixed,Asia,Thailand,Nakhon Phanom,8,11,25
+582,Net sender,Africa,Burkina Faso,Centre,8,25,499
+583,Net receiver,Asia,China,Ningxia Hui Autonomous Region,8,25,1097
+584,Mixed,North America,Trinidad and Tobago,Borough of Arima,8,16,1
+585,IN rec. INT sen.,North America,Mexico,San Luis Potosi,8,25,125
+586,Mixed,Asia,Viet Nam,Khanh Hoa,8,19,56
+587,Both balanced,Europe,Slovenia,Zelezniki,8,10,1
+588,Both balanced,Europe,Czechia,Karlovarsky kraj,8,13,3
+589,Net sender,Europe,Poland,Lublin,8,25,2479
+590,Net sender,Europe,Russian Federation,Moscow Oblast,8,25,2901
+591,INT rec. IN sen.,Asia,"Korea, Republic of",Sejong-si,8,25,132
+592,Net receiver,Asia,"Korea, Republic of",Ulsan,8,25,2083
+593,Mixed,Asia,Türkiye,Kilis,8,14,1
+594,Mixed,Asia,Türkiye,Karabuk,8,16,7
+595,IN rec. INT sen.,Europe,Poland,Pomerania,8,25,1855
+596,Both balanced,South America,Argentina,Chaco,8,11,15
+597,Both balanced,Asia,Kuwait,Hawalli,8,8,1
+598,Net sender,North America,Mexico,Morelos,8,25,231
+599,Mixed,North America,Mexico,Nayarit,8,22,35
+600,INT rec. IN sen.,Europe,Poland,Silesia,8,25,3231
+601,Both balanced,North America,Cayman Islands,West Bay,8,15,8
+602,Both balanced,Asia,Uzbekistan,Jizzax,8,8,1
+603,Net sender,Asia,Uzbekistan,Toshkent Shahri,8,25,499
+604,Net receiver,Asia,"Iran, Islamic Republic of",Kermanshah,8,25,12
+605,Net receiver,North America,Mexico,Michoacan,8,25,137
+606,IN rec. INT sen.,Asia,"Iran, Islamic Republic of",Hamadan,8,25,211
+607,Net receiver,Africa,Egypt,Sohag,8,23,192
+608,Both balanced,Asia,Kazakhstan,Batys Qazaqstan,8,13,44
+609,INT rec. IN sen.,North America,Mexico,Guanajuato,8,25,353
+610,INT rec. IN sen.,Africa,South Africa,Eastern Cape,8,25,363
+611,Net receiver,North America,Mexico,Coahuila,8,25,56
+612,INT rec. IN sen.,Europe,Finland,South Karelia,8,25,86
+613,INT rec. IN sen.,North America,Mexico,Chihuahua,8,25,66
+614,Both balanced,Europe,Finland,Kymenlaakso,8,8,3
+615,Net sender,Asia,Türkiye,Antalya,8,25,638
+616,Mixed,Asia,Türkiye,Bartin,8,13,56
+617,Mixed,Europe,Bulgaria,Varna,8,25,87
+618,Both balanced,Africa,Zimbabwe,Mashonaland West,8,18,25
+619,Mixed,Asia,Cyprus,Keryneia,8,17,2
+620,Both balanced,Asia,Lebanon,Mont-Liban,8,11,5
+621,Mixed,Asia,Iraq,Diyala,8,16,1
+622,Both balanced,South America,Colombia,Cauca,8,25,86
+623,IN rec. INT sen.,Europe,Russian Federation,Irkutsk Oblast,8,25,677
+624,Mixed,Asia,Iraq,Dahuk,8,20,2
+625,Mixed,Asia,Yemen,Ibb,8,16,37
+626,INT rec. IN sen.,Asia,Iraq,Baghdad,8,25,1533
+627,INT rec. IN sen.,Asia,Türkiye,Trabzon,8,25,778
+628,Mixed,Asia,Iraq,Sulaymaniyah,8,11,18
+629,Net receiver,Europe,Russian Federation,Chelyabinsk,8,25,263
+630,Mixed,Africa,Tunisia,Susah,8,25,467
+631,Mixed,Asia,Türkiye,Agri,8,12,5
+632,Net receiver,Europe,Portugal,Madeira,8,25,187
+633,Mixed,Asia,Türkiye,Yozgat,8,15,110
+634,Net receiver,Europe,Portugal,Lisbon,8,25,4757
+635,Both balanced,Europe,Albania,Elbasan,8,13,11
+636,Net receiver,Europe,Portugal,Porto,8,25,1322
+637,Net receiver,Asia,Sri Lanka,Western,8,25,138
+638,Both balanced,North America,Cuba,Guantanamo,8,9,1
+639,Mixed,Asia,Viet Nam,Hung Yen,8,12,10
+640,Both balanced,Africa,Mali,Koulikoro,8,9,1
+641,Net receiver,Europe,Portugal,Vila Real,8,25,246
+642,Mixed,Africa,Liberia,Montserrado,8,15,6
+643,Mixed,Europe,Portugal,Viseu,8,25,180
+644,Both balanced,South America,Colombia,Sucre,8,19,37
+645,Mixed,Asia,Türkiye,Siirt,8,13,22
+646,Both balanced,Europe,North Macedonia,Shtip,8,13,26
+647,Both balanced,Africa,Madagascar,Atsinanana,8,8,1
+648,INT rec. IN sen.,Europe,Russian Federation,Bashkortostan Republic,8,25,347
+649,Net receiver,Asia,India,Sikkim,8,22,13
+650,Mixed,Asia,Türkiye,Karaman,8,12,7
+651,Net receiver,South America,Brazil,Amazonas,8,25,73
+652,Mixed,Europe,"Moldova, Republic of",Transnistria,8,13,3
+653,INT rec. IN sen.,Asia,India,Himachal Pradesh,8,25,687
+654,Mixed,North America,Antigua and Barbuda,Saint John,8,15,10
+655,Mixed,Asia,Türkiye,Sirnak,8,13,18
+656,Both balanced,South America,"Bolivia, Plurinational State of",Tarija,8,8,1
+657,Both balanced,Asia,Syrian Arab Republic,Deir ez-Zor,8,10,4
+658,Both balanced,Europe,Luxembourg,Grevenmacher,8,8,2
+659,Both balanced,Europe,Latvia,Liepaja,8,12,4
+660,Both balanced,South America,Colombia,Magdalena,8,25,101
+661,Net receiver,North America,United States,Montana,8,25,654
+662,Net sender,Asia,India,Odisha,8,25,465
+663,Net receiver,Asia,India,Jammu and Kashmir,8,25,1730
+664,Both balanced,Africa,Eswatini,Hhohho,8,8,1
+665,Both balanced,Europe,Latvia,Ventspils,8,15,22
+666,Both balanced,Africa,Libya,Az Zawiyah,8,8,2
+667,Mixed,Africa,Libya,Misratah,8,14,1
+668,Net receiver,Asia,Türkiye,Gaziantep,8,25,377
+669,Both balanced,Europe,Andorra,Sant Julia de Loria,8,8,2
+670,Both balanced,Africa,Libya,Al Marqab,9,13,1
+671,INT rec. IN sen.,Africa,Egypt,Gharbia,9,25,1111
+672,Net receiver,Europe,Greece,East Macedonia and Thrace,9,25,344
+673,Mixed,Asia,Syrian Arab Republic,Rif-dimashq,9,19,22
+674,INT rec. IN sen.,Africa,Egypt,Ismailia,9,25,574
+675,Net receiver,Africa,Morocco,Rabat-Sale-Kenitra,9,25,747
+676,Mixed,Africa,Ghana,Western,9,15,3
+677,INT rec. IN sen.,Africa,Morocco,Casablanca-Settat,9,25,664
+678,Net receiver,Africa,Egypt,Faiyum,9,19,2
+679,Mixed,Asia,Viet Nam,Thanh Hoa,9,15,1
+680,Mixed,Africa,Ghana,Northern,9,24,4
+681,INT rec. IN sen.,North America,Canada,Newfoundland and Labrador,9,25,525
+682,Mixed,Europe,Luxembourg,Esch-sur-Alzette,9,25,23
+683,IN rec. INT sen.,Europe,Lithuania,Vilnius,9,25,1689
+684,Net sender,Asia,Türkiye,Adana,9,25,741
+685,Both balanced,South America,Colombia,Boyaca,9,24,7
+686,Mixed,Asia,"Iran, Islamic Republic of",North Khorasan,9,16,51
+687,Both balanced,Africa,Somalia,Awdal,9,10,2
+688,Both balanced,Africa,Somalia,Banaadir,9,14,1
+689,IN rec. INT sen.,Asia,"Iran, Islamic Republic of",Razavi Khorasan,9,25,3572
+690,Both balanced,Asia,Thailand,Loei,9,17,5
+691,Both balanced,Europe,Albania,Vlore,9,13,5
+692,Net receiver,South America,Colombia,Cundinamarca,9,25,214
+693,Net receiver,Asia,"Iran, Islamic Republic of",Khorasan-e Jonubi,9,25,374
+694,Mixed,Europe,Slovakia,Zilinsky kraj,9,25,28
+695,Net receiver,Africa,Egypt,Qalyubia,9,25,256
+696,INT rec. IN sen.,Africa,Egypt,Sharqia,9,25,470
+697,Net receiver,Asia,"Iran, Islamic Republic of",Qazvin,9,24,253
+698,Mixed,South America,Colombia,Tolima,9,16,27
+699,Mixed,Europe,Lithuania,Kaunas,9,25,515
+700,Net receiver,Europe,Greece,North Aegean,9,25,353
+701,Mixed,Europe,Slovakia,Nitriansky kraj,9,25,2
+702,Net sender,Europe,Italy,Apulia,9,25,3834
+703,Net receiver,North America,United States,Maine,9,25,1074
+704,Mixed,Europe,Slovakia,Banskobystricky kraj,9,25,49
+705,Mixed,South America,Colombia,Santander,9,25,308
+706,Mixed,Asia,Pakistan,Azad Kashmir,9,25,2
+707,Both balanced,Europe,Slovenia,Jesenice,9,10,3
+708,Both balanced,Asia,Viet Nam,Binh Dinh,9,17,1
+709,Both balanced,Asia,Georgia,Ajaria,9,14,1
+710,Net receiver,Asia,"Iran, Islamic Republic of",Markazi,9,23,198
+711,IN rec. INT sen.,Asia,"Iran, Islamic Republic of",East Azerbaijan,9,25,1221
+712,Mixed,South America,Argentina,Entre Rios,9,25,46
+713,Mixed,South America,Colombia,Risaralda,9,24,30
+714,Net sender,Europe,United Kingdom,Wales,9,25,4405
+715,Both balanced,Asia,Hong Kong,Wan Chai,9,10,2
+716,Both balanced,Europe,Slovenia,Murska Sobota,9,16,4
+717,Net receiver,Asia,"Iran, Islamic Republic of",Ardabil,9,20,135
+718,Both balanced,North America,Panama,Chiriqui,9,17,10
+719,Net receiver,Asia,"Iran, Islamic Republic of",Kerman,9,25,633
+720,Net receiver,Europe,Poland,Kujawsko-Pomorskie,9,25,490
+721,IN rec. INT sen.,Europe,United Kingdom,Scotland,9,25,12314
+722,Net receiver,Asia,Türkiye,Istanbul,9,25,6642
+723,Net receiver,Europe,Switzerland,Bern,9,25,5130
+724,Both balanced,Europe,Slovenia,Bled,9,12,3
+725,Net receiver,South America,Argentina,Mendoza,9,25,1591
+726,Mixed,Africa,Egypt,Beni Suweif,9,25,501
+727,Net sender,Europe,Sweden,Skane,9,25,3114
+728,Both balanced,Europe,Malta,Paola,9,12,1
+729,Mixed,Europe,Croatia,Istria,9,24,14
+730,Mixed,Europe,Liechtenstein,Vaduz,9,16,38
+731,Mixed,South America,Argentina,Rio Negro,9,25,74
+732,Mixed,South America,Colombia,La Guajira,9,16,1
+733,Net receiver,Africa,Egypt,Port Said,9,14,207
+734,Net receiver,Asia,"Iran, Islamic Republic of",Kordestan,9,22,462
+735,Mixed,Asia,Türkiye,Usak,9,15,12
+736,Mixed,Europe,Liechtenstein,Triesen,9,13,10
+737,Mixed,South America,Colombia,Cordoba,9,23,1
+738,Both balanced,Europe,Croatia,Koprivnicko-Krizevacka,9,17,1
+739,Both balanced,Europe,Liechtenstein,Gamprin,9,13,2
+740,Mixed,Africa,Malawi,Northern Region,9,19,16
+741,Net receiver,Europe,Poland,Podlasie,9,25,579
+742,Net sender,Europe,United Kingdom,England,9,25,69622
+743,Both balanced,North America,Saint Lucia,Vieux-Fort,9,10,3
+744,Mixed,North America,Mexico,Aguascalientes,9,25,175
+745,Net receiver,Europe,Sweden,OErebro,9,25,319
+746,Both balanced,North America,Jamaica,St. James,9,13,1
+747,Both balanced,Oceania,New Zealand,Northland,9,16,12
+748,Net receiver,Oceania,New Zealand,Nelson,9,25,84
+749,INT rec. IN sen.,Europe,Sweden,Norrbotten,9,25,769
+750,Mixed,Asia,"Iran, Islamic Republic of",Ilam Province,9,24,115
+751,INT rec. IN sen.,North America,United States,New Jersey,9,25,7714
+752,Both balanced,Europe,Croatia,Pozesko-Slavonska,9,9,1
+753,Net receiver,North America,Mexico,Campeche,9,25,189
+754,Mixed,Asia,Jordan,Karak,9,25,171
+755,Mixed,Europe,Sweden,Halland,9,25,50
+756,Net receiver,Europe,Switzerland,Jura,9,25,66
+757,Net receiver,Europe,Switzerland,Lucerne,9,25,313
+758,Net receiver,Europe,Spain,Balearic Islands,9,25,1047
+759,Both balanced,Asia,Viet Nam,Quang Binh,9,13,7
+760,Mixed,Asia,Nepal,Western Region,9,25,11
+761,Mixed,Asia,Jordan,Irbid,9,25,90
+762,IN rec. INT sen.,Asia,Nepal,Central Region,9,25,1014
+763,INT rec. IN sen.,South America,Colombia,Antioquia,9,25,683
+764,Both balanced,Europe,Sweden,Gotland,9,11,1
+765,Mixed,Africa,Algeria,Bechar,9,19,4
+766,Both balanced,Asia,Kazakhstan,Qyzylorda,9,12,34
+767,Mixed,Africa,Sudan,Southern Darfur,9,17,4
+768,IN rec. INT sen.,Africa,South Africa,Western Cape,9,25,3150
+769,Net sender,Asia,Japan,Chiba,9,25,3331
+770,Both balanced,Africa,Seychelles,Anse Royale,9,12,3
+771,Net sender,Asia,Japan,Ehime,9,25,1304
+772,Net receiver,Asia,"Iran, Islamic Republic of",West Azerbaijan,9,25,291
+773,Net sender,Europe,Spain,Madrid,9,25,25062
+774,Net sender,Europe,Spain,Murcia,9,25,1773
+775,IN rec. INT sen.,South America,Brazil,Santa Catarina,9,25,230
+776,Net receiver,Asia,Kazakhstan,Nur-Sultan,9,25,89
+777,Mixed,Asia,Türkiye,Amasya,9,17,137
+778,INT rec. IN sen.,Europe,Portugal,Aveiro,9,25,754
+779,Mixed,Europe,Portugal,Braganca,9,25,277
+780,Mixed,Asia,Iraq,Arbil,9,16,83
+781,Both balanced,Europe,Hungary,Heves,9,11,1
+782,Mixed,Asia,Kuwait,Al Farwaniyah,9,17,4
+783,Net sender,Europe,Spain,Cantabria,9,25,870
+784,Net receiver,Asia,Thailand,Phayao,9,13,120
+785,Net sender,South America,Brazil,Rio de Janeiro,9,25,4779
+786,Net sender,Europe,Spain,Aragon,9,25,1712
+787,Net sender,Europe,Austria,Vienna,9,25,6647
+788,Mixed,Africa,Rwanda,Southern Province,9,24,13
+789,Mixed,Africa,Algeria,Blida,9,25,91
+790,IN rec. INT sen.,Europe,Switzerland,Valais,9,25,108
+791,Net receiver,Europe,Portugal,Faro,9,25,661
+792,IN rec. INT sen.,South America,Brazil,Parana,9,25,1772
+793,Mixed,Asia,Türkiye,Kirsehir,9,15,28
+794,Both balanced,Asia,Iraq,Anbar,9,19,1
+795,IN rec. INT sen.,Europe,France,Centre,9,25,926
+796,Net receiver,North America,United States,Nevada,9,25,275
+797,IN rec. INT sen.,Europe,Spain,Canary Islands,9,25,3191
+798,Mixed,Europe,Russian Federation,Jaroslavl,9,25,110
+799,IN rec. INT sen.,Asia,India,Jharkhand,9,25,196
+800,Mixed,Europe,Ukraine,Sumy,9,25,39
+801,Mixed,Asia,Türkiye,Duzce,9,17,167
+802,Both balanced,Europe,Russian Federation,Yamalo-Nenets,9,9,1
+803,Mixed,North America,Mexico,Tamaulipas,9,25,95
+804,IN rec. INT sen.,South America,"Venezuela, Bolivarian Republic of",Zulia,9,25,482
+805,Both balanced,Asia,Thailand,Phuket,9,17,7
+806,Both balanced,Asia,Indonesia,East Nusa Tenggara,9,20,3
+807,Net receiver,North America,Mexico,Zacatecas,9,25,271
+808,Mixed,Asia,Türkiye,Afyonkarahisar,9,25,68
+809,Net receiver,South America,Brazil,Mato Grosso,9,25,24
+810,Both balanced,Asia,Indonesia,Central Sulawesi,9,15,4
+811,IN rec. INT sen.,Europe,Spain,Catalonia,9,25,25192
+812,Net receiver,Asia,India,Bihar,9,25,175
+813,Mixed,Asia,Indonesia,Southeast Sulawesi,9,22,8
+814,IN rec. INT sen.,Europe,Spain,Galicia,9,25,3385
+815,Mixed,Asia,Türkiye,Adiyaman,9,15,93
+816,Net receiver,Europe,Czechia,Central Bohemia,9,25,496
+817,Mixed,Europe,Finland,Lapland,9,25,28
+818,Mixed,Asia,Malaysia,Kelantan,9,25,21
+819,Both balanced,Europe,Finland,Kainuu,9,14,1
+820,Both balanced,Europe,Russian Federation,Sakha,9,15,1
+821,IN rec. INT sen.,Asia,Japan,Iwate,9,25,1075
+822,IN rec. INT sen.,Asia,Japan,Kagawa,9,25,684
+823,Mixed,Asia,Indonesia,South Sumatra,9,25,98
+824,INT rec. IN sen.,South America,Brazil,Ceara,9,25,1502
+825,Mixed,Europe,Russian Federation,Primorskiy (Maritime) Kray,9,25,299
+826,IN rec. INT sen.,Europe,Netherlands,Gelderland,9,25,2365
+827,Mixed,Europe,Russian Federation,Orenburg Oblast,9,25,24
+828,Mixed,Europe,Romania,Brasov,9,25,340
+829,Both balanced,Asia,Indonesia,West Papua,9,13,3
+830,Net receiver,Africa,Nigeria,Ekiti,9,24,65
+831,IN rec. INT sen.,Asia,Japan,Nagano,9,25,1518
+832,Net receiver,Asia,Japan,Nagasaki,9,25,199
+833,Both balanced,Africa,Ethiopia,Afar,9,11,11
+834,Net sender,Europe,Romania,Iasi,9,25,930
+835,Mixed,Africa,Nigeria,Ondo,9,25,28
+836,Both balanced,Africa,Mozambique,Sofala,9,16,29
+837,Mixed,Africa,Nigeria,Enugu,9,25,599
+838,INT rec. IN sen.,South America,Chile,Santiago Metropolitan,9,25,1383
+839,Mixed,Asia,India,Meghalaya,9,25,120
+840,Both balanced,Europe,Romania,Suceava,9,12,8
+841,Net receiver,Europe,Germany,Hamburg,9,25,6247
+842,Mixed,Africa,Nigeria,Kogi,9,16,27
+843,Net sender,Europe,Bulgaria,Sofia-Capital,9,25,2186
+844,Mixed,Asia,Türkiye,Ordu,9,15,264
+845,Net receiver,Africa,Cameroon,Littoral,9,25,221
+846,Net sender,Asia,Israel,Southern District,9,25,2398
+847,Net receiver,Europe,Bulgaria,Plovdiv,9,25,573
+848,Both balanced,Asia,Yemen,Aden,9,17,2
+849,Net receiver,Africa,Tunisia,Qabis,9,25,101
+850,Net receiver,Africa,Cameroon,West,9,25,319
+851,Net sender,South America,"Venezuela, Bolivarian Republic of",Miranda,9,25,281
+852,INT rec. IN sen.,Africa,South Africa,Free State,9,25,292
+853,Net receiver,Europe,Germany,Brandenburg,9,25,1158
+854,Mixed,Africa,Uganda,Central Region,9,25,387
+855,Both balanced,Oceania,Papua New Guinea,Madang,9,15,5
+856,Mixed,Europe,Russian Federation,Ivanovo,9,25,77
+857,IN rec. INT sen.,Europe,Germany,Saxony,9,25,3989
+858,Both balanced,Africa,Nigeria,Katsina,9,14,1
+859,Net sender,Asia,China,Jiangsu,9,25,3799
+860,Mixed,South America,"Venezuela, Bolivarian Republic of",Sucre,9,25,69
+861,Both balanced,Asia,Afghanistan,Herat,9,9,2
+862,Mixed,Asia,Afghanistan,Kabul,9,17,6
+863,Net sender,Africa,Egypt,Alexandria,9,25,1135
+864,Net sender,Africa,Nigeria,Kaduna,10,25,209
+865,IN rec. INT sen.,Europe,Germany,Mecklenburg-Vorpommern,10,25,1684
+866,Net sender,Asia,India,Assam,10,25,1955
+867,Both balanced,Africa,Nigeria,Benue,10,22,13
+868,Both balanced,Europe,Russian Federation,Chechnya,10,19,1
+869,IN rec. INT sen.,Europe,Finland,Pirkanmaa,10,25,1961
+870,Net receiver,Asia,India,Haryana,10,25,4366
+871,IN rec. INT sen.,Asia,India,Gujarat,10,25,3497
+872,Net receiver,Africa,Nigeria,Kano,10,25,213
+873,Both balanced,Asia,Yemen,Dhamar,10,13,5
+874,Net sender,Asia,Japan,Tokushima,10,25,1679
+875,Both balanced,Africa,Tunisia,Madanin,10,23,29
+876,Both balanced,Africa,Nigeria,Adamawa,10,25,35
+877,Both balanced,Africa,Nigeria,Delta,10,14,2
+878,IN rec. INT sen.,Europe,Germany,Rheinland-Pfalz,10,25,1549
+879,Mixed,Asia,Türkiye,Mus,10,13,53
+880,Mixed,Europe,Russian Federation,Khanty-Mansia,10,24,22
+881,Mixed,Asia,Yemen,Hadramawt,10,19,9
+882,Mixed,Africa,Uganda,Eastern Region,10,22,87
+883,Mixed,Africa,Kenya,Nakuru,10,25,56
+884,Net receiver,Europe,Serbia,Vojvodina,10,25,1860
+885,Net receiver,South America,Chile,Arica y Parinacota,10,25,28
+886,Net sender,Europe,Serbia,Central Serbia,10,25,1872
+887,Mixed,Africa,Ethiopia,SNNPR,10,25,10
+888,INT rec. IN sen.,Europe,Denmark,Central Jutland,10,25,4609
+889,IN rec. INT sen.,Asia,Japan,Saga,10,25,632
+890,Mixed,Africa,Nigeria,Abia,10,25,194
+891,IN rec. INT sen.,Europe,Russian Federation,Leningradskaya Oblast',10,25,332
+892,Mixed,Europe,Romania,Mures,10,25,108
+893,Net sender,Europe,Russian Federation,Moscow,10,25,20390
+894,Both balanced,South America,"Bolivia, Plurinational State of",Pando,10,10,1
+895,Mixed,Europe,Romania,Galati,10,25,31
+896,Mixed,Asia,Malaysia,Putrajaya,10,24,7
+897,Net sender,Europe,Romania,Cluj,10,25,500
+898,Net sender,Asia,India,Puducherry,10,25,1577
+899,INT rec. IN sen.,Europe,Ireland,Connaught,10,25,166
+900,Both balanced,Asia,Timor-Leste,Dili,10,13,1
+901,Mixed,Africa,Nigeria,Ebonyi,10,20,71
+902,Net sender,Europe,Spain,Valencia,10,25,10612
+903,Mixed,South America,Chile,Coquimbo Region,10,25,69
+904,INT rec. IN sen.,South America,Chile,Biobio,10,25,882
+905,Net receiver,South America,Brazil,Alagoas,10,25,316
+906,Mixed,Africa,Algeria,Algiers,10,25,834
+907,Net sender,Asia,Japan,Kumamoto,10,25,1327
+908,Both balanced,Europe,Romania,Alba,10,14,1
+909,Both balanced,Africa,Burkina Faso,Boucle du Mouhoun,10,22,4
+910,Net receiver,South America,Chile,Araucania,10,25,73
+911,Mixed,Africa,"Tanzania, United Republic of",Kilimanjaro,10,25,2
+912,Net receiver,Asia,Thailand,Changwat Ubon Ratchathani,10,25,9
+913,INT rec. IN sen.,Europe,Netherlands,Limburg,10,25,3951
+914,Both balanced,Asia,Indonesia,Gorontalo,10,13,35
+915,Mixed,Africa,Tunisia,Ariana,10,25,206
+916,Net sender,Europe,Belgium,Flanders,10,25,5089
+917,IN rec. INT sen.,Asia,Japan,Kagoshima,10,25,1123
+918,Net receiver,Europe,Czechia,Zlin,10,25,11
+919,Net receiver,Asia,Malaysia,Pahang,10,18,748
+920,Both balanced,Africa,Algeria,Saida,10,21,21
+921,Mixed,Asia,Türkiye,Kuetahya,10,25,13
+922,Net sender,Asia,Bangladesh,Mymensingh Division,10,25,137
+923,Both balanced,South America,Paraguay,Itapua,10,10,1
+924,IN rec. INT sen.,South America,Brazil,Federal District,10,25,2813
+925,Net receiver,Africa,Tunisia,Manouba,10,21,245
+926,Net sender,Europe,Spain,Extremadura,10,25,704
+927,Mixed,Africa,Algeria,Setif,10,16,5
+928,Both balanced,North America,Trinidad and Tobago,Port of Spain,10,12,1
+929,Net receiver,Asia,China,Inner Mongolia,10,25,438
+930,Mixed,North America,Mexico,Yucatan,10,25,240
+931,Net sender,Asia,India,Madhya Pradesh,10,25,944
+932,IN rec. INT sen.,Europe,Russian Federation,Tatarstan Republic,10,25,1006
+933,Both balanced,Asia,Indonesia,West Kalimantan,10,23,2
+934,Net sender,Europe,Spain,Castille and Leon,10,25,4122
+935,Mixed,Asia,Indonesia,Central Java,10,25,39
+936,Net receiver,South America,Brazil,Para,10,25,1403
+937,Net receiver,North America,Mexico,Sonora,10,25,195
+938,Mixed,North America,Mexico,Sinaloa,10,25,139
+939,Net sender,Oceania,Australia,South Australia,10,25,2798
+940,Mixed,North America,Mexico,Quintana Roo,10,24,41
+941,Net receiver,Oceania,Australia,Queensland,10,25,7706
+942,INT rec. IN sen.,North America,Mexico,Puebla,10,25,589
+943,INT rec. IN sen.,Europe,Portugal,Coimbra,10,25,1085
+944,Net sender,Europe,Hungary,Veszprem,10,25,221
+945,Mixed,Asia,Türkiye,Osmaniye,10,13,14
+946,Mixed,Europe,Switzerland,Thurgau,10,25,32
+947,Both balanced,Africa,Algeria,Guelma,10,11,2
+948,Net receiver,North America,Mexico,Nuevo Leon,10,25,1311
+949,Net receiver,Asia,Saudi Arabia,'Asir,10,25,740
+950,Mixed,Europe,Norway,Ostfold,10,25,30
+951,Both balanced,Asia,Saudi Arabia,Najran,10,25,11
+952,Net receiver,Africa,South Africa,North-West,10,25,268
+953,Net receiver,Europe,Austria,Carinthia,10,25,187
+954,Net receiver,Asia,Viet Nam,Da Nang,10,17,3
+955,Net receiver,Asia,Saudi Arabia,Jizan,10,24,203
+956,INT rec. IN sen.,North America,Mexico,State of Mexico,10,25,476
+957,Mixed,Asia,Saudi Arabia,Tabuk,10,25,93
+958,Net receiver,Asia,China,Hainan,10,25,2118
+959,INT rec. IN sen.,Asia,Türkiye,Kayseri,10,25,381
+960,Mixed,Africa,Algeria,Annaba,10,25,620
+961,INT rec. IN sen.,North America,United States,Delaware,10,25,2137
+962,Net receiver,Asia,Türkiye,Aydin,10,25,440
+963,Both balanced,Europe,Sweden,Blekinge,10,19,1
+964,Mixed,Africa,Algeria,Boumerdes,10,25,114
+965,Net receiver,Asia,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,10,22,406
+966,Both balanced,North America,Puerto Rico,Bayamon,10,12,2
+967,INT rec. IN sen.,Asia,Jordan,Amman,10,25,972
+968,Mixed,Africa,Algeria,Ouargla,10,21,190
+969,Mixed,Asia,Viet Nam,Thua Thien-Hue,10,25,5
+970,Mixed,South America,Colombia,Atlantico,10,25,812
+971,Both balanced,Asia,Lao People's Democratic Republic,Louangphabang,10,12,1
+972,Net receiver,Europe,Switzerland,Grisons,10,25,90
+973,Net sender,Oceania,New Zealand,Canterbury,10,25,1895
+974,Mixed,Asia,Türkiye,Balikesir,10,25,128
+975,Net receiver,Europe,Sweden,Joenkoeping,10,25,34
+976,IN rec. INT sen.,South America,Brazil,Pernambuco,10,25,4091
+977,Both balanced,Oceania,New Zealand,Hawke's Bay,10,24,18
+978,Mixed,Asia,Türkiye,Ardahan,10,12,3
+979,Both balanced,Asia,Thailand,Phra Nakhon Si Ayutthaya,10,24,3
+980,INT rec. IN sen.,North America,Mexico,Baja California,10,25,297
+981,Net receiver,Asia,Lebanon,Liban-Nord,10,25,126
+982,Both balanced,North America,Bahamas,Central Abaco,10,11,2
+983,Both balanced,Asia,Thailand,Lop Buri,10,12,1
+984,Both balanced,Africa,Mauritius,Port Louis,10,14,5
+985,Mixed,Asia,Türkiye,Sanliurfa,10,25,386
+986,Net sender,Europe,Sweden,Uppsala,10,25,4319
+987,Mixed,Asia,"Iran, Islamic Republic of",Bushehr,10,22,233
+988,Both balanced,Europe,Malta,Il-Kalkara,10,12,1
+989,Net receiver,Asia,"Iran, Islamic Republic of",Semnan,10,24,120
+990,Mixed,South America,Argentina,La Rioja,10,20,3
+991,INT rec. IN sen.,North America,United States,Hawaii,10,25,2425
+992,Mixed,Asia,Türkiye,Hakkari,10,12,1
+993,Both balanced,North America,Honduras,Cortes,10,10,2
+994,Mixed,North America,Martinique,Martinique,10,18,7
+995,Both balanced,North America,Cuba,Sancti Spiritus,10,13,2
+996,Net sender,Europe,Poland,Lodz Voivodeship,10,25,1208
+997,Both balanced,Asia,Viet Nam,Dong Thap,10,15,16
+998,Both balanced,South America,Ecuador,Chimborazo,10,21,156
+999,Mixed,Asia,Sri Lanka,Southern,10,25,16
+1000,Mixed,South America,Argentina,Jujuy,10,25,1
+1001,Net sender,Asia,Hong Kong,Central and Western,10,25,6762
+1002,Mixed,South America,Argentina,Corrientes,10,25,81
+1003,INT rec. IN sen.,North America,United States,West Virginia,10,25,2384
+1004,IN rec. INT sen.,Europe,Slovenia,Maribor,10,25,595
+1005,Net receiver,Africa,Ghana,Greater Accra,10,25,973
+1006,Net receiver,Asia,Pakistan,Punjab,10,25,1816
+1007,IN rec. INT sen.,Asia,"Iran, Islamic Republic of",Zanjan,10,25,243
+1008,Mixed,Africa,Ghana,Ashanti,10,25,1085
+1009,Both balanced,Europe,North Macedonia,Bitola,10,14,1
+1010,Net receiver,Asia,"Iran, Islamic Republic of",Golestan,10,21,201
+1011,Mixed,South America,Ecuador,Loja,10,18,214
+1012,Mixed,Asia,"Iran, Islamic Republic of",Qom,10,18,324
+1013,Net receiver,Asia,Viet Nam,Ho Chi Minh,10,25,3119
+1014,Mixed,Asia,Philippines,Calabarzon,10,25,208
+1015,Mixed,Africa,Ghana,Central,10,25,190
+1016,INT rec. IN sen.,Asia,Türkiye,Erzurum,10,25,260
+1017,Mixed,Europe,Greece,Peloponnese,10,21,115
+1018,Mixed,Europe,Lithuania,Klaipeda County,10,25,159
+1019,Net receiver,North America,Canada,Alberta,10,25,14219
+1020,Mixed,Asia,Türkiye,Erzincan,10,15,28
+1021,Both balanced,Asia,Philippines,Davao,10,22,8
+1022,IN rec. INT sen.,North America,Canada,British Columbia,10,25,13464
+1023,IN rec. INT sen.,Africa,Egypt,Cairo,10,25,1150
+1024,Both balanced,South America,Colombia,Bolivar,10,25,77
+1025,Mixed,Asia,Türkiye,Elazig,10,25,637
+1026,Both balanced,South America,Peru,Madre de Dios,10,10,7
+1027,Both balanced,Asia,Viet Nam,Son La,10,12,1
+1028,Both balanced,Europe,Albania,Korce,10,11,1
+1029,Mixed,Europe,Greece,Ionian Islands,10,20,5
+1030,Both balanced,South America,Suriname,Paramaribo,10,16,32
+1031,Mixed,Asia,Türkiye,Zonguldak,10,25,17
+1032,Mixed,Europe,Greece,West Macedonia,10,17,115
+1033,IN rec. INT sen.,North America,Canada,Nova Scotia,10,25,2601
+1034,INT rec. IN sen.,Europe,Greece,Central Macedonia,10,25,2689
+1035,Both balanced,Africa,Ghana,Upper East,10,24,51
+1036,Net receiver,Asia,Thailand,Chiang Rai,10,19,29
+1037,Net sender,Europe,Italy,Abruzzo,10,25,968
+1038,Mixed,Asia,Türkiye,Corum,10,17,43
+1039,Net receiver,Asia,Türkiye,Canakkale,10,25,40
+1040,Both balanced,Africa,Libya,Sabha,10,18,27
+1041,Both balanced,Africa,Chad,Ouadai,10,13,4
+1042,Both balanced,North America,Costa Rica,Guanacaste,11,11,1
+1043,Mixed,Africa,Morocco,Fes-Meknes,11,24,407
+1044,Both balanced,Europe,Iceland,West,11,12,3
+1045,Net sender,Europe,Greece,Epirus,11,25,895
+1046,INT rec. IN sen.,Africa,Morocco,Marrakesh-Safi,11,25,555
+1047,Both balanced,Asia,Philippines,Bicol,11,13,14
+1048,Net receiver,Europe,Luxembourg,Luxembourg,11,25,92
+1049,Net sender,Africa,Egypt,Giza,11,25,2771
+1050,Net receiver,South America,Colombia,Bogota D.C.,11,25,889
+1051,Mixed,Africa,Senegal,Thies,11,24,9
+1052,Mixed,Europe,Greece,Central Greece,11,23,1
+1053,INT rec. IN sen.,North America,Canada,Manitoba,11,25,1481
+1054,Mixed,Asia,Türkiye,Burdur,11,15,130
+1055,Mixed,Asia,Armenia,Yerevan,11,25,268
+1056,Mixed,Europe,Slovakia,Trnavsky kraj,11,25,143
+1057,Both balanced,Africa,Madagascar,Alaotra Mangoro,11,11,1
+1058,Mixed,Europe,Slovakia,Trenciansky kraj,11,25,3
+1059,Mixed,Europe,Slovakia,Presovsky kraj,11,25,23
+1060,Mixed,Asia,Türkiye,Batman,11,13,28
+1061,IN rec. INT sen.,Europe,Greece,Attica,11,25,4653
+1062,Mixed,South America,Peru,La Libertad,11,24,16
+1063,Net receiver,Asia,Türkiye,Bolu,11,25,263
+1064,Both balanced,South America,Peru,Huancavelica,11,13,7
+1065,Net sender,Europe,Slovakia,Bratislavsky kraj,11,25,2166
+1066,Both balanced,South America,Ecuador,Los Rios,11,17,1
+1067,Mixed,South America,Peru,Callao,11,24,58
+1068,INT rec. IN sen.,North America,United States,Wyoming,11,25,479
+1069,Mixed,South America,Argentina,Chubut,11,25,29
+1070,Mixed,Asia,Myanmar,Mandalay,11,21,8
+1071,Both balanced,North America,Cuba,Granma,11,20,1
+1072,Both balanced,Asia,Sri Lanka,Eastern Province,11,16,13
+1073,Mixed,Asia,Myanmar,Nay Pyi Taw,11,16,19
+1074,Both balanced,South America,Argentina,Formosa,11,17,4
+1075,Both balanced,South America,Colombia,Quindio,11,16,1
+1076,IN rec. INT sen.,Asia,"Iran, Islamic Republic of",Mazandaran,11,25,2485
+1077,Mixed,Africa,Egypt,Aswan,11,25,3
+1078,Both balanced,Asia,Hong Kong,Tuen Mun,11,17,1
+1079,Both balanced,Africa,"Congo, The Democratic Republic of the",Tshopo,11,16,28
+1080,Net sender,Europe,Italy,Sardinia,11,25,2414
+1081,Both balanced,Europe,Slovenia,Kidricevo,11,13,1
+1082,Net sender,Europe,Poland,Lower Silesia,11,25,2334
+1083,Both balanced,Europe,Slovenia,Brezovica,11,13,1
+1084,Both balanced,Europe,Croatia,Slavonski Brod-Posavina,11,17,5
+1085,Mixed,Asia,Türkiye,Gumushane,11,12,89
+1086,Net sender,Asia,"Iran, Islamic Republic of",Isfahan,11,25,1217
+1087,Both balanced,South America,Colombia,Narino,11,23,1
+1088,Mixed,Europe,Croatia,Dubrovacko-Neretvanska,11,22,65
+1089,Both balanced,Europe,Italy,Aosta Valley,11,21,1
+1090,Mixed,Europe,Poland,Lubusz,11,25,60
+1091,Both balanced,Africa,Botswana,North-West,11,15,1
+1092,Net receiver,Asia,"Iran, Islamic Republic of",Lorestan,11,22,2
+1093,Both balanced,Europe,Malta,Il-Belt Valletta,11,14,1
+1094,Mixed,Europe,Sweden,Vaestmanland,11,25,24
+1095,Both balanced,Europe,Jersey,Trinity,11,22,12
+1096,Mixed,Europe,Sweden,Vaesternorrland,11,25,52
+1097,Both balanced,Oceania,New Zealand,Taranaki,11,24,2
+1098,Both balanced,Europe,Croatia,Karlovacka,11,21,19
+1099,Net receiver,Europe,Sweden,Vaermland,11,25,186
+1100,Both balanced,South America,Colombia,Huila,11,22,3
+1101,Net receiver,Africa,Egypt,Kafr el-Sheikh,11,25,253
+1102,Both balanced,North America,Jamaica,St. Andrew,11,24,13
+1103,INT rec. IN sen.,North America,United States,Wisconsin,11,25,6984
+1104,INT rec. IN sen.,Europe,Sweden,OEstergoetland,11,25,1214
+1105,Both balanced,North America,Jamaica,Kingston,11,13,3
+1106,Mixed,Asia,Türkiye,Bingoel,11,13,21
+1107,Both balanced,South America,Ecuador,Galapagos,11,18,2
+1108,Both balanced,South America,Colombia,Caqueta,11,17,9
+1109,Mixed,North America,Mexico,Chiapas,11,25,75
+1110,IN rec. INT sen.,South America,Argentina,Santa Fe,11,25,1564
+1111,Mixed,Asia,Lebanon,Beyrouth,11,25,679
+1112,Both balanced,Africa,Eritrea,Maekel,11,21,11
+1113,Net receiver,Europe,Sweden,Gaevleborg,11,25,72
+1114,Net receiver,Oceania,New Zealand,Bay of Plenty,11,25,122
+1115,Mixed,South America,Argentina,Santiago del Estero,11,25,42
+1116,Both balanced,Africa,Sudan,Northern Darfur,11,12,3
+1117,Net receiver,Asia,China,Sichuan,11,25,10763
+1118,Both balanced,Africa,Sudan,Southern Kordofan,11,11,1
+1119,Both balanced,Africa,Sudan,Northern State,11,12,1
+1120,INT rec. IN sen.,Asia,Türkiye,Izmir,11,25,4177
+1121,Net receiver,Europe,Norway,Vestfold,11,25,74
+1122,Both balanced,Asia,Thailand,Sara Buri,11,11,4
+1123,Both balanced,Europe,Hungary,Bacs-Kiskun,11,21,1
+1124,Mixed,Africa,Algeria,Mascara,11,22,34
+1125,Net receiver,North America,Mexico,Hidalgo,11,25,316
+1126,Mixed,Asia,Türkiye,Sivas,11,25,342
+1127,Net receiver,Asia,Türkiye,Tekirdag,11,16,10
+1128,Net receiver,South America,Brazil,Sergipe,11,25,27
+1129,Mixed,Europe,Ukraine,Poltava,11,25,32
+1130,Mixed,North America,Puerto Rico,San Juan,11,25,207
+1131,IN rec. INT sen.,Europe,France,Brittany,11,25,2623
+1132,Net sender,Europe,Hungary,Csongrad,11,25,1469
+1133,Mixed,Asia,Cyprus,Pafos,11,15,15
+1134,Both balanced,North America,Cayman Islands,George Town,11,12,2
+1135,Net receiver,Europe,Austria,Upper Austria,11,25,69
+1136,Both balanced,Europe,Portugal,Beja,11,23,8
+1137,INT rec. IN sen.,Asia,Saudi Arabia,Eastern Province,11,25,776
+1138,Mixed,Asia,Indonesia,Aceh,11,24,10
+1139,Net receiver,North America,Mexico,Queretaro,11,25,341
+1140,INT rec. IN sen.,Oceania,Australia,ACT,11,25,8051
+1141,Net receiver,Asia,China,Shanxi,11,25,2247
+1142,Net sender,Asia,"Korea, Republic of",Gwangju,11,25,4248
+1143,Mixed,Africa,Algeria,Jijel,11,24,11
+1144,Net receiver,Asia,Japan,Fukushima,11,25,602
+1145,Net receiver,Europe,Norway,Oslo,11,25,2805
+1146,Net sender,Europe,Spain,Andalusia,11,25,13046
+1147,Mixed,South America,Brazil,Piaui,11,25,21
+1148,Mixed,Asia,Indonesia,Jambi,11,19,32
+1149,Mixed,Asia,Türkiye,Sinop,11,14,63
+1150,Net receiver,Asia,China,Shanghai,11,25,6178
+1151,Net receiver,Oceania,Australia,Western Australia,11,25,6289
+1152,Mixed,Asia,Indonesia,East Java,11,25,54
+1153,Mixed,Europe,Faroe Islands,Streymoy,11,20,12
+1154,IN rec. INT sen.,Asia,India,Uttarakhand,11,25,784
+1155,Both balanced,Asia,Azerbaijan,Ganja City,11,15,7
+1156,Mixed,Europe,Russian Federation,Volgograd Oblast,11,25,198
+1157,Both balanced,Asia,Azerbaijan,Nakhichevan,11,12,3
+1158,Mixed,Europe,Czechia,Liberecky kraj,11,25,317
+1159,Both balanced,Asia,Thailand,Phetchaburi,11,19,7
+1160,Mixed,Asia,Indonesia,Lampung,11,25,38
+1161,IN rec. INT sen.,Asia,Japan,Hyogo,11,25,5206
+1162,INT rec. IN sen.,South America,Brazil,Minas Gerais,11,25,2459
+1163,Net receiver,Europe,Czechia,Olomoucky,11,25,588
+1164,IN rec. INT sen.,Asia,Bangladesh,Dhaka,11,25,2822
+1165,Mixed,Europe,Russian Federation,Tambov,11,25,61
+1166,Net receiver,Europe,Czechia,Moravskoslezsky,11,25,525
+1167,Mixed,South America,Brazil,Mato Grosso do Sul,11,25,230
+1168,Mixed,Asia,Indonesia,West Sumatra,11,25,342
+1169,Mixed,Africa,Côte d'Ivoire,Lacs,11,21,22
+1170,Both balanced,Europe,Russian Federation,North Ossetia,11,25,13
+1171,Net sender,Europe,Finland,Northern Ostrobothnia,11,25,1245
+1172,Net receiver,Asia,"Korea, Republic of",Jeollabuk-do,11,25,2625
+1173,Mixed,Asia,Indonesia,North Sulawesi,11,25,190
+1174,Net sender,Asia,Malaysia,Penang,11,25,1199
+1175,Net receiver,Asia,Malaysia,Perlis,11,18,576
+1176,INT rec. IN sen.,Asia,Malaysia,Selangor,11,25,1627
+1177,Mixed,Asia,Indonesia,South Sulawesi,11,25,55
+1178,Net receiver,Asia,Malaysia,Sabah,11,25,126
+1179,Both balanced,Asia,Qatar,Baladiyat ar Rayyan,11,18,3
+1180,IN rec. INT sen.,Europe,Germany,Bavaria,11,25,38286
+1181,Net receiver,Europe,Spain,Basque Country,11,25,2790
+1182,Mixed,Europe,Netherlands,Friesland,11,25,40
+1183,Both balanced,Africa,Mozambique,Gaza,11,12,3
+1184,Mixed,Europe,Romania,Arges,11,25,24
+1185,Net sender,Europe,Finland,Central Finland,11,25,520
+1186,INT rec. IN sen.,Europe,Ireland,Leinster,11,25,5025
+1187,Both balanced,Europe,Romania,Bihor,11,23,26
+1188,Both balanced,Europe,Russian Federation,Mordoviya Republic,11,25,49
+1189,Both balanced,South America,Chile,Atacama,11,23,6
+1190,Both balanced,Africa,"Tanzania, United Republic of",Manyara,11,20,1
+1191,Net receiver,Europe,Ireland,Munster,11,25,2183
+1192,Mixed,South America,Brazil,Acre,11,24,217
+1193,IN rec. INT sen.,Asia,India,Tamil Nadu,11,25,2335
+1194,Net receiver,Asia,China,Hebei,11,25,3538
+1195,Both balanced,Asia,Kyrgyzstan,Issyk-Kul,11,13,4
+1196,IN rec. INT sen.,Europe,Germany,Bremen,11,25,2502
+1197,Mixed,Europe,Romania,Constanta,11,25,172
+1198,Mixed,Africa,Kenya,Mombasa,11,25,8
+1199,Mixed,South America,Chile,Region of Magallanes,11,25,83
+1200,Mixed,Africa,Nigeria,Sokoto,11,25,152
+1201,Mixed,Africa,Ethiopia,Amhara,11,25,716
+1202,Mixed,Asia,Türkiye,Nevsehir,11,16,98
+1203,Mixed,Africa,Kenya,Kisumu,11,24,96
+1204,Mixed,Africa,Uganda,Northern Region,11,24,20
+1205,Mixed,Asia,Viet Nam,Thai Nguyen,11,19,13
+1206,Net sender,Europe,Germany,Saarland,11,25,2077
+1207,Mixed,Asia,Israel,Northern District,11,25,319
+1208,Net receiver,Asia,Israel,Haifa,11,25,889
+1209,Mixed,Africa,Nigeria,Anambra,11,25,265
+1210,Net receiver,South America,Chile,Maule Region,11,25,568
+1211,Net receiver,North America,United States,Oklahoma,11,25,2818
+1212,Mixed,Asia,Türkiye,Malatya,11,25,610
+1213,IN rec. INT sen.,Asia,Japan,Toyama,11,25,1388
+1214,Mixed,Europe,Romania,Sibiu,11,25,66
+1215,Both balanced,Asia,Viet Nam,Vinh Phuc,11,20,26
+1216,Net sender,Asia,India,Karnataka,11,25,3006
+1217,Mixed,Asia,Bahrain,Muharraq,11,16,128
+1218,Mixed,South America,Chile,Los Lagos Region,11,25,57
+1219,IN rec. INT sen.,Europe,Germany,Saxony-Anhalt,11,25,4271
+1220,Both balanced,Europe,Romania,Valcea,11,20,28
+1221,Mixed,Asia,India,Manipur,11,25,439
+1222,Net receiver,Europe,Denmark,North Denmark,11,25,667
+1223,Net sender,Europe,Germany,Berlin,11,25,8631
+1224,Both balanced,Europe,Russian Federation,Astrakhan,11,25,23
+1225,IN rec. INT sen.,Europe,Finland,Uusimaa,11,25,5180
+1226,Net sender,Africa,Nigeria,Oyo,11,25,634
+1227,Both balanced,Europe,Ukraine,Transcarpathia,11,12,2
+1228,Net receiver,Asia,United Arab Emirates,Dubai,11,25,78
+1229,Net receiver,Africa,"Tanzania, United Republic of",Dar es Salaam,11,25,242
+1230,Net receiver,Asia,United Arab Emirates,Sharjah,11,23,159
+1231,INT rec. IN sen.,North America,United States,Mississippi,11,25,3002
+1232,Both balanced,Africa,Libya,Surt,11,18,2
+1233,Mixed,Asia,United Arab Emirates,Abu Dhabi,11,25,351
+1234,Net receiver,Europe,France,Nouvelle-Aquitaine,12,25,2232
+1235,Mixed,Africa,Cameroon,Adamaoua,12,25,55
+1236,Net sender,Europe,Romania,Ilfov,12,25,187
+1237,Both balanced,Europe,Russian Federation,Belgorod Oblast,12,25,44
+1238,Both balanced,Asia,Syrian Arab Republic,Latakia,12,24,2
+1239,Net sender,Europe,Germany,Thuringia,12,25,2031
+1240,Mixed,Europe,Ukraine,Luhansk,12,25,29
+1241,Net receiver,Africa,Morocco,Beni Mellal-Khenifra,12,25,14
+1242,Both balanced,Europe,Russian Federation,Bryansk Oblast,12,25,43
+1243,Net sender,Asia,Japan,Tottori,12,25,924
+1244,Both balanced,North America,El Salvador,La Libertad,12,12,1
+1245,INT rec. IN sen.,North America,United States,Minnesota,12,25,6112
+1246,Mixed,Asia,Türkiye,Kars,12,25,193
+1247,Both balanced,North America,Cuba,Pinar del Rio,12,25,48
+1248,Mixed,South America,"Bolivia, Plurinational State of",Cochabamba,12,22,21
+1249,Both balanced,Oceania,Samoa,Tuamasaga,12,18,1
+1250,Both balanced,Europe,Russian Federation,Chuvashia,12,17,9
+1251,Mixed,Africa,Morocco,Souss-Massa,12,25,73
+1252,Both balanced,Europe,Russian Federation,Ingushetiya Republic,12,14,3
+1253,Mixed,Europe,Russian Federation,Dagestan,12,25,137
+1254,INT rec. IN sen.,Africa,Tunisia,Safaqis,12,25,960
+1255,Mixed,Europe,Iceland,Capital Region,12,25,326
+1256,Mixed,Asia,Türkiye,Kirikkale,12,25,253
+1257,Mixed,Europe,Albania,Tirana,12,24,5
+1258,Net receiver,Europe,Denmark,South Denmark,12,25,2431
+1259,Net receiver,Africa,Nigeria,Ogun,12,25,4
+1260,Mixed,Europe,Russian Federation,Kaluga,12,25,143
+1261,Both balanced,Europe,Bulgaria,Sofia,12,15,4
+1262,Both balanced,Europe,Lithuania,Siauliai,12,24,45
+1263,INT rec. IN sen.,Asia,Thailand,Khon Kaen,12,25,571
+1264,Both balanced,North America,Dominican Republic,San Pedro de Macoris,12,14,2
+1265,Mixed,Asia,"Iran, Islamic Republic of",Alborz,12,19,4
+1266,IN rec. INT sen.,Europe,Ukraine,Kyiv City,12,25,2526
+1267,Both balanced,Africa,Tunisia,Bajah,12,14,1
+1268,Both balanced,Asia,Philippines,Zamboanga Peninsula,12,13,1
+1269,Both balanced,Africa,Zimbabwe,Masvingo,12,16,2
+1270,Net sender,Europe,Italy,Liguria,12,25,500
+1271,Both balanced,Africa,Ethiopia,Dire Dawa,12,14,1
+1272,Both balanced,Europe,Ukraine,Republic of Crimea,12,15,4
+1273,Mixed,Europe,Russian Federation,Kirov,12,25,36
+1274,Both balanced,Europe,Romania,Gorj,12,17,4
+1275,Both balanced,South America,Peru,Junin,12,18,1
+1276,Mixed,Europe,Bulgaria,Pleven,12,25,35
+1277,Mixed,South America,Argentina,Catamarca,12,23,20
+1278,INT rec. IN sen.,North America,United States,North Dakota,12,25,1231
+1279,Net sender,Europe,Germany,Hesse,12,25,6564
+1280,Both balanced,Africa,Namibia,Erongo,12,18,1
+1281,Mixed,Europe,Romania,Dambovita,12,23,44
+1282,Both balanced,Europe,Bulgaria,Dobrich,12,14,3
+1283,Both balanced,Asia,Georgia,Imereti,12,21,3
+1284,Mixed,Asia,Türkiye,Nigde,12,25,7
+1285,Both balanced,Europe,Slovenia,Ptuj,12,15,6
+1286,Mixed,South America,Brazil,Amapa,12,21,150
+1287,Both balanced,Europe,Romania,Bacau,12,17,15
+1288,Net receiver,North America,United States,South Carolina,12,25,3158
+1289,IN rec. INT sen.,Asia,Japan,Kochi,12,25,634
+1290,Mixed,Africa,South Africa,Mpumalanga,12,25,3
+1291,Both balanced,Europe,Slovenia,Miklavz na Dravskem Polju,12,12,1
+1292,INT rec. IN sen.,North America,United States,Kentucky,12,25,3828
+1293,Mixed,Africa,Zimbabwe,Midlands,12,21,23
+1294,Mixed,Asia,Sri Lanka,Northern Province,12,25,12
+1295,Net receiver,Asia,Türkiye,Sakarya,12,25,1497
+1296,Net receiver,Europe,Netherlands,North Brabant,12,25,1807
+1297,Both balanced,Africa,"Congo, The Democratic Republic of the",Haut-Katanga,12,24,1
+1298,Net sender,Asia,China,Hunan,12,25,16446
+1299,Mixed,Europe,Russian Federation,Omsk,12,25,211
+1300,INT rec. IN sen.,Asia,Türkiye,Samsun,12,25,751
+1301,INT rec. IN sen.,Asia,Viet Nam,Hanoi,12,25,1132
+1302,Mixed,Europe,Belarus,Vitebsk,12,25,55
+1303,Mixed,Europe,Ukraine,Vinnyts'ka,12,25,60
+1304,Both balanced,South America,Peru,Arequipa,12,21,1
+1305,Mixed,Europe,Russian Federation,Penza,12,25,67
+1306,Mixed,Asia,"Korea, Democratic People's Republic of",Pyongyang,12,18,35
+1307,Mixed,Europe,Slovenia,Nova Gorica,12,23,82
+1308,Mixed,Asia,Indonesia,Riau,12,25,3
+1309,Mixed,Asia,Malaysia,Sarawak,12,25,14
+1310,Both balanced,South America,"Venezuela, Bolivarian Republic of",Tachira,12,14,4
+1311,Net sender,Asia,Pakistan,Sindh,12,25,3956
+1312,Net receiver,Asia,Malaysia,Perak,12,25,1328
+1313,Both balanced,Europe,Russian Federation,Ryazan Oblast,12,25,20
+1314,Mixed,South America,"Venezuela, Bolivarian Republic of",Aragua,12,25,23
+1315,Net receiver,Asia,Türkiye,Hatay,12,25,380
+1316,Both balanced,Europe,Finland,Central Ostrobothnia,12,17,2
+1317,INT rec. IN sen.,Asia,Thailand,Songkhla,12,25,150
+1318,Mixed,Europe,Netherlands,Zeeland,12,21,10
+1319,Both balanced,Europe,Slovenia,Kanal,12,12,1
+1320,Both balanced,Europe,Slovenia,Grosuplje,12,12,3
+1321,Net receiver,Asia,"Korea, Republic of",North Chungcheong,12,25,2456
+1322,Mixed,Africa,Uganda,Western Region,12,25,101
+1323,Net receiver,Asia,China,Guizhou,12,25,682
+1324,Mixed,Europe,Portugal,Azores,12,23,19
+1325,Net receiver,Asia,Thailand,Surin,12,21,185
+1326,Both balanced,Europe,Ukraine,Kirovohrad,12,17,1
+1327,Mixed,Asia,India,Mizoram,12,20,119
+1328,Both balanced,Asia,Sri Lanka,North Western,12,25,4
+1329,Net sender,Europe,Italy,Tuscany,12,25,8775
+1330,IN rec. INT sen.,Europe,Netherlands,South Holland,12,25,7334
+1331,Mixed,Europe,Czechia,Plzensky kraj,12,25,160
+1332,IN rec. INT sen.,Europe,Netherlands,Overijssel,12,25,968
+1333,Both balanced,North America,Montserrat,Saint Anthony,12,23,2
+1334,Mixed,Asia,"Taiwan, Province of China",Fukien,12,17,9
+1335,Net sender,Europe,United Kingdom,Northern Ireland,12,25,2268
+1336,INT rec. IN sen.,Asia,China,Liaoning,12,25,24371
+1337,Net receiver,North America,United States,Ohio,12,25,11555
+1338,IN rec. INT sen.,Asia,Japan,Ibaraki,12,25,10284
+1339,Mixed,Europe,Portugal,District of Setubal,12,25,94
+1340,Net receiver,Europe,Sweden,Vaestra Goetaland,12,25,6344
+1341,Net receiver,Asia,Thailand,Nakhon Si Thammarat,12,22,8
+1342,Both balanced,Europe,Russian Federation,Tula,12,25,58
+1343,Mixed,Asia,Sri Lanka,Central,12,25,66
+1344,Net sender,Europe,Ukraine,Kharkiv,12,25,1941
+1345,Net receiver,Europe,Russian Federation,Tyumen' Oblast,12,25,171
+1346,Mixed,South America,Ecuador,Azuay,12,24,9
+1347,INT rec. IN sen.,Europe,Norway,Akershus,12,25,1556
+1348,Both balanced,Asia,Indonesia,East Kalimantan,12,23,4
+1349,Net sender,Europe,Poland,Lesser Poland,12,25,7170
+1350,Mixed,Europe,Poland,Opole Voivodeship,12,25,146
+1351,Both balanced,South America,Colombia,Meta,12,23,5
+1352,Mixed,Europe,Russian Federation,Udmurtiya Republic,12,25,82
+1353,Mixed,South America,Argentina,Neuquen,12,25,81
+1354,Mixed,Asia,Bhutan,Thimphu,12,21,5
+1355,Mixed,Europe,Portugal,Leiria,12,22,38
+1356,Mixed,Europe,Russian Federation,Vologda,12,25,28
+1357,Mixed,North America,Mexico,Tlaxcala,12,25,113
+1358,Both balanced,Europe,Norway,Finnmark,12,23,9
+1359,Net receiver,Europe,Spain,Castille-La Mancha,12,25,402
+1360,Net sender,Asia,China,Beijing,12,25,83013
+1361,Mixed,Africa,Algeria,Biskra,12,25,260
+1362,INT rec. IN sen.,Europe,Switzerland,Vaud,12,25,6972
+1363,Net sender,Oceania,New Zealand,Otago,12,25,1201
+1364,INT rec. IN sen.,Europe,Switzerland,Basel-City,12,25,1661
+1365,Both balanced,South America,Colombia,Choco,12,15,1
+1366,Net receiver,North America,United States,New York,12,25,37757
+1367,Net receiver,North America,United States,Vermont,12,25,1287
+1368,Net receiver,Europe,Czechia,Kralovehradecky kraj,12,25,229
+1369,Mixed,South America,Argentina,San Juan,12,25,47
+1370,Net receiver,Europe,Croatia,Osjecko-Baranjska,12,25,420
+1371,Mixed,Asia,Indonesia,Bali,12,25,13
+1372,INT rec. IN sen.,North America,United States,Pennsylvania,12,25,16872
+1373,Net receiver,Europe,Poland,Warmia-Masuria,12,25,986
+1374,Mixed,Asia,Cyprus,Ammochostos,12,25,5
+1375,Both balanced,North America,Bahamas,New Providence,12,23,1
+1376,Net receiver,Europe,Croatia,Split-Dalmatia,12,25,351
+1377,Mixed,Asia,"Iran, Islamic Republic of",Hormozgan,12,20,6
+1378,Net receiver,Asia,China,Chongqing,12,25,10494
+1379,Both balanced,Europe,Hungary,Szabolcs-Szatmar-Bereg,12,17,3
+1380,Net receiver,Europe,France,Bourgogne-Franche-Comte,12,25,1161
+1381,Net sender,Europe,Austria,Styria,12,25,1607
+1382,Mixed,Asia,Thailand,Samut Prakan,12,22,17
+1383,Mixed,Asia,Jordan,Mafraq,12,25,19
+1384,Net receiver,Europe,Portugal,Braga,12,25,141
+1385,Net sender,South America,Brazil,Rio Grande do Sul,12,25,8224
+1386,Net receiver,Europe,Austria,Salzburg,12,25,829
+1387,INT rec. IN sen.,Europe,Czechia,South Moravian,12,25,5143
+1388,Both balanced,Africa,Sudan,Central Darfur,12,14,1
+1389,Mixed,North America,Mexico,Oaxaca,12,24,44
+1390,Both balanced,Asia,Kuwait,Muhafazat al Jahra',12,24,27
+1391,Net receiver,Asia,Jordan,Zarqa,12,25,66
+1392,INT rec. IN sen.,Europe,Norway,Trondelag,12,25,2797
+1393,IN rec. INT sen.,Europe,France,Provence-Alpes-Cote d'Azur,12,25,2806
+1394,Net receiver,Europe,France,Pays de la Loire,12,25,803
+1395,Net sender,Europe,Spain,Navarre,12,25,1023
+1396,Both balanced,Asia,Uzbekistan,Surxondaryo,12,14,1
+1397,Net sender,Europe,Czechia,Hlavni mesto Praha,12,25,9616
+1398,Mixed,Europe,Ukraine,Dnipropetrovsk,12,25,127
+1399,Mixed,Asia,Japan,Fukui,12,25,188
+1400,Mixed,South America,Brazil,Roraima,12,19,23
+1401,Mixed,Asia,Kazakhstan,Karaganda,12,25,5
+1402,IN rec. INT sen.,Europe,France,Auvergne-Rhone-Alpes,12,25,14579
+1403,INT rec. IN sen.,Europe,Norway,Troms,12,25,541
+1404,Mixed,Oceania,Papua New Guinea,National Capital,12,25,65
+1405,Both balanced,Africa,Djibouti,Djibouti,12,18,3
+1406,Both balanced,Asia,Uzbekistan,Navoiy,12,13,2
+1407,Mixed,Africa,Libya,Al Jabal al Akhdar,12,21,13
+1408,Net receiver,Asia,Türkiye,Denizli,12,25,252
+1409,IN rec. INT sen.,North America,Canada,Ontario,12,25,44261
+1410,Both balanced,Oceania,Papua New Guinea,Morobe,12,25,14
+1411,Both balanced,Europe,Austria,Burgenland,13,19,1
+1412,Mixed,Africa,Sudan,Khartoum,13,25,214
+1413,Mixed,North America,Puerto Rico,Ponce,13,25,73
+1414,Net sender,Asia,Japan,Aichi,13,25,7787
+1415,Both balanced,North America,Puerto Rico,Carolina,13,16,3
+1416,Mixed,North America,Puerto Rico,Cidra,13,25,44
+1417,Mixed,North America,Mexico,Guerrero,13,22,8
+1418,Mixed,Asia,Nepal,Eastern Region,13,25,61
+1419,Net sender,Europe,Hungary,Hajdu-Bihar,13,25,908
+1420,IN rec. INT sen.,Europe,France,Grand Est,13,25,4728
+1421,Both balanced,Africa,Sudan,North Kordofan,13,21,19
+1422,Net sender,Europe,France,Normandy,13,25,1367
+1423,Net sender,Asia,China,Tianjin,13,25,1806
+1424,Both balanced,Asia,Cyprus,Limassol,13,20,4
+1425,Mixed,Europe,Croatia,Zadarska,13,25,10
+1426,Mixed,Asia,Cyprus,Nicosia,13,25,112
+1427,Both balanced,Europe,France,Corsica,13,21,3
+1428,Both balanced,Africa,Algeria,Tipaza,13,16,4
+1429,Both balanced,Europe,Sweden,Jaemtland,13,25,12
+1430,INT rec. IN sen.,Europe,Switzerland,Geneva,13,25,3642
+1431,Both balanced,Europe,Norway,Sogn og Fjordane,13,25,6
+1432,Net receiver,Europe,Sweden,Kalmar,13,24,197
+1433,Net receiver,Europe,Norway,Rogaland,13,25,78
+1434,Both balanced,South America,Argentina,Santa Cruz,13,25,3
+1435,Both balanced,Africa,Gabon,Estuaire,13,25,52
+1436,Mixed,Asia,Iraq,Nineveh,13,25,12
+1437,Both balanced,Europe,Switzerland,Solothurn,13,24,10
+1438,Net receiver,Oceania,Australia,New South Wales,13,25,17609
+1439,Mixed,Europe,Czechia,Vysocina,13,23,25
+1440,Net receiver,Asia,China,Shandong,13,25,6031
+1441,Mixed,North America,Mexico,Baja California Sur,13,25,29
+1442,Both balanced,South America,Colombia,Cesar,13,19,3
+1443,Mixed,Asia,Indonesia,Bengkulu,13,23,11
+1444,IN rec. INT sen.,Asia,Japan,Gifu,13,25,1854
+1445,Net receiver,Europe,Norway,Nordland,13,25,146
+1446,Net receiver,Oceania,Australia,Victoria,13,25,27680
+1447,Both balanced,Europe,Ukraine,Rivne,13,24,96
+1448,Both balanced,Europe,Liechtenstein,Schaan,13,24,17
+1449,Mixed,Europe,Portugal,Portalegre,13,20,4
+1450,Net receiver,Europe,Norway,Buskerud,13,25,75
+1451,Net receiver,Europe,Poland,Subcarpathian,13,25,184
+1452,Mixed,Europe,Russian Federation,Ulyanovsk,13,25,76
+1453,INT rec. IN sen.,Europe,Sweden,Vaesterbotten,13,25,1909
+1454,Mixed,Asia,Viet Nam,Nghe An,13,23,3
+1455,Mixed,Europe,Ukraine,Odesa,13,25,146
+1456,Net receiver,Europe,Sweden,Stockholm,13,25,7395
+1457,Net receiver,North America,Mexico,Veracruz,13,25,792
+1458,Net sender,Asia,India,Uttar Pradesh,13,25,5251
+1459,Net receiver,Asia,"Korea, Republic of",Daegu,13,25,1297
+1460,Mixed,North America,Barbados,Saint Michael,13,22,45
+1461,Mixed,Asia,Indonesia,West Nusa Tenggara,13,25,16
+1462,Mixed,Europe,Netherlands,Flevoland,13,24,4
+1463,Mixed,Europe,Russian Federation,Stavropol' Kray,13,25,47
+1464,Both balanced,Europe,Russian Federation,Smolensk,13,25,15
+1465,Mixed,Asia,Oman,Al Batinah North,13,18,14
+1466,Both balanced,Europe,Slovenia,Izola-Isola,13,18,1
+1467,Mixed,Asia,Indonesia,Maluku,13,23,4
+1468,Both balanced,Asia,Uzbekistan,Sirdaryo,13,14,4
+1469,Both balanced,Europe,Malta,Il-Furjana,13,16,2
+1470,Net receiver,Asia,Pakistan,Islamabad,13,25,1247
+1471,Net receiver,South America,Brazil,Espirito Santo,13,25,124
+1472,Mixed,Europe,Czechia,Ustecky kraj,13,25,17
+1473,Both balanced,Europe,Slovenia,Kranj,13,19,1
+1474,Mixed,Asia,Hong Kong,Tsuen Wan,13,25,25
+1475,Net sender,Asia,Japan,Ishikawa,13,25,2358
+1476,Both balanced,Asia,Indonesia,Papua,13,19,1
+1477,Mixed,Europe,Finland,Ostrobothnia,13,25,26
+1478,IN rec. INT sen.,Europe,Belgium,Wallonia,13,25,4005
+1479,Mixed,Asia,Hong Kong,Sha Tin,13,25,15
+1480,Mixed,Asia,Myanmar,Rangoon,13,25,37
+1481,Mixed,South America,Paraguay,Asuncion,13,24,23
+1482,INT rec. IN sen.,North America,United States,Indiana,13,25,6177
+1483,Mixed,Europe,Finland,Southern Ostrobothnia,13,25,1
+1484,Both balanced,Asia,Myanmar,Shan,13,16,1
+1485,Mixed,Europe,Ukraine,Ternopil,13,25,44
+1486,Net receiver,South America,Brazil,Bahia,13,25,235
+1487,Mixed,South America,Ecuador,Guayas,13,25,108
+1488,Both balanced,South America,Peru,Ayacucho,13,16,13
+1489,Both balanced,Europe,Bulgaria,Blagoevgrad,13,14,1
+1490,Mixed,Europe,Ukraine,Cherkasy,13,25,6
+1491,Both balanced,Asia,Kyrgyzstan,Osh,13,18,3
+1492,Mixed,Asia,India,Tripura,13,25,11
+1493,Both balanced,Europe,Slovenia,Novo Mesto,13,25,14
+1494,Both balanced,Europe,Russian Federation,Magadan Oblast,13,18,1
+1495,Both balanced,Europe,Russian Federation,Kursk,13,25,17
+1496,Net receiver,Asia,Thailand,Nakhon Ratchasima,13,25,17
+1497,Net receiver,Africa,South Africa,Gauteng,13,25,2014
+1498,Both balanced,North America,Dominican Republic,Nacional,13,25,12
+1499,Mixed,Europe,Russian Federation,Krasnodarskiy,13,25,105
+1500,Net sender,Europe,Greece,Crete,13,25,1456
+1501,Both balanced,Africa,Liberia,Margibi,13,15,3
+1502,Both balanced,Asia,Philippines,Mimaropa,13,17,1
+1503,Both balanced,North America,Belize,Cayo,13,19,4
+1504,Both balanced,Europe,North Macedonia,Tetovo,13,13,4
+1505,Mixed,Asia,Türkiye,Aksaray,13,15,100
+1506,Net sender,Europe,Finland,Northern Savonia,13,25,1184
+1507,Net receiver,North America,United States,Utah,13,25,4182
+1508,Both balanced,North America,Canada,Nunavut,13,22,1
+1509,Both balanced,Asia,Philippines,Soccsksargen,13,23,21
+1510,Mixed,Europe,Russian Federation,Khabarovsk,13,25,44
+1511,Net sender,South America,Colombia,Valle del Cauca,13,25,696
+1512,Both balanced,Africa,Madagascar,Upper Matsiatra,13,17,1
+1513,Mixed,Europe,Finland,South Savo,13,25,15
+1514,Both balanced,Europe,Romania,Hunedoara,13,25,69
+1515,Net sender,Asia,Japan,Nara,13,25,1579
+1516,Both balanced,Africa,Sierra Leone,Western Area,13,25,7
+1517,Both balanced,Africa,Zimbabwe,Bulawayo,13,20,15
+1518,Both balanced,Europe,Russian Federation,Karachayevo-Cherkesiya Republic,13,16,2
+1519,Net sender,Europe,Germany,Schleswig-Holstein,13,25,3551
+1520,IN rec. INT sen.,Asia,Israel,Tel Aviv,13,25,5761
+1521,Both balanced,Africa,"Tanzania, United Republic of",Mwanza,13,25,3
+1522,Both balanced,Europe,Albania,Shkoder,13,14,14
+1523,Both balanced,Europe,Ukraine,Zhytomyr,13,21,8
+1524,INT rec. IN sen.,Africa,South Africa,KwaZulu-Natal,13,25,1105
+1525,Both balanced,Asia,Uzbekistan,Andijon,13,18,8
+1526,Mixed,Europe,Ukraine,Mykolaiv,13,25,7
+1527,Net receiver,Europe,Denmark,Zealand,13,25,172
+1528,Mixed,Africa,"Tanzania, United Republic of",Arusha,13,25,8
+1529,Mixed,North America,Cuba,Havana,13,25,598
+1530,Mixed,Europe,Finland,Satakunta,13,25,27
+1531,Net sender,Africa,Egypt,Dakahlia,13,25,1077
+1532,Mixed,Asia,Philippines,Central Luzon,13,25,25
+1533,Net sender,Asia,India,Delhi,13,25,6935
+1534,Mixed,Asia,Yemen,Sanaa,13,22,4
+1535,Mixed,Africa,Nigeria,Imo,13,25,3
+1536,Both balanced,Africa,"Tanzania, United Republic of",Pemba South,13,20,1
+1537,Both balanced,Asia,Uzbekistan,Samarqand,13,25,29
+1538,Both balanced,Europe,Latvia,Valmiera,13,16,2
+1539,Net sender,Europe,Finland,Southwest Finland,13,25,1449
+1540,Net sender,Africa,Cameroon,Centre,13,25,219
+1541,Both balanced,Asia,Thailand,Lampang,13,21,3
+1542,Net receiver,Asia,Türkiye,Mugla,13,25,8
+1543,Mixed,Africa,Morocco,Tanger-Tetouan-Al Hoceima,13,25,24
+1544,Mixed,South America,Chile,Tarapaca,13,25,99
+1545,Both balanced,Asia,Syrian Arab Republic,Homs,13,25,6
+1546,Mixed,Europe,Russian Federation,Altai Krai,13,25,78
+1547,IN rec. INT sen.,Europe,Ukraine,Lviv,13,25,598
+1548,Both balanced,Europe,Ukraine,Volyn,13,25,149
+1549,Net sender,Asia,India,Maharashtra,13,25,8988
+1550,IN rec. INT sen.,Asia,Japan,Shizuoka,13,25,1791
+1551,Mixed,Asia,Türkiye,Kahramanmaras,13,25,37
+1552,Mixed,Africa,Guinea,Conakry,13,23,40
+1553,Both balanced,Africa,Chad,Chari-Baguirmi,14,23,8
+1554,Net sender,Africa,Kenya,Nairobi Area,14,25,3075
+1555,Net receiver,Europe,Switzerland,Aargau,14,25,508
+1556,Both balanced,Africa,Kenya,Bomet,14,17,9
+1557,Both balanced,Europe,Switzerland,Schwyz,14,19,6
+1558,Mixed,Africa,Zambia,Copperbelt,14,25,11
+1559,Net receiver,Asia,Thailand,Phitsanulok,14,24,274
+1560,Net receiver,Asia,"Korea, Republic of",Gangwon-do,14,25,1399
+1561,Mixed,Asia,"Taiwan, Province of China",Taipei,14,25,1
+1562,INT rec. IN sen.,Europe,Switzerland,Zurich,14,25,14353
+1563,Both balanced,South America,Peru,Ancash,14,16,1
+1564,Mixed,South America,Ecuador,Pichincha,14,25,833
+1565,Net receiver,Europe,Estonia,Harjumaa,14,25,258
+1566,Mixed,Africa,Algeria,Mostaganem,14,25,168
+1567,Net receiver,Asia,Thailand,Maha Sarakham,14,22,356
+1568,Mixed,Asia,Oman,Dhofar,14,20,1
+1569,Net receiver,Asia,"Korea, Republic of",Jeollanam-do,14,25,313
+1570,Net receiver,North America,United States,Idaho,14,25,903
+1571,Both balanced,North America,Dominican Republic,Santiago,14,23,4
+1572,Both balanced,Europe,Slovenia,Celje,14,25,1
+1573,Net receiver,North America,United States,South Dakota,14,25,1661
+1574,Mixed,Asia,Lao People's Democratic Republic,Vientiane Prefecture,14,24,25
+1575,INT rec. IN sen.,North America,United States,Georgia,14,25,18384
+1576,Both balanced,Asia,Lebanon,South Governorate,14,21,15
+1577,INT rec. IN sen.,North America,United States,Florida,14,25,12553
+1578,Net receiver,North America,United States,Colorado,14,25,8224
+1579,Mixed,Europe,Norway,Telemark,14,25,26
+1580,Mixed,Europe,Hungary,Somogy,14,23,18
+1581,Net receiver,Asia,Saudi Arabia,Al-Qassim,14,24,5
+1582,Net receiver,Asia,Indonesia,Jakarta,14,25,1385
+1583,Both balanced,Europe,Latvia,Daugavpils municipality,14,24,90
+1584,INT rec. IN sen.,North America,United States,Alabama,14,25,5298
+1585,Net sender,Asia,Israel,Central District,14,25,1988
+1586,Mixed,North America,Cuba,Villa Clara,14,25,183
+1587,Both balanced,Asia,Uzbekistan,Bukhara,14,23,119
+1588,Net sender,Asia,Israel,Jerusalem,14,25,3643
+1589,Net receiver,Asia,Israel,Judea and Samaria Area,14,17,281
+1590,Mixed,Europe,Russian Federation,Vladimir,14,25,43
+1591,IN rec. INT sen.,Asia,India,Andhra Pradesh,14,25,2692
+1592,Mixed,Europe,Ukraine,Zaporizhia,14,25,80
+1593,IN rec. INT sen.,Europe,Russian Federation,St.-Petersburg,14,25,3916
+1594,IN rec. INT sen.,Asia,India,Punjab,14,25,6236
+1595,Both balanced,Europe,Greece,South Aegean,14,19,10
+1596,Net receiver,Europe,Greece,Thessaly,14,25,740
+1597,Both balanced,Europe,Russian Federation,Orel Oblast,14,25,8
+1598,Net sender,Europe,Russian Federation,Novosibirsk Oblast,14,25,2001
+1599,Both balanced,Asia,Iraq,Salah ad Din,14,23,46
+1600,Mixed,Africa,Benin,Oueme,14,25,28
+1601,Mixed,Europe,Russian Federation,Mariy-El Republic,14,25,27
+1602,Both balanced,Europe,Russian Federation,Lipetsk Oblast,14,25,16
+1603,Net receiver,Asia,"Iran, Islamic Republic of",Chaharmahal and Bakhtiari,14,24,737
+1604,Net sender,Asia,"Iran, Islamic Republic of",Fars,14,25,4129
+1605,Both balanced,North America,Bermuda,Saint George,14,25,18
+1606,Net sender,Europe,Italy,Campania,14,25,3338
+1607,Mixed,Europe,Russian Federation,Karelia,14,25,45
+1608,Both balanced,Europe,Ukraine,Kyiv,14,22,6
+1609,Net sender,Asia,China,Shaanxi,14,25,5302
+1610,Mixed,Asia,China,Tibet,14,25,78
+1611,Mixed,Africa,Mauritius,Moka,14,25,203
+1612,Both balanced,Europe,Ukraine,Khmelnytskyi,14,19,7
+1613,Mixed,South America,"Bolivia, Plurinational State of",Oruro,14,25,18
+1614,Both balanced,South America,"Bolivia, Plurinational State of",Potosi,14,16,1
+1615,Mixed,South America,"Bolivia, Plurinational State of",Santa Cruz,14,25,23
+1616,Both balanced,Europe,Russian Federation,Adygeya Republic,14,16,1
+1617,Both balanced,Asia,Uzbekistan,Qashqadaryo,14,20,7
+1618,Both balanced,Europe,Romania,Prahova,14,25,22
+1619,Mixed,Europe,Romania,Arad,14,25,2
+1620,Net receiver,South America,Brazil,Maranhao,14,25,467
+1621,Mixed,Asia,Türkiye,Van,14,25,209
+1622,Net receiver,South America,Brazil,Rio Grande do Norte,14,25,1520
+1623,Net sender,Europe,Italy,Umbria,14,25,1224
+1624,Mixed,Africa,Ghana,Brong-Ahafo,14,22,3
+1625,Net sender,North America,Mexico,Mexico City,14,25,20340
+1626,Mixed,Africa,Nigeria,Edo,14,25,27
+1627,Mixed,North America,Costa Rica,Alajuela,14,25,18
+1628,Net sender,Asia,Japan,Hiroshima,14,25,3793
+1629,Mixed,South America,Brazil,Tocantins,14,24,1
+1630,Net receiver,South America,Brazil,Goias,14,25,1278
+1631,Mixed,Europe,Belarus,Gomel Oblast,14,25,84
+1632,Net receiver,North America,United States,Nebraska,14,25,6521
+1633,Mixed,North America,Costa Rica,Cartago,14,25,38
+1634,IN rec. INT sen.,Europe,France,Occitanie,14,25,10472
+1635,Mixed,Europe,Finland,North Karelia,14,25,44
+1636,Net sender,Asia,Japan,Okayama,14,25,3088
+1637,Net receiver,Asia,Japan,Saitama,14,25,5265
+1638,Mixed,Europe,Belarus,Grodnenskaya,14,25,70
+1639,Mixed,Europe,Poland,Swietokrzyskie,14,25,87
+1640,Both balanced,Asia,Philippines,Cordillera,14,21,3
+1641,Both balanced,North America,Canada,Yukon,14,25,3
+1642,Mixed,Africa,Nigeria,Cross River,14,25,59
+1643,Both balanced,Asia,Philippines,Cagayan Valley,14,17,1
+1644,Both balanced,Asia,Maldives,Kaafu Atoll,14,19,3
+1645,Both balanced,South America,Colombia,Amazonas,14,19,3
+1646,Mixed,Asia,Türkiye,Tokat,14,25,337
+1647,Net receiver,Asia,Japan,Tochigi,14,25,1426
+1648,Mixed,North America,Canada,Northwest Territories,14,25,11
+1649,IN rec. INT sen.,Asia,Japan,Tokyo,14,25,45934
+1650,Net receiver,Asia,Japan,Wakayama,14,25,729
+1651,Mixed,North America,Mexico,Durango,14,25,44
+1652,Net sender,Asia,China,Heilongjiang,14,25,9253
+1653,Net receiver,North America,United States,Arkansas,15,25,1587
+1654,INT rec. IN sen.,North America,United States,Arizona,15,25,9631
+1655,INT rec. IN sen.,Asia,Thailand,Chiang Mai,15,25,1500
+1656,Both balanced,Oceania,Guam,Mangilao,15,25,27
+1657,Both balanced,Europe,Hungary,Bekes,15,25,9
+1658,Mixed,North America,Haiti,Ouest,15,21,1
+1659,Net sender,Europe,Croatia,City of Zagreb,15,25,1341
+1660,Both balanced,Europe,Croatia,Zagrebacka,15,21,1
+1661,Mixed,Africa,Senegal,Dakar,15,25,300
+1662,Both balanced,Europe,San Marino,San Marino,15,19,1
+1663,INT rec. IN sen.,North America,United States,Iowa,15,25,6771
+1664,INT rec. IN sen.,North America,United States,Kansas,15,25,2903
+1665,Net sender,Europe,Austria,Tyrol,15,25,953
+1666,Both balanced,Europe,Sweden,Soedermanland,15,20,1
+1667,Both balanced,Europe,Sweden,Kronoberg,15,17,1
+1668,Mixed,Africa,Sudan,Al Jazirah,15,25,29
+1669,Both balanced,Europe,Bulgaria,Ruse,15,25,61
+1670,Mixed,Europe,Bulgaria,Stara Zagora,15,25,54
+1671,Net receiver,Asia,Thailand,Chon Buri,15,25,127
+1672,Mixed,Europe,Russian Federation,Perm,15,25,128
+1673,Both balanced,Asia,Thailand,Changwat Udon Thani,15,18,2
+1674,Mixed,Asia,Yemen,Ta'izz,15,21,23
+1675,Mixed,Europe,Russian Federation,Kabardino-Balkariya Republic,15,25,43
+1676,Mixed,Europe,Russian Federation,Buryatiya Republic,15,25,54
+1677,Both balanced,Europe,Romania,Tulcea,15,18,2
+1678,Mixed,Europe,Russian Federation,Kamchatka,15,25,10
+1679,Mixed,South America,Brazil,Rondonia,15,25,177
+1680,Mixed,Europe,Portugal,Viana do Castelo,15,25,3
+1681,Mixed,Europe,Portugal,Santarem,15,24,8
+1682,Both balanced,North America,Puerto Rico,Mayagueez,15,25,7
+1683,Both balanced,Asia,Philippines,Eastern Visayas,15,25,6
+1684,Both balanced,Asia,Philippines,Ilocos,15,17,1
+1685,Both balanced,South America,Peru,Tacna,15,19,1
+1686,Mixed,South America,Peru,Loreto,15,25,5
+1687,Mixed,Europe,Norway,Aust-Agder,15,25,14
+1688,Net sender,Europe,Netherlands,Utrecht,15,25,3743
+1689,Net sender,Europe,Netherlands,Groningen,15,25,2154
+1690,Net receiver,Asia,China,Fujian,15,25,4572
+1691,Mixed,South America,"Venezuela, Bolivarian Republic of",Lara,15,25,22
+1692,Net sender,Asia,China,Hubei,15,25,21819
+1693,Both balanced,South America,"Venezuela, Bolivarian Republic of",Barinas,15,24,4
+1694,Net receiver,Asia,China,Yunnan,15,25,2144
+1695,Both balanced,North America,Costa Rica,Limon,15,23,5
+1696,Mixed,Europe,North Macedonia,Karposh,15,25,17
+1697,Both balanced,Africa,Madagascar,Atsimo-Andrefana,15,22,1
+1698,Both balanced,North America,Cuba,Ciego de Avila,15,23,23
+1699,Both balanced,Africa,Cabo Verde,Sao Vicente,15,15,2
+1700,Net sender,Europe,Germany,Lower Saxony,15,25,6365
+1701,Mixed,Asia,Kazakhstan,East Kazakhstan,15,25,2
+1702,IN rec. INT sen.,Europe,Germany,North Rhine-Westphalia,15,25,17023
+1703,Net receiver,Asia,"Korea, Republic of",Gyeongsangnam-do,15,25,470
+1704,Both balanced,Africa,Algeria,Oran,15,21,12
+1705,INT rec. IN sen.,Asia,"Taiwan, Province of China",Taiwan,15,25,29518
+1706,Both balanced,Asia,Cambodia,Siem Reap,15,17,1
+1707,Net receiver,North America,United States,Oregon,15,25,3874
+1708,Net sender,Europe,Spain,Asturias,15,25,2135
+1709,Net receiver,Asia,Japan,Okinawa,15,25,509
+1710,Mixed,Oceania,Fiji,Central,15,20,28
+1711,Mixed,Europe,Ukraine,Chernivtsi Oblast',15,25,408
+1712,Net receiver,Europe,Italy,Trentino-Alto Adige,15,25,280
+1713,IN rec. INT sen.,Europe,Italy,Piedmont,15,25,1109
+1714,IN rec. INT sen.,Europe,Italy,Lombardy,15,25,6757
+1715,IN rec. INT sen.,Europe,Italy,Latium,15,25,9732
+1716,Net sender,Europe,Italy,Friuli Venezia Giulia,15,25,1872
+1717,Net sender,Europe,Italy,Calabria,15,25,585
+1718,Both balanced,Europe,Iceland,Northwest,15,23,2
+1719,Mixed,Europe,Iceland,Northeast,15,25,1
+1720,Net sender,Asia,"Iran, Islamic Republic of",Tehran,15,25,7253
+1721,Mixed,Asia,Iraq,Basra,15,25,42
+1722,Mixed,Asia,India,Nagaland,15,24,2
+1723,IN rec. INT sen.,Asia,India,Kerala,15,25,427
+1724,Mixed,Asia,Armenia,Aragatsotn,15,25,32
+1725,Mixed,Europe,Ireland,Ulster,15,25,10
+1726,Both balanced,Asia,Tajikistan,Dushanbe,16,25,41
+1727,Both balanced,Africa,Zimbabwe,Manicaland,16,17,1
+1728,Net receiver,Europe,Austria,Lower Austria,16,25,553
+1729,Mixed,Asia,India,Chhattisgarh,16,25,64
+1730,INT rec. IN sen.,North America,United States,Missouri,16,25,6528
+1731,Both balanced,Africa,South Sudan,Wau,16,18,1
+1732,Mixed,Africa,Libya,Banghazi,16,25,16
+1733,Mixed,Europe,Russian Federation,Tver' Oblast,16,25,236
+1734,Mixed,Africa,Côte d'Ivoire,Abidjan,16,25,282
+1735,Both balanced,South America,Peru,Cusco,16,25,24
+1736,INT rec. IN sen.,Asia,"Korea, Republic of",Seoul,16,25,8300
+1737,Net receiver,Asia,"Korea, Republic of",Busan,16,25,469
+1738,Net receiver,Europe,Switzerland,Ticino,16,25,623
+1739,Both balanced,Europe,Russian Federation,Republic of Tyva,16,23,3
+1740,Both balanced,Oceania,Northern Mariana Islands,Saipan,16,17,1
+1741,Both balanced,North America,Costa Rica,Heredia,16,25,12
+1742,Mixed,South America,Peru,Lima,16,25,1299
+1743,Mixed,Oceania,Papua New Guinea,Eastern Highlands,16,25,54
+1744,INT rec. IN sen.,Asia,Indonesia,West Java,16,25,277
+1745,Mixed,Asia,Indonesia,North Sumatra,16,25,163
+1746,Both balanced,Europe,Russian Federation,Transbaikal Territory,16,22,5
+1747,Both balanced,North America,Puerto Rico,Caguas,16,19,13
+1748,Net receiver,Asia,Saudi Arabia,Al Madinah al Munawwarah,16,22,388
+1749,Mixed,Africa,Lesotho,Maseru,16,25,7
+1750,Net receiver,Europe,Norway,Vest-Agder,16,25,443
+1751,Both balanced,Asia,Uzbekistan,Namangan,16,21,1
+1752,Both balanced,Oceania,New Zealand,Southland,16,24,2
+1753,IN rec. INT sen.,Europe,Hungary,Budapest,16,25,3442
+1754,Both balanced,North America,Puerto Rico,San German,16,21,1
+1755,Both balanced,Europe,Portugal,Guarda,16,22,16
+1756,Mixed,Asia,Georgia,T'bilisi,16,25,549
+1757,IN rec. INT sen.,Europe,Italy,Veneto,16,25,3393
+1758,Net sender,South America,Brazil,Sao Paulo,16,25,42955
+1759,Both balanced,Oceania,Guam,Hagatna,16,21,9
+1760,Both balanced,Europe,Hungary,Borsod-Abauj-Zemplen,16,25,8
+1761,INT rec. IN sen.,North America,United States,Louisiana,16,25,4302
+1762,Mixed,Europe,Norway,Hedmark,16,21,24
+1763,Both balanced,Africa,Seychelles,English River,16,19,5
+1764,Net receiver,Asia,Malaysia,Terengganu,16,24,1514
+1765,Mixed,North America,Mexico,Tabasco,16,24,147
+1766,Net receiver,Asia,Malaysia,Kuala Lumpur,16,25,4199
+1767,Both balanced,Europe,Croatia,Krapinsko-Zagorska,16,23,3
+1768,Net receiver,Asia,Türkiye,Mersin,16,25,704
+1769,Both balanced,Europe,Slovenia,Ankaran,16,18,7
+1770,Net sender,South America,Argentina,Buenos Aires,16,25,957
+1771,Net receiver,Asia,China,Jiangxi,16,25,3797
+1772,Both balanced,North America,Trinidad and Tobago,San Fernando,16,21,4
+1773,Net sender,Europe,Greece,West Greece,16,25,1725
+1774,Mixed,North America,Greenland,Sermersooq,16,25,24
+1775,Net receiver,Asia,China,Henan,16,25,7620
+1776,Both balanced,North America,Cuba,Mayabeque,16,25,32
+1777,Both balanced,South America,"Venezuela, Bolivarian Republic of",Merida,16,22,9
+1778,Both balanced,Africa,Nigeria,Niger,16,25,28
+1779,Mixed,Europe,Russian Federation,Komi,16,25,136
+1780,Net sender,South America,Argentina,Cordoba,17,25,1004
+1781,Both balanced,Africa,Sao Tome and Principe,Sao Tome Island,17,18,2
+1782,Both balanced,Africa,South Sudan,Juba,17,23,2
+1783,Net receiver,Asia,"Taiwan, Province of China",Takao,17,25,3130
+1784,Mixed,Europe,Malta,L-Imsida,17,25,60
+1785,Both balanced,Africa,Mauritania,Dakhlet Nouadhibou,17,20,2
+1786,Both balanced,Europe,Switzerland,Schaffhausen,17,24,2
+1787,Mixed,Africa,Central African Republic,Bangui,17,25,5
+1788,Both balanced,Europe,Belarus,Mogilev,17,25,16
+1789,Net sender,Asia,Japan,Osaka,17,25,11888
+1790,Mixed,Europe,Finland,Kanta-Hame,17,25,68
+1791,Both balanced,North America,Puerto Rico,Gurabo,17,24,1
+1792,Mixed,North America,Grenada,Saint George,17,24,17
+1793,Both balanced,Europe,North Macedonia,Ohrid,17,20,2
+1794,Both balanced,Europe,Ukraine,Kherson,17,24,10
+1795,Mixed,Europe,Russian Federation,Arkhangelskaya,17,25,42
+1796,Both balanced,Europe,Russian Federation,Kalmykiya Republic,17,23,6
+1797,INT rec. IN sen.,Europe,Norway,Hordaland,17,25,3454
+1798,Net receiver,North America,United States,North Carolina,17,25,15244
+1799,Mixed,Europe,Kosovo,Pristina,17,25,173
+1800,Both balanced,Europe,Russian Federation,Jewish Autonomous Oblast,17,21,3
+1801,Net receiver,North America,United States,California,17,25,103864
+1802,Both balanced,Asia,Thailand,Ratchaburi,17,22,2
+1803,Mixed,Europe,Russian Federation,Sakhalin Oblast,17,25,11
+1804,Mixed,Africa,Nigeria,Bauchi,17,25,46
+1805,Mixed,North America,Nicaragua,Managua,17,25,57
+1806,Net receiver,Oceania,New Zealand,Wellington,17,25,984
+1807,Mixed,Asia,Oman,Muscat,17,25,456
+1808,Mixed,Europe,Latvia,Riga,17,25,589
+1809,Both balanced,Africa,Sudan,Kassala,17,19,14
+1810,Both balanced,Europe,Russian Federation,Pskov Oblast,17,24,18
+1811,Both balanced,South America,"Venezuela, Bolivarian Republic of",Nueva Esparta,17,20,1
+1812,Mixed,Africa,Libya,Tripoli,17,25,17
+1813,Both balanced,Europe,Russian Federation,Kurgan Oblast,17,25,4
+1814,Mixed,Africa,Guinea-Bissau,Bissau,17,24,30
+1815,Mixed,Asia,Azerbaijan,Baki,17,25,237
+1816,INT rec. IN sen.,North America,United States,Illinois,17,25,25540
+1817,Both balanced,South America,Guyana,Demerara-Mahaica,17,25,15
+1818,Both balanced,Africa,Angola,Luanda,17,25,36
+1819,Both balanced,Europe,Bulgaria,Vratsa,17,17,1
+1820,Both balanced,Europe,Bulgaria,Shumen,17,25,15
+1821,INT rec. IN sen.,North America,United States,Massachusetts,17,25,45014
+1822,Mixed,Asia,Syrian Arab Republic,Dimashq,18,25,323
+1823,Mixed,Asia,India,Andaman and Nicobar,18,25,22
+1824,Mixed,Africa,Malawi,Southern Region,18,25,117
+1825,Mixed,Africa,Zambia,Lusaka,18,25,70
+1826,Net sender,Asia,India,Chandigarh,18,25,2472
+1827,Net receiver,Asia,China,Guangxi,18,25,361
+1828,Both balanced,Europe,Slovenia,Velenje,18,23,1
+1829,Mixed,Asia,India,Arunachal Pradesh,18,25,112
+1830,Both balanced,Europe,Bulgaria,Burgas,18,24,7
+1831,Net receiver,Asia,Saudi Arabia,Makkah,18,25,222
+1832,Both balanced,North America,Cuba,Matanzas,18,24,27
+1833,Net sender,Europe,Italy,Emilia-Romagna,18,25,7282
+1834,Net sender,Europe,Italy,Sicily,18,25,3762
+1835,Net receiver,North America,Mexico,Jalisco,18,25,813
+1836,Mixed,Asia,Bahrain,Manama,18,25,154
+1837,Mixed,South America,French Guiana,Guyane,18,25,36
+1838,Both balanced,North America,Cuba,Cienfuegos,18,23,39
+1839,Both balanced,North America,Cuba,Holguin,18,22,8
+1840,Both balanced,Africa,Namibia,Otjozondjupa,18,21,5
+1841,Mixed,Europe,Russian Federation,Amur Oblast,18,25,8
+1842,Mixed,Africa,Namibia,Khomas,18,25,48
+1843,Both balanced,Europe,Belarus,Brest,18,25,18
+1844,Both balanced,North America,Puerto Rico,Arecibo,18,25,11
+1845,Mixed,Africa,Niger,Niamey,18,25,50
+1846,Mixed,Asia,Philippines,Autonomous Region in Muslim Mindanao,18,23,8
+1847,Net receiver,North America,United States,Virginia,18,25,9574
+1848,Both balanced,South America,Peru,Huanuco,18,22,2
+1849,Mixed,Asia,Kuwait,Al Asimah,18,25,753
+1850,Net receiver,Asia,"Korea, Republic of",Incheon,18,25,802
+1851,Mixed,Africa,"Congo, The Democratic Republic of the",Kinshasa,18,25,46
+1852,Both balanced,Africa,"Congo, The Democratic Republic of the",Nord Kivu,18,24,1
+1853,Mixed,Africa,Congo,Brazzaville,18,25,2
+1854,INT rec. IN sen.,Europe,Denmark,Capital Region,18,25,5943
+1855,Both balanced,South America,Peru,Piura,18,21,2
+1856,Mixed,North America,Honduras,Francisco Morazan,18,25,35
+1857,Net receiver,Asia,Hong Kong,Tai Po,18,25,61
+1858,Both balanced,Asia,Armenia,Shirak,18,18,2
+1859,Mixed,Africa,Zimbabwe,Harare,18,25,268
+1860,Net receiver,North America,United States,Tennessee,19,25,9858
+1861,Both balanced,South America,Peru,Lambayeque,19,22,1
+1862,Mixed,Asia,Cambodia,Phnom Penh,19,25,8
+1863,Mixed,Asia,Kyrgyzstan,Bishkek,19,25,23
+1864,Both balanced,Europe,Norway,Oppland,19,24,5
+1865,Net sender,North America,Canada,Quebec,19,25,10371
+1866,Mixed,Africa,Nigeria,Taraba,19,25,30
+1867,Both balanced,Europe,Ukraine,Chernihiv,19,25,5
+1868,Mixed,South America,Paraguay,Central,19,25,45
+1869,Mixed,Africa,Gabon,Moyen-Ogooue,19,25,70
+1870,Mixed,Africa,Mozambique,Maputo City,19,25,41
+1871,Mixed,Europe,Russian Federation,Kemerovo Oblast,19,25,113
+1872,Both balanced,Asia,Turkmenistan,Ashgabat,19,25,2
+1873,Mixed,Africa,Gambia,Banjul,19,25,18
+1874,Mixed,Europe,Svalbard and Jan Mayen,Svalbard,19,25,59
+1875,Net sender,South America,Argentina,Buenos Aires F.D.,19,25,2734
+1876,Mixed,Africa,Malawi,Central Region,19,25,46
+1877,INT rec. IN sen.,North America,United States,Connecticut,19,25,9936
+1878,Net receiver,Asia,China,Guangdong,20,25,10644
+1879,Mixed,Africa,Madagascar,Analamanga,20,25,119
+1880,Mixed,Asia,Syrian Arab Republic,Aleppo,20,25,39
+1881,Mixed,Oceania,New Caledonia,South Province,20,25,8
+1882,Mixed,North America,Guatemala,Guatemala,20,25,68
+1883,Mixed,Europe,"Moldova, Republic of",Chisinau Municipality,20,25,241
+1884,Net sender,Asia,China,Jilin,20,25,1966
+1885,Net receiver,North America,United States,New Mexico,20,25,5303
+1886,Mixed,Africa,Gabon,Haut-Ogooue,20,25,28
+1887,Net receiver,Asia,"Korea, Republic of",Gyeongsangbuk-do,20,25,1585
+1888,Net sender,Asia,India,West Bengal,20,25,8693
+1889,Both balanced,South America,Peru,Puno,20,24,1
+1890,Mixed,Africa,Togo,Maritime,20,25,264
+1891,Mixed,Africa,Eswatini,Manzini,20,25,40
+1892,Mixed,Europe,Russian Federation,Murmansk,20,25,79
+1893,Both balanced,South America,Peru,Cajamarca,20,21,5
+1894,Mixed,Asia,Mongolia,Ulaanbaatar,20,25,247
+1895,Both balanced,Europe,Russian Federation,Altai,20,24,10
+1896,Both balanced,Oceania,"Micronesia, Federated States of",Pohnpei,20,23,4
+1897,Mixed,Asia,"Palestine, State of",Gaza Strip,20,25,36
+1898,Mixed,Asia,Bahrain,Southern Governorate,21,25,41
+1899,Net receiver,Asia,"Korea, Republic of",Chungcheongnam-do,21,25,499
+1900,INT rec. IN sen.,Asia,Thailand,Bangkok,21,25,10715
+1901,IN rec. INT sen.,Asia,India,Telangana,21,25,1365
+1902,Net receiver,Asia,"Korea, Republic of",Gyeonggi-do,21,25,4136
+1903,INT rec. IN sen.,North America,United States,Michigan,21,25,15792
+1904,Net receiver,North America,United States,Washington,21,25,17821
+1905,Net sender,Asia,Japan,Miyagi,21,25,5133
+1906,Mixed,Europe,Montenegro,Podgorica,21,25,181
+1907,Mixed,South America,"Bolivia, Plurinational State of",La Paz,21,25,126
+1908,Net receiver,North America,United States,Maryland,21,25,22418
+1909,Both balanced,Asia,Uzbekistan,Fergana,21,24,16
+1910,Mixed,Africa,Botswana,Gaborone,21,25,148
+1911,Both balanced,Africa,Mauritius,Plaines Wilhems,21,25,1
+1912,Net sender,Asia,Japan,Kyoto,22,25,10154
+1913,Mixed,Asia,Brunei Darussalam,Brunei-Muara District,22,25,41
+1914,Mixed,Europe,Bosnia and Herzegovina,Federation of B&H,22,25,597
+1915,Net sender,Asia,China,Anhui,22,25,5033
+1916,Mixed,North America,Guadeloupe,Guadeloupe,22,25,16
+1917,Both balanced,Europe,Bulgaria,Gabrovo,22,25,5
+1918,Net sender,Europe,Germany,Baden-Wuerttemberg,22,25,22372
+1919,Mixed,Europe,Monaco,Commune de Monaco,22,25,16
+1920,Both balanced,North America,"Virgin Islands, U.S.",Saint Croix Island,22,25,4
+1921,INT rec. IN sen.,Asia,Saudi Arabia,Ar Riyad,22,25,6452
+1922,Both balanced,Europe,Bulgaria,Veliko Tarnovo,22,25,6
+1923,Net sender,Europe,France,Ile-de-France,22,25,31965
+1924,Net sender,Asia,Japan,Hokkaido,22,25,7437
+1925,Net sender,Asia,Türkiye,Ankara,22,25,7888
+1926,Net receiver,North America,United States,"Washington, D.C.",22,25,15453
+1927,Net receiver,North America,United States,Texas,23,25,15130
+1928,Mixed,Oceania,French Polynesia,Iles du Vent,23,25,30
+1929,Mixed,North America,Belize,Belize,23,25,496
+1930,Net sender,Asia,Japan,Fukuoka,23,25,7107
+1931,Mixed,Africa,Burundi,Bujumbura Mairie,23,25,375
+1932,Mixed,Asia,Qatar,Baladiyat ad Dawhah,23,25,80
+1933,Mixed,Asia,"Palestine, State of",West Bank,23,25,557
+1934,Mixed,North America,El Salvador,San Salvador,23,25,112
+1935,Mixed,South America,Uruguay,Montevideo,23,25,507
+1936,Mixed,Africa,Mali,Bamako,23,25,62
+1937,Net sender,Asia,China,Gansu,23,25,5133
+1938,Mixed,Oceania,American Samoa,Eastern District,24,25,2205
+1939,Mixed,North America,Panama,Panama,24,25,186
+1940,Mixed,Africa,Réunion,Reunion,24,25,282

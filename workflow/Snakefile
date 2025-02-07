@@ -1,0 +1,186 @@
+## File name to use in search: "Snakefile" ##
+
+# ===========
+## Author details ##
+# ===========
+
+# Script's author:      Aliakbar Akbaritabar
+# Version:              2024-12-29
+# Email:                akbaritabar@demogr.mpg.de
+# GitHub:               https://github.com/akbaritabar
+# Website:              https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/aliakbar_akbaritabar_4098/
+
+# Script for replication of analysis and figures from paper "Gender and regional differences in scientific mobility among academics identified as potentially talented and a control group"
+# Manuscript authors: Aliakbar Akbaritabar, Maciej Danko, Xinyi Zhao, Emilio Zagheni
+
+# ===========
+## Configuration ##
+# ===========
+# main configurations and settings
+include: r"../config/config.py"
+
+# ===========
+## Include other SnakeFiles ##
+# ===========
+
+# Steps to use DuckDB for data processing and preparation, uses raw Scopus data
+include: "rules/snakefile_duckdb_data_processing.smk"
+# Steps for preparing migration data
+include: "rules/snakefile_prepare_migration_data.smk"
+# Steps for preparing mapping data
+include: "rules/snakefile_prepare_mapping_data.smk"
+# Steps for exporting mapping figures
+include: "rules/snakefile_map_figures.smk"
+# Steps for exporting mapping figures, disaggregated by author attributes
+include: "rules/snakefile_map_figures_all_years_disaggregate_by_author_attributes.smk"
+# Steps for additional NMR and ANMR line plots in SI
+include: "rules/snakefile_nmr_line_plots.smk"
+# Steps for statistical modelling and analysis (using scripts by Maciej J. Danko)
+include: "rules/snakefile_statistical_analysis.smk"
+
+
+# ===========
+## Main output generation rule ##
+# ===========
+
+rule all:
+    input:
+        # Using Scopus RAW data, prepare data for this project
+        # these are computationally expensive and use DuckDB        
+        AUTHORS_TABLE,
+        SOME_OF_AUTHOR_ATTRIBUTES,
+        AUTHOR_ATTRIBUTES,
+        # mode-based method results, add author attributes
+        INTERNAL,
+        INTERNATIONAL,
+        # region's population
+        POPULATION,
+        expand(
+            POPULATION_ATTRIBUTE,
+            disagr_level=DISAGGREGATION
+        ),
+        # use process data from Scopus and prepare: migration measures
+        MIGRATION_MEASURES,
+        # disaggregated by author attributes
+        expand(
+            MIGRATION_MEASURES_BY_ATTRIBUTE,
+            disagr_level=DISAGGREGATION
+        ),
+        # mapping data
+        expand(
+            MAPPING_DATA_COUNTRY,
+            time_span=TIME_SPAN
+        ),
+        expand(
+            MAPPING_DATA_REGION,
+            time_span=TIME_SPAN
+        ),
+        # disaggregated by author attributes
+        expand(
+            MAPPING_DATA_COUNTRY_BY_ATTRIBUTE,
+            time_span=TIME_SPAN,
+            disagr_level=DISAGGREGATION
+        ),
+        expand(
+            MAPPING_DATA_REGION_BY_ATTRIBUTE,
+            time_span=TIME_SPAN,
+            disagr_level=DISAGGREGATION
+        ),
+        #### plots ####
+        # all of NMR_AND_MEI_MAPS
+        expand(
+            NMR_AND_MEI_MAPS,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=MEASURE_MAPPED,
+            migration_system=MIGRATION_SYSTEM
+        ),
+        # additional analysis on multiple affiliation authors etc
+        # these are computationally expensive and use DuckDB
+        PAPER_LEVEL_MULT_AUTHOR,
+        AUTHOR_LEVEL_MULT_AUTHOR,
+        MULT_AFF_TYPOLOGY,
+        MULT_AFF_TYP_DOMINANT,
+        TOY_AUTHOR_EXAMPLE,
+        TOY_AUTHOR_EXAMPLE_MODE,
+        REAL_AUTHOR_EXAMPLE,
+        REAL_AUTHOR_EXAMPLE_MODE,
+        OVERALL_MOBILE_NON_MOBILE,
+        NMR_TYPOLOGY_PER_REGION,
+        NMR_DOMINANT_TYPOLOGY_PER_REGION_REPL_DATA,
+        # NMR and ANMR 500+ pop, line plots
+        expand(
+            NMR_REGION_LINE_PLOT_ONE_COUNTRY,
+            code2use=CODE2USE,
+            size2wrap1=SIZE2WRAP1,
+            size2wrap2=SIZE2WRAP2
+        ), 
+        expand(
+            CMI_REGION_LINE_PLOT_ONE_COUNTRY,
+            code2use=CODE2USE,
+            size2wrap1=SIZE2WRAP1,
+            size2wrap2=SIZE2WRAP2
+        ),
+        expand(
+            CMI_INTERNAL_LINE_PLOT_ONE_COUNTRY,
+            code2use=CODE2USE2
+        ),
+        expand(
+            CMI_INTERNAL_LINE_PLOT_MULT_COUNTRIES,
+            ncountry=N_LARGEST_COUNTRIES
+        ),
+        ANMR_REGION_LINE_PLOT_ONE_COUNTRY,
+        # #### disaggregated by author attributes ####
+        # PRODUCTIVITY
+        expand(
+            NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=MEASURE_MAPPED,
+            migration_system=MIGRATION_SYSTEM,
+            disagr_level=DISAGGREGATION[0],
+            disagr_catpair=VAR_CATEGORY_PROD
+        ),
+        # AGE
+        expand(
+            NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=MEASURE_MAPPED,
+            migration_system=MIGRATION_SYSTEM,
+            disagr_level=DISAGGREGATION[1],
+            disagr_catpair=VAR_CATEGORY_AGE
+        ),
+        # DISCIPLINE
+        expand(
+            NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=MEASURE_MAPPED,
+            migration_system=MIGRATION_SYSTEM,
+            disagr_level=DISAGGREGATION[2],
+            disagr_catpair=VAR_CATEGORY_DISC
+        ),
+        #### Statistical analysis outputs (temporary files and final plots) ####
+        TEMP_ADT_Asia
+
+# ============================
+#### For interactive testing/debugging via Notebook but using plain Python scripts ####
+# ============================
+
+# this rule allows opening an interactive jupyter notebook for testing/debugging
+# run with `snakemake --sdm conda --cores 1 --edit-notebook PLOT_NMR_IN_WORLD_TESTING_NOTEBOOK`
+# rule PLOT_NMR_IN_WORLD_TESTING_NOTEBOOK:
+#     input:
+#         rules.prepare_data_for_mapping.output
+#     output:
+#         NMR_IN_WORLD_TESTING
+#     params:
+#         GEO_REGION = GEO_REGION[0],
+#         MEASURE_MAPPED = MEASURE_MAPPED[0],
+#         column2map = 'nmr_INT_IN_sum_region'
+#     log:
+#         notebook="logs/PLOT_NMR_IN_WORLD_TESTING.ipynb"
+#     notebook:
+#         "notebooks/PLOT_NMR_IN_WORLD_TESTING.py.ipynb"
+

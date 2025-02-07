@@ -1,0 +1,5 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+!plt_attr_mp_WORLD_19982017_NMR_INT_DISCIPLINE_Agr-Eng-Nat.log
