@@ -35,6 +35,8 @@ An HTML report shows the a directed acyclic graph (DAG) shows the dependency of 
 
 To replicate the statistical analysis, following packages should be installed.
 
+These R scripts for statistical analysis are written by Maciej J. Dańko. These are in the folder `workflow\scripts\Danko\`. Please note, due to GitHub's limit on file size of 100MB, only some of the example results from statistical models are included. Using the data provided and the scripts, all of these files could be replicated.
+
 ```R
 
 required_packages <- c("brms", "data.table", "deming", "DescTools", "dplyr", "Kendall", "lava", "magicaxis", "mgcv", "openxlsx", "parallel", "purrr", "splines", "stats")
