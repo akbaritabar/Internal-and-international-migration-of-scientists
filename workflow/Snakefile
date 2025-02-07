@@ -35,9 +35,6 @@ include: "rules/snakefile_map_figures.smk"
 include: "rules/snakefile_map_figures_all_years_disaggregate_by_author_attributes.smk"
 # Steps for additional NMR and ANMR line plots in SI
 include: "rules/snakefile_nmr_line_plots.smk"
-# Steps for statistical modelling and analysis (using scripts by Maciej J. Danko)
-include: "rules/snakefile_statistical_analysis.smk"
-
 
 # ===========
 ## Main output generation rule ##
@@ -114,12 +111,6 @@ rule all:
             code2use=CODE2USE,
             size2wrap1=SIZE2WRAP1,
             size2wrap2=SIZE2WRAP2
-        ), 
-        expand(
-            CMI_REGION_LINE_PLOT_ONE_COUNTRY,
-            code2use=CODE2USE,
-            size2wrap1=SIZE2WRAP1,
-            size2wrap2=SIZE2WRAP2
         ),
         expand(
             CMI_INTERNAL_LINE_PLOT_ONE_COUNTRY,
@@ -160,9 +151,7 @@ rule all:
             migration_system=MIGRATION_SYSTEM,
             disagr_level=DISAGGREGATION[2],
             disagr_catpair=VAR_CATEGORY_DISC
-        ),
-        #### Statistical analysis outputs (temporary files and final plots) ####
-        TEMP_ADT_Asia
+        )
 
 # ============================
 #### For interactive testing/debugging via Notebook but using plain Python scripts ####
