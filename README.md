@@ -1,8 +1,10 @@
 # Scripts, data, and replication materials for "Global subnational estimates of migration of scientists reveal large disparities in internal and international flows"
 
-This repository includes replication materials including data, Python and R scripts to replicate the analysis and figures of the article with following metadata.
+This repository includes replication materials including data, Python and R scripts to replicate the analysis and figures (shown further below) of the article with following metadata.
 
-**Script authors**: Aliakbar Akbaritabar, Maciej J. Dańko
+**Script authors/maintainers**: [Aliakbar Akbaritabar](https://github.com/akbaritabar), [Maciej J. Dańko](https://github.com/MaciejDanko)
+
+**Contact**: akbaritabar@demogr.mpg.de; danko@demogr.mpg.de
 
 **Article title**: Global subnational estimates of migration of scientists reveal large disparities in internal and international flows
 
@@ -18,19 +20,28 @@ Researchers are key contributors to innovation. Their migration results in talen
 
 Our repository and replication materials include two parts. 
 
-First is the main data for subnational migration and the reproducible pipeline that creates it. This includes the visualizations for subnational maps (figure 1 and the manuscripts and multiple figures in the SI disaggregated by field of science, academic age, and cumulative number of publications) and different migration measures. These scripts are developed in Python and the reproducible workflow (described below) uses SnakeMake to ensure full replicability. 
+First is preparing the main data for subnational migration. This includes scripts, data, and the reproducible pipeline that creates final data for our manuscript. This includes the preparation of migration data and measures, visualizations for subnational maps (figure 1 in the manuscript, see it further below, and multiple figures in the SI disaggregated by field of science, academic age, and cumulative number of publications, see them under `results` folder). These scripts are developed in Python and the reproducible workflow (described below) uses SnakeMake workflow management to ensure full replicability. 
 
-The second part includes R scripts for statistical analysis and figures 2-4 in the manuscript and multiple figures in the SI.
+The second part includes R scripts for statistical analysis and figures 2-4 in the manuscript (see them further below) and multiple figures in the SI (see them under `results` folder).
 
 Below, we describe the requirements for each of these.
 
 ## Python requirements
 
-For the reproducible pipeline to recreate the data and migration measures, you need to have SnakeMake version 8 or above installed. Creating a conda environment with Python 11+ and the following libraries enables reproducing the pipeline by running a dry-run with `snakemake -np all` or a full reproduction with `snakemake --cores 40 all`.
+These scripts are written by [Aliakbar Akbaritabar](https://github.com/akbaritabar).
 
-An HTML report shows the a directed acyclic graph (DAG) shows the dependency of the steps in the pipeline (rules in SnakeMake lingua). Please note that some of these rules require Scopus data at the individual level which is licensed and we cannot share them publicly. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis are included in this repository which completely complies with the license terms of the data provider. 
+For the reproducible pipeline to recreate the paper's replication data and migration measures, you need to have [SnakeMake](https://snakemake.readthedocs.io/en/stable/index.html) version 8 or above installed. Creating a conda environment with Python 3 (3.11.9 was used here) and the following libraries (for instance by running `conda env create -f requirements.yml` and after copying the following yml code into a file: "requirements.yml") enables reproducing the pipeline by opening CLI, activating the conda environment i.e., `conda activate subnational`, and running a dry-run with `snakemake -np all` or a full reproduction with `snakemake --cores 4 all`.
+
+An HTML report shows the a directed acyclic graph (DAG) of the dependency of the steps in the pipeline (rules in SnakeMake lingua). Please note that some of these rules require Scopus data at the individual level which is licensed and we cannot share them publicly. Hence, these output files are commented out from the main Snakefile and rule all. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis are included in this repository which completely complies with the license terms of the data provider. 
 
 ```yml
+name: subnational
+channels:
+  - conda-forge
+  - bioconda
+  # to prevent using default anaconda channels
+  - nodefaults
+dependencies:
 - python 3.*
 - os
 - pandas
@@ -39,20 +50,20 @@ An HTML report shows the a directed acyclic graph (DAG) shows the dependency of 
 - geopandas
 - numpy
 - logging
-- mizani #(is installed with plotnine)
+- mizani # (is installed with plotnine)
 - duckdb
 - tabulate
 - pip:
-  - pycountry_convert #(from Pypi)
+  - pycountry_convert # (from Pypi, if gives error, comment out and after installation run "pip install pycountry_convert" in CLI)
 
 ```
 
 
 ## R packages
 
-To replicate the statistical analysis, following packages should be installed.
+These R scripts for statistical analysis are written by [Maciej J. Dańko](https://github.com/MaciejDanko).
 
-These R scripts for statistical analysis are written by Maciej J. Dańko. These are in the folder `workflow\scripts\Danko\`. Please note, due to GitHub's limit on file size of 100MB, only some of the example results from statistical models are included. Using the data provided and the scripts, all of these files could be replicated.
+To replicate the statistical analysis, following packages should be installed. The scripts and the data used in them are in the folder `workflow\scripts\Danko\`. Please note, due to GitHub's 100MB limit on file sizes, only some of the example results from statistical models are included. Using the data provided and the scripts, all of these files could be replicated.
 
 ```R
 
@@ -63,7 +74,30 @@ missing_packages <- required_packages[!(required_packages %in% installed.package
 if (length(missing_packages) > 0) {
   install.packages(missing_packages)
 }
-z<-lapply(required_packages, require, character.only = TRUE); rm(z)
+
+z<-lapply(required_packages, require, character.only = TRUE)
+rm(z)
 
 
 ```
+
+# Publication figures
+
+## Figure 1: Subnational net migration rates (NMRs) per 1,000 scholars (using GeoNames admin-1), worldwide (top) and for Europe (bottom).
+![](./_publication_figures/FIG1_A.png)
+
+![](./_publication_figures/FIG1_B.png)
+
+
+## Figure 2: Year-specific, region-based weighted Gini coefficients across continents and six types of migration.
+![](./_publication_figures/FIG2.png)
+
+
+## Figure 3: Slopes of quasi-Poisson regressions for migration rate trends over time for in-migration (top) and out-migration (bottom) in each region. 
+![](./_publication_figures/FIG3_A.png)
+
+![](./_publication_figures/FIG3_B.png)
+
+
+## Figure 4: Kendall rank correlation coefficients between internal and international (1998-2017) for in-migration (Y-axis) and out-migration (X-axis)
+![](./_publication_figures/FIG4.png)

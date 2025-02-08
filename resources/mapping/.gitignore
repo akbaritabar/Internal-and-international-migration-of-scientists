@@ -4,7 +4,7 @@
 !.gitignore
 
 !naturalearth_lowres/
-#!20230520_Bridge_table_from_GeoNames.csv
+!Bridge_table_from_GeoNames.parquet
 !geonames.csv
 !geonames_region_names_2_recode.csv
 !ne_10m_admin_1_states_provinces.geojson

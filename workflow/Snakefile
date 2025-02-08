@@ -10,7 +10,7 @@
 # GitHub:               https://github.com/akbaritabar
 # Website:              https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/aliakbar_akbaritabar_4098/
 
-# Script for replication of analysis and figures from paper "Gender and regional differences in scientific mobility among academics identified as potentially talented and a control group"
+# Script for replication of analysis and figures from paper "Global subnational estimates of migration of scientists reveal large disparities in internal and international flows"
 # Manuscript authors: Aliakbar Akbaritabar, Maciej Danko, Xinyi Zhao, Emilio Zagheni
 
 # ===========
@@ -44,25 +44,27 @@ rule all:
     input:
         # Using Scopus RAW data, prepare data for this project
         # these are computationally expensive and use DuckDB        
-        AUTHORS_TABLE,
-        SOME_OF_AUTHOR_ATTRIBUTES,
-        AUTHOR_ATTRIBUTES,
+        ## NOTE REQUIRES LICENSED SCOPUS DATA, COMMENTED OUT ##
+        # AUTHORS_TABLE,
+        # SOME_OF_AUTHOR_ATTRIBUTES,
+        # AUTHOR_ATTRIBUTES,
         # mode-based method results, add author attributes
-        INTERNAL,
-        INTERNATIONAL,
+        # INTERNAL,
+        # INTERNATIONAL,
         # region's population
-        POPULATION,
-        expand(
-            POPULATION_ATTRIBUTE,
-            disagr_level=DISAGGREGATION
-        ),
+        # POPULATION,
+        # expand(
+        #     POPULATION_ATTRIBUTE,
+        #     disagr_level=DISAGGREGATION
+        # ),
         # use process data from Scopus and prepare: migration measures
-        MIGRATION_MEASURES,
+        ## NOTE REQUIRES LICENSED SCOPUS DATA, COMMENTED OUT
+        #MIGRATION_MEASURES,
         # disaggregated by author attributes
-        expand(
-            MIGRATION_MEASURES_BY_ATTRIBUTE,
-            disagr_level=DISAGGREGATION
-        ),
+        # expand(
+        #     MIGRATION_MEASURES_BY_ATTRIBUTE,
+        #     disagr_level=DISAGGREGATION
+        # ),
         # mapping data
         expand(
             MAPPING_DATA_COUNTRY,
@@ -94,15 +96,16 @@ rule all:
         ),
         # additional analysis on multiple affiliation authors etc
         # these are computationally expensive and use DuckDB
-        PAPER_LEVEL_MULT_AUTHOR,
-        AUTHOR_LEVEL_MULT_AUTHOR,
-        MULT_AFF_TYPOLOGY,
-        MULT_AFF_TYP_DOMINANT,
-        TOY_AUTHOR_EXAMPLE,
-        TOY_AUTHOR_EXAMPLE_MODE,
-        REAL_AUTHOR_EXAMPLE,
-        REAL_AUTHOR_EXAMPLE_MODE,
-        OVERALL_MOBILE_NON_MOBILE,
+        ## NOTE REQUIRES LICENSED SCOPUS DATA, COMMENTED OUT ##
+        # PAPER_LEVEL_MULT_AUTHOR,
+        # AUTHOR_LEVEL_MULT_AUTHOR,
+        # MULT_AFF_TYPOLOGY,
+        # MULT_AFF_TYP_DOMINANT,
+        # TOY_AUTHOR_EXAMPLE,
+        # TOY_AUTHOR_EXAMPLE_MODE,
+        # REAL_AUTHOR_EXAMPLE,
+        # REAL_AUTHOR_EXAMPLE_MODE,
+        # OVERALL_MOBILE_NON_MOBILE,
         NMR_TYPOLOGY_PER_REGION,
         NMR_DOMINANT_TYPOLOGY_PER_REGION_REPL_DATA,
         # NMR and ANMR 500+ pop, line plots

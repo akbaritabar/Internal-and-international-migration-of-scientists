@@ -10,7 +10,7 @@
 # GitHub:               https://github.com/akbaritabar
 # Website:              https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/aliakbar_akbaritabar_4098/
 
-# Script for replication of analysis and figures from paper "Gender and regional differences in scientific mobility among academics identified as potentially talented and a control group"
+# Script for replication of analysis and figures from paper "Global subnational estimates of migration of scientists reveal large disparities in internal and international flows"
 # Manuscript authors: Aliakbar Akbaritabar, Maciej Danko, Xinyi Zhao, Emilio Zagheni
 
 # ===========
@@ -87,7 +87,7 @@ MAPPING_RAW_DATA = ojn(INPUTS_DIR, 'mapping')
 
 NAT_LOWRES_COUNTRY = ojn(MAPPING_RAW_DATA, 'naturalearth_lowres', 'naturalearth_lowres.shp')
 NAT_LOWRES_PROVINCES = ojn(MAPPING_RAW_DATA, 'ne_10m_admin_1_states_provinces.geojson')
-GEONAME_BRIDGE_TABLE = ojn(MAPPING_RAW_DATA, '20230520_Bridge_table_from_GeoNames.csv')
+GEONAME_BRIDGE_TABLE = ojn(MAPPING_RAW_DATA, 'Bridge_table_from_GeoNames.parquet')
 GEONAME_DATA = ojn(MAPPING_RAW_DATA, 'geonames.csv')
 GEONAME_REGION_RECODE = ojn(MAPPING_RAW_DATA, 'geonames_region_names_2_recode.csv')
 

@@ -59,7 +59,7 @@ grid_geonames = grid_geonames[grid_geonames.geonames_admin1_code.notnull()]
 # geo_download.to_csv(os.path.join(mcj_dir, 'outputs', "20230520_Bridge_table_from_GeoNames.csv"), index = False)
 
 # read from csv
-geo_download = pd.read_csv(args.input[1], dtype = str)
+geo_download = pd.read_parquet(args.input[1])
 # add a column to use for join
 geo_download['region_for_join'] = geo_download['country_code'] + geo_download['admin1_code']
 
