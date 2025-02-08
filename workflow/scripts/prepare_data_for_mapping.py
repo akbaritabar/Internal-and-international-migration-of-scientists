@@ -249,14 +249,12 @@ world_states_joined = (world_states_filtered
 # ============================
 
 # export to csv
-# NOTE: do NOT run, unless data is updated
 (world
     .reset_index(drop=True)
     .to_parquet(args.output[0])
 )
 
 # export to csv
-# NOTE: do NOT run, unless data is updated
 (world_states_joined
     .reset_index(drop=True)
     .to_parquet(args.output[1])

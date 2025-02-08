@@ -284,7 +284,6 @@ numeric_columns = without_threshold.select_dtypes(include=['number']).columns
 without_threshold[numeric_columns] = without_threshold[numeric_columns].fillna(0)
 
 # export to csv
-# NOTE: do NOT run, unless data is updated
 (without_threshold
     .reset_index(drop=True)
     .to_csv(args.output, index_label='row_number')

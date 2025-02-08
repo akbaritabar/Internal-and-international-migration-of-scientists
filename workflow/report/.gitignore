@@ -3,6 +3,3 @@
 # Except these files
 !.gitignore
 !report7.html
-
-# TODO NOTE
-# Include the final version of report to highlight rule dependence in DAG

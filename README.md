@@ -83,6 +83,8 @@ rm(z)
 
 # Publication figures
 
+Here we share the figures 1-4 in the main manuscript. All figures, including these and the Supplementary Information (SI) figures are available in the `results` folder.
+
 ## Figure 1: Subnational net migration rates (NMRs) per 1,000 scholars (using GeoNames admin-1), worldwide (top) and for Europe (bottom).
 ![](./_publication_figures/FIG1_A.png)
 

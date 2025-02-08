@@ -9,6 +9,3 @@
 !rules
 !scripts
 !Snakefile
-
-# TODO NOTE:
-# add final version of processed/aggregated data, figures, tables for replication

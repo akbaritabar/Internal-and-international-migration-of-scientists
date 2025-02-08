@@ -205,36 +205,6 @@ gg.ggplot.save(plot2save, args.output[0], dpi=500, limitsize=False)
 
 lg(f"Figure exported in: '{args.output[0]}'")
 
-### average years, decided not to use as is less informative
-
-# # plot it
-# plot2save = (
-#         gg.ggplot(summary_yearly_author_level_avg,
-#             gg.aes(x='pubyear', y='Average_years', color='aff_type_y_cat', shape='aff_type_y_cat', linetype='aff_type_y_cat', group="aff_type_y_cat")) +
-#         gg.geom_point(size=3, alpha=0.3) +
-#         gg.geom_line() +
-#         # gg.scale_y_log10(labels=label_number(big_mark=',')) +
-#         gg.scale_color_manual(values=['blue', 'red', 'green'], labels=['Both types', 'Multiple', 'Single']) +
-#         gg.scale_linetype_manual(values=['dashed', 'solid', 'dashdot'], labels=['Both types', 'Multiple', 'Single']) +
-#         gg.scale_shape_manual(values=['o', '^', 's'], labels=['Both types', 'Multiple', 'Single']) +
-#         gg.theme_bw() +
-#         gg.labs(x="Year", y='Average years', title='Author level analysis: \nAverage years an author has single vs. multiple affiliations', shape='', color='', linetype='') +
-#         gg.theme(panel_background=gg.element_rect(fill='gray', alpha=.08),legend_position="bottom", legend_direction='horizontal',
-#             axis_text_x=gg.element_text(hjust=0.5, size=10, angle=0),
-#             axis_text_y=gg.element_text(hjust=1, size=10),
-#             axis_title_x=gg.element_text(size=10),
-#             axis_title_y=gg.element_text(size=10),
-#             strip_text_x=gg.element_text(size=8),
-#             plot_title=gg.element_text(ha='left', ma='left', size=12, linespacing=1.25),
-#             figure_size=(6, 6))
-#               +
-#         gg.guides(color=gg.guide_legend(nrow=1), shape=gg.guide_legend(nrow=1), linetype=gg.guide_legend(nrow=1))
-#     )
-
-
-# gg.ggplot.save(plot2save, ojn(paper_data, 'figures', 'author_level_mult_affiliations_avg_years.png'), dpi=500, limitsize=False)
-
-
 
 # ============================
 #### additional analysis and summary tables on multiple affiliation authors ####

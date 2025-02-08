@@ -113,7 +113,7 @@ f.close()
 lg(f"Table exported in: '{args.output[1]}'")
 
 # example author with multiple affiliations in one paper
-exmpl1 = '31967805100'
+exmpl1 = 'AUTHOR-X-ID'
 example_author_exmpl1 = duckdb.sql(f"""select * 
 from '{args.input[0]}' 
 where pubyear > 1995

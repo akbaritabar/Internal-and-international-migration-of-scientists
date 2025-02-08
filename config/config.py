@@ -65,7 +65,7 @@ AUTHORSHIP = ojn(RAW_SCP_DIR, 'scp_rp_2020_authorship_orgs_1st_ROR.parquet')
 AUTHORS_TABLE = ojn(SCP_PROCESSED_DIR, '20241230_scp_rp_2020_authors_table.parquet')
 SOME_OF_AUTHOR_ATTRIBUTES = ojn(SCP_PROCESSED_DIR, '20241230_scp_rp_2020_authors_table_with_discipline.parquet')
 AUTHOR_ATTRIBUTES = ojn(SCP_PROCESSED_DIR, '20241230_scp_rp_2020_authors_with_all_attributes.parquet')
-# files from outside G drive, NOTE, licensed information, not sharable
+# licensed information, not sharable
 SCP_CLASSIFICATIONS = ojn(OUTSIDE_NEXTCLOUD_DIR, 'scp_rp_2020_classifications')
 OECD_FIELDS = ojn(OUTSIDE_NEXTCLOUD_DIR, 'OECD_FIELDS_SCP2020.csv')
 
