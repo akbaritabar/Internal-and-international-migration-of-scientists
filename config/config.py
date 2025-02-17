@@ -18,6 +18,7 @@
 # ===========
 # shortcut for path join function
 from os.path import join as ojn
+from os import getcwd
 
 # ===========
 ## Folders ##
@@ -28,7 +29,7 @@ from os.path import join as ojn
 # PROJECT_DIR = ojn("U:", "nc", "w", "other", "snakemake_DataAnalysis", "subnational_paper_replication")
 # laptop
 # PROJECT_DIR = ojn("C:", "nc", "w", "other", "snakemake_DataAnalysis", "subnational_paper_replication")
-PROJECT_DIR = os.getcwd()
+PROJECT_DIR = getcwd()
 
 INPUTS_DIR = ojn(PROJECT_DIR, 'resources')
 OUTPUTS_DIR = ojn(PROJECT_DIR, 'results')
