@@ -25,21 +25,21 @@ from os import getcwd
 # ===========
 
 # TODO NOTE modify this according to the project folder
-# compute server
-# PROJECT_DIR = ojn("U:", "nc", "w", "other", "snakemake_DataAnalysis", "subnational_paper_replication")
-# laptop
-# PROJECT_DIR = ojn("C:", "nc", "w", "other", "snakemake_DataAnalysis", "subnational_paper_replication")
 PROJECT_DIR = getcwd()
 
+# An if condition to define if scratch drive should be used (during development) or the manuscript's folder (once finalized) to include figures in text
+# TODO NOTE modify this according to the intended results/figures folder
+SCRATCH_DRIVE = [False, True][1]
+
+if SCRATCH_DRIVE:
+    OUTPUTS_DIR = ojn(PROJECT_DIR, 'results')
+else:
+    # MANUSCRIPT FIGURES DIR
+    MANUSCRIPT_DIR = ojn('U:\\', 'nc', 'w', 'mpidr', 'subnational', 'outputs')
+    OUTPUTS_DIR = ojn(MANUSCRIPT_DIR, 'results')
+
 INPUTS_DIR = ojn(PROJECT_DIR, 'resources')
-OUTPUTS_DIR = ojn(PROJECT_DIR, 'results')
 LOGS_DIR = ojn(PROJECT_DIR, 'logs')
-WORKFLOW_DIR = ojn(PROJECT_DIR, 'workflow')
-SRC_DIR = ojn(WORKFLOW_DIR, 'scripts')
-NOTEBOOKS_DIR = ojn(WORKFLOW_DIR, 'notebooks')
-SUB_SNAKEFILES_DIR = ojn(WORKFLOW_DIR, 'rules')
-ENVS_DIR = ojn(WORKFLOW_DIR, 'envs')
-REPORT_DIR = ojn(WORKFLOW_DIR, 'report')
 VIS_DIR = ojn(OUTPUTS_DIR, 'figures')
 TABS_DIR = ojn(OUTPUTS_DIR, 'tables')
 
