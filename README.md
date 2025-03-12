@@ -43,18 +43,16 @@ channels:
   - nodefaults
 dependencies:
 - python 3.*
-- os
 - pandas
 - plotnine
 - argparse
 - geopandas
 - numpy
-- logging
 - mizani # (is installed with plotnine)
 - duckdb
 - tabulate
 - pip:
-  - pycountry_convert # (from Pypi, if gives error, comment out and after installation run "pip install pycountry_convert" in CLI)
+  - pycountry_convert # (from Pypi, if gives error, comment out and after installation run "pip install pycountry_convert" in CLI after you activated the 'subnational' conda environment)
 
 ```
 
