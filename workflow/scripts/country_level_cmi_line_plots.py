@@ -1,4 +1,4 @@
-## File name to use in search: subnational_regions_nmr_line_plots.py ##
+## File name to use in search: country_level_cmi_line_plots.py ##
 
 # Python script that use DuckDB and SQL script for data processing/reshaping
 
@@ -73,7 +73,7 @@ def country_ploting(dt2use=None, code2use='USA', internal_y2plot=None, ylabel2us
     fig2save = (
             gg.ggplot(dt2use) +
             gg.geom_line(gg.aes('year', internal_y2plot), color='blue') +
-            gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8') +
+            gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8', se=False) +
             gg.geom_hline(yintercept=0, linetype="dashed", color = "black") +
             gg.theme_classic() +
             gg.labs(title=country_name2use, x="Year", y=ylabel2use) +

@@ -1,8 +1,9 @@
-## File name to use in search: top_countries_cmi_line_plots_facetted.py ##
+## File name to use in search: top_countries_IN_INT_migration_relative_importance_line_plots_facetted.py ##
 
 # Python script that use DuckDB and SQL script for data processing/reshaping
 
 
+from dpath import merge
 import pandas as pd
 # to visualize
 import plotnine as gg
@@ -72,20 +73,46 @@ list_countries_top_pop = (
 lg(f"Selected countries to plot: '{list_countries_top_pop}'")
 
 
-# add CMI (Crude Migration Intensity) for a region in a year
-data_IN = (
+# add RELATIVE INTERNAL MIGRATION IMPORTANCE for a region in a year
+# inflow importance
+data_IN_inflow_region = (
     data
     [(data['iso_a3'].notnull()) & (data.iso_a3.isin(list_countries_top_pop))]
     .groupby(['country_name', 'iso_a3', 'year'])
-    [['country_name', 'iso_a3', 'year', 'sum_inout_IN', 'y_pop_IN']]
-    .apply(lambda x: (100 * x.sum_inout_IN.sum()) / x.y_pop_IN.sum())
+    [['country_name', 'iso_a3', 'year', 'in_y_flow_INT', 'in_y_flow_IN']]
+    .apply(lambda x: (100 * x.in_y_flow_IN.sum() / (x.in_y_flow_IN.sum() + x.in_y_flow_INT.sum())))
     .reset_index()
-    .rename(columns={0:'cmi_y_internal'})
+    .rename(columns={0:'y_IN_inflow_IMP'})
 )
 
-lg(data_IN[data_IN.iso_a3 == 'USA'].head(n=50))
+lg(data_IN_inflow_region[(data_IN_inflow_region.iso_a3 == 'USA')].head(n=50))
 lg('#'*50)
-lg(data_IN.loc[0])
+lg(data_IN_inflow_region.loc[0])
+
+# outflow importance
+data_IN_outflow_region = (
+    data
+    [(data['iso_a3'].notnull()) & (data.iso_a3.isin(list_countries_top_pop))]
+    .groupby(['country_name', 'iso_a3', 'year'])
+    [['country_name', 'iso_a3', 'year', 'out_y_flow_IN', 'out_y_flow_INT']]
+    .apply(lambda x: (100 * x.out_y_flow_IN.sum() / (x.out_y_flow_IN.sum() + x.out_y_flow_INT.sum())))
+    .reset_index()
+    .rename(columns={0:'y_IN_outflow_IMP'})
+)
+
+lg(data_IN_outflow_region[(data_IN_outflow_region.iso_a3 == 'USA')].head(n=50))
+lg('#'*50)
+lg(data_IN_outflow_region.loc[0])
+
+data_joined = (
+    data_IN_inflow_region
+    .merge(data_IN_outflow_region, on=['country_name', 'iso_a3', 'year'])
+)
+
+lg('#'*50)
+lg(data_joined.loc[0])
+lg('#'*50)
+lg(data_joined[(data_joined.iso_a3 == 'USA')].head(n=50))
 
 
 # ============================
@@ -93,15 +120,17 @@ lg(data_IN.loc[0])
 # ============================
 
 # a function for plots of countries
-def country_ploting(dt2use=None, internal_y2plot=None, ylabel2use=None, ncountry2use=0):
+def country_ploting(dt2use=None, inflow_y2plot=None, outflow_y2plot=None, ylabel2use=None, ncountry2use=0):
 
     fig2save = (
             gg.ggplot(dt2use) +
-            gg.geom_line(gg.aes('year', internal_y2plot), color='blue') +
-            gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8', se=False) +
+            gg.geom_line(gg.aes('year', inflow_y2plot), color='blue') +
+            gg.geom_smooth(gg.aes('year', inflow_y2plot), linetype="dashed", color='#95d4e8', se=False) +
+            gg.geom_line(gg.aes('year', outflow_y2plot), color='red') +
+            gg.geom_smooth(gg.aes('year', outflow_y2plot), linetype="dashed", color='#ffcccb', se=False) +
             gg.geom_hline(yintercept=0, linetype="dashed", color = "black") +
             gg.theme_classic() +
-            gg.labs(title=f"Crude Migration Intensity of the {str(ncountry2use)} largest countries", x="Year", y=ylabel2use) +
+            gg.labs(title=f"Percentage of internal in- and out-flows of the {str(ncountry2use)} largest countries", x="Year", y=ylabel2use) +
             gg.facet_wrap('country_name') +
             gg.theme(panel_background=gg.element_rect(fill='gray', alpha=.1), legend_position="bottom",
                     axis_text_x=gg.element_text(hjust=1, size=10, angle=45),
@@ -116,6 +145,6 @@ def country_ploting(dt2use=None, internal_y2plot=None, ylabel2use=None, ncountry
 
 
 # plot using the provided command line arguments
-country_ploting(dt2use=data_IN, internal_y2plot="cmi_y_internal", ylabel2use="Rate per 100 scholars", ncountry2use=args.ncountry2use)
+country_ploting(dt2use=data_joined, inflow_y2plot="y_IN_inflow_IMP", outflow_y2plot="y_IN_outflow_IMP", ylabel2use="Internal flows as percent of total", ncountry2use=args.ncountry2use)
 
 lg(f"Figure exported in: '{args.output[0]}'")

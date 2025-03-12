@@ -258,5 +258,15 @@ CMI_INTERNAL_LINE_PLOT_MULT_COUNTRIES_LOG = ojn(
     "plt_{ncountry}_cnt_CMI_IN.log"
 )
 
+MIGR_IMPORTANCE_IN_INT_LINE_PLOT_MULT_COUNTRIES = ojn(
+    VIS_DIR,
+    "top_{ncountry}_countries_MIGR_RELATIVE_IMPORTANCE.png"
+)
+MIGR_IMPORTANCE_IN_INT_LINE_PLOT_MULT_COUNTRIES_LOG = ojn(
+    LOGS_DIR,
+    "plt_{ncountry}_MIGR_REL_IMP.log"
+)
+
+
 # aggregated NMR, i.e., ANMR, for 500+ pop countries
 ANMR_REGION_LINE_PLOT_ONE_COUNTRY = ojn(VIS_DIR, 'selected_countries_ANMR_regions_international_internal_plus5000pop_countries.pdf')

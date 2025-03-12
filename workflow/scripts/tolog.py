@@ -1,3 +1,5 @@
+## File name to use in search: tolog.py ##
+
 # ============================
 #### Results log and progress report ####
 # ============================

@@ -28,14 +28,23 @@ rule plot_cmi_line_top_X_countries:
     shell:
         "(python workflow/scripts/top_countries_cmi_line_plots_facetted.py --input {input} --ncountry2use {wildcards.ncountry} --output {output}) 2> {log}"
 
-# # Aggregated NMR line plot (ANMR), for 500+ pop countries
-# rule plot_anmr_lines_in_int_subnational_regions:
-#     input:
-#         MIGRATION_MEASURES
-#     output:
-#         ANMR_REGION_LINE_PLOT_ONE_COUNTRY
-#     log:
-#         'logs/ANMR_REGION_LINE_PLOT_ONE_COUNTRY.log'
-#     shell:
-#         "(python workflow/scripts/subnational_regions_anmr_500plus_line_plots.py --input {input}  --output {output}) 2> {log}"
+# Aggregated NMR line plot (ANMR), for 500+ pop countries
+rule plot_anmr_lines_in_int_subnational_regions:
+    input:
+        MIGRATION_MEASURES
+    output:
+        ANMR_REGION_LINE_PLOT_ONE_COUNTRY
+    log:
+        'logs/ANMR_REGION_LINE_PLOT_ONE_COUNTRY.log'
+    shell:
+        "(python workflow/scripts/subnational_regions_anmr_500plus_line_plots.py --input {input}  --output {output}) 2> {log}"
 
+rule plot_migration_relative_importance_line_top_X_countries:
+    input:
+        MIGRATION_MEASURES
+    output:
+        MIGR_IMPORTANCE_IN_INT_LINE_PLOT_MULT_COUNTRIES
+    log:
+        MIGR_IMPORTANCE_IN_INT_LINE_PLOT_MULT_COUNTRIES_LOG
+    shell:
+        "(python workflow/scripts/top_countries_IN_INT_migration_relative_importance_line_plots_facetted.py --input {input} --ncountry2use {wildcards.ncountry} --output {output}) 2> {log}"

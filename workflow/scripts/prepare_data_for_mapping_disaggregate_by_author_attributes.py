@@ -48,6 +48,9 @@ grid_geonames = pd.read_csv(args.input[0],
 # limit to only regions with GeoNames Admin1 codes
 grid_geonames = grid_geonames[grid_geonames.geonames_admin1_code.notnull()]
 
+# convert GeoNames colum to float
+grid_geonames['geonames_city_id'] = grid_geonames['geonames_city_id'].astype(float)
+
 # read GeoNames data dump to use a "bridging table" to find provinces with different IDs (e.g., in Spain, France, UK, ...)
 # from this URL, keep only needed columns: https://download.geonames.org/export/dump/allCountries.zip
 # geo_download = pd.read_csv('https://download.geonames.org/export/dump/allCountries.zip', delimiter='\t', dtype='str', names=['geonameid','name','asciiname','alternatenames','latitude','longitude','feature_class','feature_code','country_code','cc2','admin1_code','admin2_code','admin3_code','admin4_code','population','elevation','dem','timezone','modification_date'])

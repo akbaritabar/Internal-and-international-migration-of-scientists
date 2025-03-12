@@ -81,9 +81,9 @@ def country_ploting(dt2use=None, code2use='US', size2wrap1=None, size2wrap2=None
                         [(dt2use['region'].notnull()) & (dt2use['region'].str.contains(code2use))]
                         .query('`region` != @region2exclude'))) +
                 gg.geom_line(gg.aes('year', international_y2plot), color='red') +
-                gg.geom_smooth(gg.aes('year', international_y2plot), linetype="dashed", color='#ffcccb') +
+                gg.geom_smooth(gg.aes('year', international_y2plot), linetype="dashed", color='#ffcccb', se=False) +
                 gg.geom_line(gg.aes('year', internal_y2plot), color='blue') +
-                gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8') +
+                gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8', se=False) +
                 gg.geom_hline(yintercept=0, linetype="dashed", color = "black") +
                 gg.theme_classic() +
                 gg.facet_wrap('geonames_admin1_ascii_name') +
@@ -103,9 +103,9 @@ def country_ploting(dt2use=None, code2use='US', size2wrap1=None, size2wrap2=None
                         [(dt2use['region'].notnull()) & (dt2use['region'].str.contains(code2use))]
                         .query('`region` != @region2exclude'))) +
                 gg.geom_line(gg.aes('year', international_y2plot), color='red') +
-                gg.geom_smooth(gg.aes('year', international_y2plot), linetype="dashed", color='#ffcccb') +
+                gg.geom_smooth(gg.aes('year', international_y2plot), linetype="dashed", color='#ffcccb', se=False) +
                 gg.geom_line(gg.aes('year', internal_y2plot), color='blue') +
-                gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8') +
+                gg.geom_smooth(gg.aes('year', internal_y2plot), linetype="dashed", color='#95d4e8', se=False) +
                 gg.geom_hline(yintercept=0, linetype="dashed", color = "black") +
                 gg.theme_classic() +
                 gg.facet_wrap('geonames_admin1_ascii_name', nrow=int(size2wrap1), ncol=int(size2wrap2)) +

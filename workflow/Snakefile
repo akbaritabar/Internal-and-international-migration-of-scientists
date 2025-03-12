@@ -33,8 +33,8 @@ include: "rules/snakefile_prepare_mapping_data.smk"
 include: "rules/snakefile_map_figures.smk"
 # Steps for exporting mapping figures, disaggregated by author attributes
 include: "rules/snakefile_map_figures_all_years_disaggregate_by_author_attributes.smk"
-# Steps for additional NMR and ANMR line plots in SI
-include: "rules/snakefile_nmr_line_plots.smk"
+# Steps for additional NMR, CMI, ANMR etc line plots in SI
+include: "rules/snakefile_line_plots.smk"
 
 # ===========
 ## Main output generation rule ##
@@ -121,6 +121,10 @@ rule all:
         ),
         expand(
             CMI_INTERNAL_LINE_PLOT_MULT_COUNTRIES,
+            ncountry=N_LARGEST_COUNTRIES
+        ),
+        expand(
+            MIGR_IMPORTANCE_IN_INT_LINE_PLOT_MULT_COUNTRIES,
             ncountry=N_LARGEST_COUNTRIES
         ),
         ANMR_REGION_LINE_PLOT_ONE_COUNTRY,

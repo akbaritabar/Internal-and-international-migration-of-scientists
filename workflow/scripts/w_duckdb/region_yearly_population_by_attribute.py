@@ -1,4 +1,4 @@
-## File name to use in search: region_yearly_population_by_acad_age.py ##
+## File name to use in search: region_yearly_population_by_attribute.py ##
 
 # Python script that use DuckDB and SQL script for data processing/reshaping
 

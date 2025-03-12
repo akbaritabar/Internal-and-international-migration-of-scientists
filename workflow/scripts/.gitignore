@@ -1,2 +1,3 @@
 # Ignore nothing here, include all
 !*
+__pycache__/
