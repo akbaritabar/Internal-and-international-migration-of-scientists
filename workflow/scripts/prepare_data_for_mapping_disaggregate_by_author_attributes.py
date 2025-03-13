@@ -193,6 +193,42 @@ mei_INT_IN_TIME_SPAN_region = (
     .rename(columns={0:'mei_INT_IN_sum_region'})
 )
 
+## add RELATIVE INTERNAL MIGRATION IMPORTANCE for a region in a year
+# inflow importance
+data_IN_inflow_region = (
+    mcj_data
+    .groupby(['iso_a3', 'region', DISAGGREGATION_COLUMN])
+    # add grouping columns that will be used in join
+    [['iso_a3', 'region', DISAGGREGATION_COLUMN, 'in_y_flow_INT', 'in_y_flow_IN']]
+    .apply(lambda x: (100 * x.in_y_flow_IN.sum() / (x.in_y_flow_IN.sum() + x.in_y_flow_INT.sum())))
+    .reset_index()
+    .rename(columns={0:'IMP_IN_inflow'})
+)
+
+lg('Importance measures calculated, few rows!')
+lg('#'*50)
+lg(data_IN_inflow_region[(data_IN_inflow_region.iso_a3 == 'USA')].head(n=50))
+lg('#'*50)
+lg(data_IN_inflow_region.loc[0])
+
+# outflow importance
+data_IN_outflow_region = (
+    mcj_data
+    .groupby(['iso_a3', 'region', DISAGGREGATION_COLUMN])
+    # add grouping columns that will be used in join
+    [['iso_a3', 'region', DISAGGREGATION_COLUMN, 'out_y_flow_IN', 'out_y_flow_INT']]
+    .apply(lambda x: (100 * x.out_y_flow_IN.sum() / (x.out_y_flow_IN.sum() + x.out_y_flow_INT.sum())))
+    .reset_index()
+    .rename(columns={0:'IMP_IN_outflow'})
+)
+
+lg('Importance measures calculated, few rows!')
+lg('#'*50)
+lg(data_IN_outflow_region[(data_IN_outflow_region.iso_a3 == 'USA')].head(n=50))
+lg('#'*50)
+lg(data_IN_outflow_region.loc[0])
+
+
 
 # join the results to our data
 mcj_data_joined = (mcj_data
@@ -202,6 +238,8 @@ mcj_data_joined = (mcj_data
             .merge(mei_INT_TIME_SPAN_region, on=['iso_a3', 'region', DISAGGREGATION_COLUMN], how='left')
             .merge(mei_IN_TIME_SPAN_region, on=['iso_a3', 'region', DISAGGREGATION_COLUMN], how='left')
             .merge(mei_INT_IN_TIME_SPAN_region, on=['iso_a3', 'region', DISAGGREGATION_COLUMN], how='left')
+            .merge(data_IN_inflow_region, on=['iso_a3', 'region', DISAGGREGATION_COLUMN], how='left')
+            .merge(data_IN_outflow_region, on=['iso_a3', 'region', DISAGGREGATION_COLUMN], how='left')
 )
 
 lg('Data is joined now!')
@@ -254,7 +292,7 @@ world = world.to_crs("ESRI:54030")
 # sub-national region level and choose latest 2012-2017 years to map
 mcj_data_dedup_region = mcj_data_joined.drop_duplicates(subset=['iso_a3', 'region', DISAGGREGATION_COLUMN]).reset_index()[['region', 'iso_a3', DISAGGREGATION_COLUMN, 'continent_code', 'continent_name','nmr_INT_sum_region',
        'nmr_IN_sum_region', 'nmr_INT_IN_sum_region', 'mei_INT_sum_region',
-       'mei_IN_sum_region', 'mei_INT_IN_sum_region']]
+       'mei_IN_sum_region', 'mei_INT_IN_sum_region', 'IMP_IN_inflow', 'IMP_IN_outflow']]
 
 # add a column "region_for_join" to world_states data that is GeoNamesAdmin1 code OR NUTS1 code and use it to join so that no country is missed
 mcj_data_dedup_region['region_for_join'] = mcj_data_dedup_region['region']

@@ -160,6 +160,23 @@ elif args.MIGRATION_SYSTEM == 'INT' and args.MEASURE_MAPPED == 'MEI':
     else:
         title2use = f"International migration effectiveness per 100 scholars, {years2use}, {title_part}{args.VAR_CATEGORY}"
         titlefontsize = 10
+# IMP (mearuse of migration importance) here
+elif args.MIGRATION_SYSTEM == 'IN' and args.MEASURE_MAPPED == 'INFLOW':
+    column2map = "IMP_IN_inflow"
+    lg(f"Mapping this column: {column2map}")
+    if args.DISAGGREGATION is None:
+        title2use = f"Internal in-flows as percentage of total, {years2use}"
+    else:
+        title2use = f"Internal in-flows as percentage of total, {years2use}, {title_part}{args.VAR_CATEGORY}"
+        titlefontsize = 10
+elif args.MIGRATION_SYSTEM == 'IN' and args.MEASURE_MAPPED == 'OUTFLOW':
+    column2map = "IMP_IN_outflow"
+    lg(f"Mapping this column: {column2map}")
+    if args.DISAGGREGATION is None:
+        title2use = f"Internal out-flows as percentage of total, {years2use}"
+    else:
+        title2use = f"Internal out-flows as percentage of total, {years2use}, {title_part}{args.VAR_CATEGORY}"
+        titlefontsize = 10
 
 
 # check if data has any rows for the disaggregation variable's category or not
@@ -284,8 +301,8 @@ if ~world_states_joined.empty:
         gg.ggplot.save(plot2save, args.output, dpi=500, limitsize=False)
 
 
-    elif args.GEO_REGION == 'WORLD' and args.MEASURE_MAPPED == 'MEI':
-        lg('Theme used WORLD, MEI')
+    elif args.GEO_REGION == 'WORLD' and (args.MEASURE_MAPPED == 'MEI' or args.MEASURE_MAPPED == 'INFLOW' or args.MEASURE_MAPPED == 'OUTFLOW'):
+        lg('Theme used WORLD, MEI or IMP')
 
         # assign colors (from palette defined on top of script: RdYlGn)
         world_states_joined['fill_color2use'] = RdYlGn_4maps[0] # assume missing (NA), gray color
@@ -359,8 +376,8 @@ if ~world_states_joined.empty:
 
         gg.ggplot.save(plot2save, args.output, dpi=500, limitsize=False)
         
-    elif args.GEO_REGION == 'EU' and args.MEASURE_MAPPED == 'MEI':
-        lg('Theme used EU, MEI')
+    elif args.GEO_REGION == 'EU' and (args.MEASURE_MAPPED == 'MEI' or args.MEASURE_MAPPED == 'INFLOW' or args.MEASURE_MAPPED == 'OUTFLOW'):
+        lg('Theme used EU, MEI or IMP')
 
         # assign colors (from palette defined on top of script: RdYlGn)
         world_states_joined['fill_color2use'] = RdYlGn_4maps[0] # assume missing (NA), gray color

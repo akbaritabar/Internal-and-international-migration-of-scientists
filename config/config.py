@@ -101,6 +101,7 @@ GEO_REGION = ['WORLD', 'EU']
 MEASURE_MAPPED = ['NMR', 'MEI']
 MIGRATION_SYSTEM = ['IN', 'INT', 'INTIN']
 DISAGGREGATION = ['PRODUCTIVITY', 'AGE', 'DISCIPLINE']
+IMP_VARS = ['INFLOW', 'OUTFLOW']
 FIG_EXT = ['png', 'pdf'][0] # figure format to save
 
 # author attributes categories to use for disaggregation

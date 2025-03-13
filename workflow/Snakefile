@@ -94,6 +94,14 @@ rule all:
             measure_mapped=MEASURE_MAPPED,
             migration_system=MIGRATION_SYSTEM
         ),
+        # only for measure of migration importance
+        expand(
+            NMR_AND_MEI_MAPS,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=IMP_VARS,
+            migration_system=['IN']
+        ),        
         # additional analysis on multiple affiliation authors etc
         # these are computationally expensive and use DuckDB
         ## NOTE REQUIRES LICENSED SCOPUS DATA, COMMENTED OUT ##
@@ -156,6 +164,37 @@ rule all:
             time_span=TIME_SPAN,
             measure_mapped=MEASURE_MAPPED,
             migration_system=MIGRATION_SYSTEM,
+            disagr_level=DISAGGREGATION[2],
+            disagr_catpair=VAR_CATEGORY_DISC
+        ),
+        # NOTE only for measure of migration importance
+        # PRODUCTIVITY
+        expand(
+            NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=IMP_VARS,
+            migration_system=['IN'],
+            disagr_level=DISAGGREGATION[0],
+            disagr_catpair=VAR_CATEGORY_PROD
+        ),
+        # AGE
+        expand(
+            NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=IMP_VARS,
+            migration_system=['IN'],
+            disagr_level=DISAGGREGATION[1],
+            disagr_catpair=VAR_CATEGORY_AGE
+        ),
+        # DISCIPLINE
+        expand(
+            NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE,
+            geo_region=GEO_REGION,
+            time_span=TIME_SPAN,
+            measure_mapped=IMP_VARS,
+            migration_system=['IN'],
             disagr_level=DISAGGREGATION[2],
             disagr_catpair=VAR_CATEGORY_DISC
         )
