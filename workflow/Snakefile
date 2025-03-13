@@ -159,24 +159,3 @@ rule all:
             disagr_level=DISAGGREGATION[2],
             disagr_catpair=VAR_CATEGORY_DISC
         )
-
-# ============================
-#### For interactive testing/debugging via Notebook but using plain Python scripts ####
-# ============================
-
-# this rule allows opening an interactive jupyter notebook for testing/debugging
-# run with `snakemake --sdm conda --cores 1 --edit-notebook PLOT_NMR_IN_WORLD_TESTING_NOTEBOOK`
-# rule PLOT_NMR_IN_WORLD_TESTING_NOTEBOOK:
-#     input:
-#         rules.prepare_data_for_mapping.output
-#     output:
-#         NMR_IN_WORLD_TESTING
-#     params:
-#         GEO_REGION = GEO_REGION[0],
-#         MEASURE_MAPPED = MEASURE_MAPPED[0],
-#         column2map = 'nmr_INT_IN_sum_region'
-#     log:
-#         notebook="logs/PLOT_NMR_IN_WORLD_TESTING.ipynb"
-#     notebook:
-#         "notebooks/PLOT_NMR_IN_WORLD_TESTING.py.ipynb"
-
