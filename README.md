@@ -36,7 +36,13 @@ These scripts are written by [Aliakbar Akbaritabar](https://github.com/akbaritab
 
 For the reproducible pipeline to recreate the paper's replication data and migration measures, you need to have [SnakeMake](https://snakemake.readthedocs.io/en/stable/index.html) version 8 or above installed. Creating a conda environment with Python 3 (3.11.9 was used here) and the following libraries (for instance by running `conda env create -f requirements.yml` and after copying the following yml code into a file: "requirements.yml") enables reproducing the pipeline by opening CLI, activating the conda environment i.e., `conda activate subnational`, and running a dry-run with `snakemake -np all` or a full reproduction with `snakemake --cores 4 all`.
 
-An HTML report shows the Directed Acyclic Graph (DAG) of the dependency of the steps in the pipeline (rules in SnakeMake lingua) which is accessible [here](https://akbaritabar.github.io/Internal-and-international-migration-of-scientists/). Please note that some of the first rules in data preparation require Scopus data at the individual level, which is licensed, and we cannot share them publicly. Hence, these output files are commented out from the main Snakefile and rule all. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis in the manuscript are included in this repository, which completely complies with the license terms of the data provider. 
+An HTML report shows the Directed Acyclic Graph (DAG) of the dependency of the steps in the pipeline (rules in SnakeMake lingua) which is accessible in [https://akbaritabar.github.io/Internal-and-international-migration-of-scientists/](https://akbaritabar.github.io/Internal-and-international-migration-of-scientists/). Please see below an example of how this DAG looks like. Clicking on a step (rule)'s node opens a sidebar with more information about the input, output, log, and script that is used in that step. An example step (rule) is shown in the second photo below. 
+
+Please note that some of the first rules in data preparation require Scopus data at the individual level, which is licensed, and we cannot share them publicly. Hence, these output files are commented out from the main Snakefile and rule all. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis in the manuscript are included in this repository, which completely complies with the license terms of the data provider. 
+
+![](./_publication_figures/snakemake_demo/Local_repository_structure_with_SnakeMake_example_INPUT_OUTPUT_DAG.PNG)
+
+![](./_publication_figures/snakemake_demo/Local_repository_structure_with_SnakeMake_example_rule_or_step.PNG)
 
 ```yml
 name: subnational
