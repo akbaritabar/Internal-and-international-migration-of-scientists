@@ -53,6 +53,7 @@ channels:
   - nodefaults
 dependencies:
 - python 3.*
+- snakemake
 - pandas
 - plotnine
 - argparse
