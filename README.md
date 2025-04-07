@@ -38,7 +38,11 @@ For the reproducible pipeline to recreate the paper's replication data and migra
 
 An HTML report shows the Directed Acyclic Graph (DAG) of the dependency of the steps in the pipeline (rules in SnakeMake lingua) which is accessible in [https://akbaritabar.github.io/Internal-and-international-migration-of-scientists/](https://akbaritabar.github.io/Internal-and-international-migration-of-scientists/). Please see below an example of how this DAG looks like. Clicking on a step (rule)'s node opens a sidebar with more information about the input, output, log, and script that is used in that step. An example step (rule) is shown in the second photo below. 
 
-Please note that some of the first rules in data preparation require Scopus data at the individual level, which is licensed, and we cannot share them publicly. Hence, these output files are commented out from the main Snakefile and rule all. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis in the manuscript are included in this repository, which completely complies with the license terms of the data provider. 
+Please note that some of the first rules in data preparation require Scopus data at the individual level, which is licensed, and we cannot share them publicly. Hence, these output files are commented out from the main Snakefile and rule all. However, the aggregated data to prepare the migration measures at the subnational level and recreate all our figures and statistical analysis in the manuscript are included in this repository, which completely complies with the license terms of the data provider.
+
+**How to replicate the workflow and exclude all the steps that rely on licensed Scopus data**? 
+
+To ease the replication process, I have added a separate branch called `CodeRelyingOnLicensedDataExcluded`. In this branch, all rules and steps that rely on licensed Scopus data are commented out and excluded so that one could install the requirements as described above and do `snakemake --cores 4 all` to only replicate the figures and tables using the data provided in this repository. Hence, after you clone the repository, do `git checkout branch CodeRelyingOnLicensedDataExcluded` and a dry-run with `snakemake -np all` or a full reproduction with `snakemake --cores 4 all`.
 
 ![](./_publication_figures/snakemake_demo/Local_repository_structure_with_SnakeMake_example_INPUT_OUTPUT_DAG.PNG)
 
@@ -62,6 +66,7 @@ dependencies:
 - mizani # (is installed with plotnine)
 - duckdb
 - tabulate
+- pyarrow
 - pip:
   - pycountry_convert # (from Pypi, if it gave an error, comment it out by adding a pound sign, and after installation, run "pip install pycountry_convert" in CLI after you activated the 'subnational' conda environment)
 
