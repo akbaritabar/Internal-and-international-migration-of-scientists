@@ -8,11 +8,11 @@ This repository includes replication materials, including data, Python, and R sc
 
 **Article title**: Global subnational estimates of migration of scientists reveal large disparities in internal and international flows
 
-**Published in**: `TO-BE-ADDED`
+**Published in**: PNAS (Proceedings of the National Academy of Sciences of the United States of America)
 
 **Manuscript authors**: Aliakbar Akbaritabar, Maciej J. Dańko, Xinyi Zhao, Emilio Zagheni
 
-**Article DOI**: `TO-BE-ADDED`
+**Article DOI**: [https://doi.org/10.1073/pnas.2424521122](https://doi.org/10.1073/pnas.2424521122)
 
 **Replication package DOI on Zenodo**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15047102.svg)](https://doi.org/10.5281/zenodo.15047102)
 
