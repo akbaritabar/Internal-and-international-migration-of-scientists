@@ -62,6 +62,7 @@ dependencies:
 - mizani # (is installed with plotnine)
 - duckdb
 - tabulate
+- pyarrow
 - pip:
   - pycountry_convert # (from Pypi, if it gave an error, comment it out by adding a pound sign, and after installation, run "pip install pycountry_convert" in CLI after you activated the 'subnational' conda environment)
 

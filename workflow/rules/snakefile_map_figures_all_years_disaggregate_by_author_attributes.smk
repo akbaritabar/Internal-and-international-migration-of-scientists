@@ -6,7 +6,8 @@
 
 rule plot_map_NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE:
     input:
-        rules.prepare_data_for_mapping_BY_ATTRIBUTE.output
+        MAPPING_DATA_COUNTRY_BY_ATTRIBUTE,
+        MAPPING_DATA_REGION_BY_ATTRIBUTE
     output:
         NMR_AND_MEI_MAPS_DISAGGREGATED_ATTRIBUTE
     log:

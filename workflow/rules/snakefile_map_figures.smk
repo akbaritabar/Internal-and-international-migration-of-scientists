@@ -6,7 +6,8 @@
 
 rule plot_map_NMR_AND_MEI_MAPS:
     input:
-        rules.prepare_data_for_mapping.output
+        MAPPING_DATA_COUNTRY,
+        MAPPING_DATA_REGION
     output:
         NMR_AND_MEI_MAPS
     log:
